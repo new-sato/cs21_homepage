@@ -9,6 +9,7 @@ const navItems = [
   { href: "/research", label: "Research" },
   { href: "/publication", label: "Publication" },
   { href: "/events", label: "Events" },
+  { href: "/links", label: "Links" },
   { href: "/contact", label: "Contact" },
   { href: "/for_new_students", label: "For new students" },
 ];
