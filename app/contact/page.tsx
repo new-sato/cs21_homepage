@@ -6,7 +6,11 @@ export default function ContactPage() {
       <main className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
         <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">Contact</h2>
         <p className="mt-4 max-w-3xl text-sm leading-7 text-zinc-600 dark:text-zinc-300 sm:text-base">
-          お問い合わせページです。連絡先やアクセス情報、フォーム案内などを掲載できます。
+          所在地：〒657-0026 神戸市灘区六甲台町1-1
+          <br />
+          神戸大学 大学院システム情報学研究科 システム情報学専攻
+          <br />
+          TEL: 078-803-6250 E-mail: www@kaede.cs.kobe-u.ac.jp
         </p>
 		<div className="mx-auto mt-4 w-full max-w-3xl overflow-hidden rounded-xl border border-black/10 dark:border-white/15">
 		<iframe
