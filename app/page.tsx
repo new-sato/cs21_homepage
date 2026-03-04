@@ -1,23 +1,9 @@
 import Image from "next/image";
+import SiteLayout from "./components/SiteLayout";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-background text-foreground font-sans">
-      <header className="border-b border-black/10 dark:border-white/15">
-        <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
-          <h1 className="text-lg font-semibold sm:text-xl">CS21</h1>
-          <nav className="text-sm text-zinc-600 dark:text-zinc-300">
-            <ul className="flex items-center gap-4 sm:gap-6">
-              <li><a href="#" className="hover:text-foreground">Home</a></li>
-              <li><a href="#" className="hover:text-foreground">Member</a></li>
-              <li><a href="#" className="hover:text-foreground">Research</a></li>
-              <li><a href="#" className="hover:text-foreground">Publication</a></li>
-              <li><a href="#" className="hover:text-foreground">Contact</a></li>
-            </ul>
-          </nav>
-        </div>
-      </header>
-
+    <SiteLayout>
       <main className="mx-auto grid w-full max-w-6xl gap-10 px-4 py-10 sm:px-6 sm:py-14 lg:grid-cols-2 lg:items-center lg:gap-16 lg:px-8 lg:py-20">
         <section className="space-y-5 text-center lg:text-left">
           <Image
@@ -74,6 +60,6 @@ export default function Home() {
           </article>
         </section>
       </main>
-    </div>
+    </SiteLayout>
   );
 }
