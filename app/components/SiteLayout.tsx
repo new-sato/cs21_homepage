@@ -10,7 +10,7 @@ const navItems = [
   { href: "/research", label: "Research" },
   { href: "/publication", label: "Publication" },
   { href: "/contact", label: "Contact" },
-  { href: "/fornewstudents", label: "For new students" },
+  { href: "/for_new_students", label: "For new students" },
 ];
 
 export default function SiteLayout({ children }: SiteLayoutProps) {
