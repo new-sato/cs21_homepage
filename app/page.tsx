@@ -14,6 +14,7 @@ export default function Home() {
             height={24}
             priority
           />
+		  [佐藤]
           <h2 className="text-3xl font-bold leading-tight tracking-tight sm:text-4xl lg:text-5xl">
             スマホでもPCでも
             <br className="hidden sm:block" />

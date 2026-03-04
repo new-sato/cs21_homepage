@@ -7,10 +7,10 @@ type SiteLayoutProps = {
 
 const navItems = [
   { href: "/", label: "Home" },
-  { href: "/member", label: "Member" },
   { href: "/research", label: "Research" },
   { href: "/publication", label: "Publication" },
   { href: "/contact", label: "Contact" },
+  { href: "/fornewstudents", label: "For new students" },
 ];
 
 export default function SiteLayout({ children }: SiteLayoutProps) {
@@ -37,11 +37,13 @@ export default function SiteLayout({ children }: SiteLayoutProps) {
 
       <footer className="border-t border-black/10 dark:border-white/15">
         <div className="mx-auto w-full max-w-6xl px-4 py-4 text-center text-xs text-zinc-600 dark:text-zinc-300 sm:px-6 lg:px-8">
-          所在地：〒657-0026 神戸市灘区六甲台町1-1
-          <br />
-          神戸大学 大学院システム情報学研究科 システム情報学専攻
-          <br />
-          TEL: 078-803-6250 E-mail: www@kaede.cs.kobe-u.ac.jp
+          <p>
+            所在地：〒657-0026 神戸市灘区六甲台町1-1
+            <br />
+            神戸大学 大学院システム情報学研究科 システム情報学専攻
+            <br />
+            TEL: 078-803-6250 E-mail: www@kaede.cs.kobe-u.ac.jp
+          </p>
         </div>
       </footer>
     </div>
