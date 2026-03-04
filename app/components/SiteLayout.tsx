@@ -6,7 +6,6 @@ type SiteLayoutProps = {
 };
 
 const navItems = [
-  { href: "/", label: "Home" },
   { href: "/research", label: "Research" },
   { href: "/publication", label: "Publication" },
   { href: "/contact", label: "Contact" },
@@ -18,7 +17,9 @@ export default function SiteLayout({ children }: SiteLayoutProps) {
     <div className="min-h-screen bg-background text-foreground font-sans">
       <header className="border-b border-black/10 dark:border-white/15">
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
-          <h1 className="text-lg font-semibold sm:text-xl">CS21</h1>
+		  <Link href="/" className="text-lg font-semibold sm:text-xl hover:text-foreground">
+			CS21
+		  </Link>
           <nav className="text-sm text-zinc-600 dark:text-zinc-300">
             <ul className="flex items-center gap-4 sm:gap-6">
               {navItems.map((item) => (
