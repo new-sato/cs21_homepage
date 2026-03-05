@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## タイトルの作成方法
+タイトルを作成するときは，以下のようにしてください．
+```
+<SectionTitle level="h1">
+    タイトル
+</SectionTitle>
+```
+
+SectionTitleの定義は`app/components/SectionTitle.tsx`にあります．
+`level`は`h1`から`h3`まで指定できるようにしてあります．
