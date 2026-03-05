@@ -1,12 +1,16 @@
+import SectionTitle from "../components/SectionTitle";
 import SiteLayout from "../components/SiteLayout";
 
 export default function LinksPage() {
   return (
 	<SiteLayout>
 	  <main className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
-		<h3 className="text-3xl font-bold tracking-tight sm:text-4xl">
+	  	<SectionTitle level="h1">
+			Link
+		</SectionTitle>
+		<SectionTitle level="h2">
 		  神戸大学関連
-		</h3>
+		</SectionTitle>
 		<ul className="mt-6 space-y-2">
 			<li>・<a href="https://www.kobe-u.ac.jp/" className="text-blue-600 hover:underline dark:text-blue-400">
 				神戸大学
@@ -25,9 +29,9 @@ export default function LinksPage() {
 			</a></li>
 		</ul>
     <br />
-		<h3 className="text-3xl font-bold tracking-tight sm:text-4xl">
+		<SectionTitle level="h2">
 		  学会関連
-		</h3>
+		</SectionTitle>
 		<ul className="mt-6 space-y-2">
 			<li>・<a href="http://www.iscie.or.jp/" className="text-blue-600 hover:underline dark:text-blue-400">
 				システム制御情報学会
