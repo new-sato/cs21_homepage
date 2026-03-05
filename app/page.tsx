@@ -1,5 +1,6 @@
 import Image from "next/image";
 import SiteLayout from "./components/SiteLayout";
+import SectionTitle from "./components/SectionTitle";
 
 export default function Home() {
   return (
@@ -15,11 +16,11 @@ export default function Home() {
             priority
           />
 		  [佐藤]
-          <h2 className="text-3xl font-bold leading-tight tracking-tight sm:text-4xl lg:text-5xl">
+          <SectionTitle level="h2">
             スマホでもPCでも
             <br className="hidden sm:block" />
             見やすいトップページ
-          </h2>
+          </SectionTitle>
           <p className="mx-auto max-w-xl text-sm leading-7 text-zinc-600 dark:text-zinc-300 sm:text-base lg:mx-0">
             画面幅に応じて余白・文字サイズ・並び順を最適化したレスポンシブレイアウトです。
             小さい画面では縦に、大きい画面では情報を2カラムで表示します。
