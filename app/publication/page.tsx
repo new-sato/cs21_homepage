@@ -3,7 +3,6 @@
 import { useMemo, useState } from "react";
 import SectionTitle from "../components/SectionTitle";
 import SiteLayout from "../components/SiteLayout";
-import styles from "./page.module.css";
 import publications from "./publications.json";
 
 const formatLabels: Record<string, string> = {
@@ -37,49 +36,46 @@ export default function PublicationPage() {
     <SiteLayout>
       <main className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
         <SectionTitle level="h1">Publication</SectionTitle>
-        <p className="mt-4 max-w-3xl text-sm leading-7 text-zinc-600 dark:text-zinc-300 sm:text-base">
-          論文・発表資料・受賞歴などの公開情報ページです。年度別の一覧を配置できます。
-        </p>
-        {/* 下線を引く */}
-        <h1 className={styles.sectionHeading}>研究業績</h1>
         {/* プルダウン */}
-        <div className="mt-4">
-          <label htmlFor="format" className="block text-sm font-medium text-zinc-700 dark:text-zinc-300">
-            形式
-          </label>
-          <select
-            id="format"
-            name="format"
-            value={selectedFormat}
-            onChange={(event) => setSelectedFormat(event.target.value)}
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
-          >
-            <option value="">すべての形式</option>
-            {Object.entries(formatLabels).map(([value, label]) => (
-              <option key={value} value={value}>
-                {label}
-              </option>
-            ))}
-          </select>
-        </div>
-        <div className="mt-4">
-          <label htmlFor="year" className="block text-sm font-medium text-zinc-700 dark:text-zinc-300">
-            年度
-          </label>
-          <select
-            id="year"
-            name="year"
-            value={selectedYear}
-            onChange={(event) => setSelectedYear(event.target.value)}
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
-          >
-            <option value="">すべての年度</option>
-            {yearOptions.map((year) => (
-              <option key={year} value={String(year)}>
-                {year}年度
-              </option>
-            ))}
-          </select>
+        <div className="mt-4 flex flex-col gap-4 sm:flex-row sm:items-end">
+          <div className="inline-flex flex-col">
+            <label htmlFor="format">
+              形式
+            </label>
+            <select
+              id="format"
+              name="format"
+              value={selectedFormat}
+              onChange={(event) => setSelectedFormat(event.target.value)}
+              className="mt-1 w-fit min-w-[11rem] rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
+            >
+              <option value="">すべての形式</option>
+              {Object.entries(formatLabels).map(([value, label]) => (
+                <option key={value} value={value}>
+                  {label}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="inline-flex flex-col">
+            <label htmlFor="year">
+              年度
+            </label>
+            <select
+              id="year"
+              name="year"
+              value={selectedYear}
+              onChange={(event) => setSelectedYear(event.target.value)}
+              className="mt-1 w-fit min-w-[11rem] rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
+            >
+              <option value="">すべての年度</option>
+              {yearOptions.map((year) => (
+                <option key={year} value={String(year)}>
+                  {year}年度
+                </option>
+              ))}
+            </select>
+          </div>
         </div>
 
         <section className="mt-8">
@@ -87,7 +83,7 @@ export default function PublicationPage() {
           {filteredPublications.length === 0 ? (
             <p className="mt-3 text-sm text-zinc-600 dark:text-zinc-300">条件に一致する業績はありません。</p>
           ) : (
-            <ul className="mt-4 space-y-3">
+            <ul className="mt-4 grid gap-3 lg:grid-cols-2">
               {filteredPublications.map((publication) => (
                 <li key={publication.id} className="rounded-xl border border-black/10 p-4 dark:border-white/15">
                   <p className="text-base font-semibold">{publication.title}</p>
