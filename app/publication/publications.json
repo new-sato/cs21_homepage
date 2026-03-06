@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pub-001",
+    "title": "大規模グラフに対する高速探索アルゴリズム",
+    "authors": "山田 太郎, 佐藤 花子",
+    "year": 2024,
+    "format": "paper",
+    "venue": "情報処理学会論文誌"
+  },
+  {
+    "id": "pub-002",
+    "title": "学内ネットワーク運用に関する年次報告",
+    "authors": "佐藤 花子",
+    "year": 2024,
+    "format": "report",
+    "venue": "CS21 テクニカルレポート"
+  },
+  {
+    "id": "pub-003",
+    "title": "現代計算機科学入門",
+    "authors": "佐藤 花子, 鈴木 一郎",
+    "year": 2023,
+    "format": "book",
+    "venue": "CS出版"
+  },
+  {
+    "id": "pub-004",
+    "title": "競技プログラミング教育の実践事例",
+    "authors": "鈴木 一郎",
+    "year": 2023,
+    "format": "presentation",
+    "venue": "教育工学シンポジウム"
+  },
+  {
+    "id": "pub-005",
+    "title": "組合せ最適化問題に対する近似手法の研究",
+    "authors": "山田 太郎",
+    "year": 2022,
+    "format": "doctor-thesis",
+    "venue": "博士論文"
+  },
+  {
+    "id": "pub-006",
+    "title": "分散処理基盤における負荷分散手法",
+    "authors": "高橋 次郎",
+    "year": 2022,
+    "format": "master-thesis",
+    "venue": "修士論文"
+  },
+  {
+    "id": "pub-007",
+    "title": "教育用WebアプリケーションのUI改善",
+    "authors": "田中 三郎",
+    "year": 2024,
+    "format": "bachelor-thesis",
+    "venue": "卒業論文"
+  },
+  {
+	  "id": "pub-008",
+	  "title": "離散最適化における局所探索の改良",
+	  "authors": "佐藤 花子",
+	  "year": 2023,
+	  "format": "paper",
+	  "venue": "人工知能学会全国大会"
+	},
+	{
+	  "id": "pub-009",
+	  "title": "教育用WebアプリケーションのUI改善",
+	  "authors": "田中 三郎",
+	  "year": 1990,
+	  "format": "bachelor-thesis",
+	  "venue": "卒業論文"
+	}
+]
