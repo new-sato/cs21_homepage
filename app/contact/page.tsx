@@ -16,7 +16,7 @@ export default function ContactPage() {
 		<div className="mx-auto mt-4 w-full max-w-3xl overflow-hidden rounded-xl border border-black/10 dark:border-white/15">
 		<iframe
 			title="神戸大学 六甲台キャンパス周辺地図"
-			src="https://www.google.com/maps?q=%E3%80%92657-0026%20%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%85%AD%E7%94%B2%E5%8F%B0%E7%94%BA1-1&output=embed"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.1894156402323!2d135.236112!3d34.72561960000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008d8c36df8021%3A0x4f3680e09eacbee6!2z56We5oi45aSn5a2m5aSn5a2m6Zmi44K344K544OG44Og5oOF5aCx5a2m56CU56m256eR!5e0!3m2!1sja!2sjp!4v1772779574218!5m2!1sja!2sjp"
 			className="h-64 w-full sm:h-80"
 			loading="lazy"
 			referrerPolicy="no-referrer-when-downgrade"
