@@ -45,10 +45,10 @@ export default function SiteLayout({ children }: SiteLayoutProps) {
       <header className="border-b border-black/10 dark:border-white/15">
         <div className="mx-auto flex min-h-[72px] w-full max-w-6xl items-center justify-between px-4 py-4">
           <Link href="/" className="text-lg font-semibold hover:text-foreground">
-            CS21
+            <img src="/components/logo.svg" alt="CS21 Logo" className="h-13 w-56 object-cover" />
           </Link>
 
-          <nav className="text-sm text-zinc-600 dark:text-zinc-300 max-[550px]:hidden">
+          <nav className="text-sm text-zinc-600 dark:text-zinc-300 max-[800px]:hidden">
             <ul className="flex items-center gap-4">
               {navItems.map((item) => (
                 <li key={item.href}>
@@ -65,7 +65,7 @@ export default function SiteLayout({ children }: SiteLayoutProps) {
             aria-label="Open navigation menu"
             aria-expanded={isMenuOpen}
             onClick={() => setIsMenuOpen(true)}
-            className="hidden rounded-md p-2 text-zinc-700 transition hover:bg-black/5 hover:text-foreground dark:text-zinc-200 dark:hover:bg-white/10 max-[550px]:inline-flex"
+            className="hidden rounded-md p-2 text-zinc-700 transition hover:bg-black/5 hover:text-foreground dark:text-zinc-200 dark:hover:bg-white/10 max-[800px]:inline-flex"
           >
             <svg viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
               <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
@@ -75,15 +75,15 @@ export default function SiteLayout({ children }: SiteLayoutProps) {
       </header>
 
       <div
-        className={`fixed inset-0 z-40 bg-black/40 transition-opacity duration-300 max-[550px]:block ${
+        className={`fixed inset-0 z-40 bg-black/40 transition-opacity duration-300 max-[800px]:block ${
           isMenuOpen ? "opacity-100" : "pointer-events-none opacity-0"
-        } min-[551px]:hidden`}
+        } min-[801px]:hidden`}
         onClick={closeMenu}
         aria-hidden={!isMenuOpen}
       />
 
       <nav
-        className={`fixed right-0 top-0 z-50 h-full w-72 max-w-[85vw] overflow-y-auto bg-background px-6 py-6 shadow-xl transition-transform duration-300 ease-out min-[551px]:hidden ${
+        className={`fixed right-0 top-0 z-50 h-full w-72 max-w-[85vw] overflow-y-auto bg-background px-6 py-6 shadow-xl transition-transform duration-300 ease-out min-[801px]:hidden ${
           isMenuOpen ? "translate-x-0" : "translate-x-full"
         }`}
         aria-label="Mobile navigation"
