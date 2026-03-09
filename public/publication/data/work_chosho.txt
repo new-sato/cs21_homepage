@@ -1,0 +1,108 @@
+2022
+T. Kaihara, H. Kita, S. Takahashi, M. Funabashi, Innovative Systems Approach for Facilitating Smarter World Editors, Springer, pp.1-27 (2023.3)
+2020
+
+Toshiya Kaihara, Hajime Kita*, Shingo Takahashi*, Innovative Systems Approach for Designing Smarter World, Springer, 180pages（2020.9）
+
+2017
+
+Toshiya Kaihara, Daisuke Kokuryo, Shota Suginouchi and Swee Kuik，Value Co-creative Manufacturing Methodology with IoT-Based Smart Factory for Mass Customisation，Reconstruction of the Public Sphere in the Socially Mediated Age, Chapter9, pp.165-180（2017）
+
+2014
+
+Kaihara Toshiya, *Miura Toshiharu, *Nonaka Youichi,Integrated Maintenance System Trend and a Maintenance Scheduling System Application,Through-life Engineering Services: Motivation,Theory and Practice，Springer International Publishing (2014)
+
+2013
+
+貝原俊也（共著），電気学会125年史（1888－2013），電気学会，2章-2, 4章-1（2013.10）
+
+2012
+
+藤井 信忠（共著），サービス工学 － 51の技術と実践 －，朝倉書店（2012.11）
+
+2011
+
+貝原俊也、谷水義隆、西竜志　共著，企業間の戦略的提携　―　マルチエージェント交渉による次世代SCM　（サプライチェーンマネジメント講座　4　　朝倉書店）(2011.9)
+
+2009
+
+貝原俊也 （共著）,社会人が学ぶ生産システム・生産管理　-2.生産管理・情報システム編-, (財)神戸市産業振興財団 (2010.1.26)
+
+2007
+
+貝原俊也, 2-1節　「市場指向プログラミング(MOP)と最適化」, 相吉英太郎，安田恵一郎 編著：「メタヒューリスティクスと応用」，(社)電気学会 (2007.10)
+
+貝原俊也　（共著）, 生産スケジューリングの開発技術，「機械工学　最近の10年のあゆみ」, (社)日本機械学会（創立110周年記念出版物），丸善, 第3部，pp.137-138 (2007.8)
+
+貝原俊也 （共著）,ソフトコンピューティングと産業システムデザインへの応用, 電気学会技術報告書1087号, (社)電気学会（CD-ROM）(2007.5)
+
+Toshiya Kaihara and Susumu Fujii, A Study on Virtual Market for Pareto Optimal Mediation, Developments on Experimental Economics, Lecture notes in Economics and Mathematical Systems, Springer-Verlag, Berlin (2007)
+
+2006
+
+Toshiya Kaihara, Susumu Fujii and Kentaro Sashio, A proposal of distributed virtual factory for collaborative production management, Collaborative Product Design & Manufacturing Methodologies and Applications (W. D. Li, S. K. Ong, A. Y. C. Nee and C. A. McMahon Eds.), Springer Series in Advanced Mnufacturing, Springer-Verlag, London, Chapter 13, pp.297-314, ISBN 978-1-84628-801-2 (2007.1)
+
+貝原俊也　（共著）,  「複雑系としての情報システム」，複雑系叢書第四巻（全７巻）, 早稲田大学複雑系高等学術研究書編，共立出版（組織化された複雑系システムの動特性解析～人工市場を対象に）pp.141-180 (2006.8)
+
+Toshiya Kaihara, Multi-agent based Supply Chain Modelling with Dynamic Environment, Multiagent -based Supply Chain Management, Brahim Chaib-draa and Jorg P Muller Eds., Studies in Computational Intelligence(SCI) Series 28, Springer, Berlin Heidelberg, pp.203-215, ISSN 1860-949X (2006.8)
+
+2005
+
+Toshiya Kaihara, Susumu Fujii，Virtual Enterprise Coalition Strategy with Game Theoretic Multiagent Paradigm，Virtual Enterprise Integration ― Technological and Organizational Perspectives, IDEA GROUP PUBLISHING，p.263-281（2005）
+
+2004
+
+貝原俊也 編著，オペレーションズ・リサーチ  -システムマネジメントの科学-，オーム社（2004.12）
+
+2002
+
+貝原俊也，他13名， 経営情報，有斐閣，(2003.2)
+
+共著（貝原俊也，他）， 初級シスアド必須合格用語，秀和システム，(2002.8)
+
+藤井　進， 物流の計画と管理，鉄鋼便覧（第4版）　CD-ROM，CD-ROM　No.3,７巻，11章3節，(2002.7)
+
+共著（貝原俊也，他）， 初級シスアド過去問必須パターン330，角川書店，(2002.4)
+
+2001
+
+社団法人日本経営工学会編（藤井進，他）， 生産管理用語辞典，財団法人日本規格協会，(2002.3)
+
+共著（貝原俊也，他）， 初級シスアド過去問800，秀和システム，(2001.11)
+
+共著（貝原俊也，他）， シスアド・基本情報処理技術者用語辞典，高橋書店，(2001.8)
+
+共著（貝原俊也，他）， 初級シスアド～独習テキスト＆問題集，角川書店，(2001.8)
+
+2000
+
+森戸晋*、相澤りえ子*、貝原俊也， <改訂版> Visual SLAMによるシステムシミュレーション，共立出版，(2001.3)
+
+共著（貝原俊也，他）， 合格シスアド，シスワードパズル，ソシム株式会社，(2000.12)共著（貝原俊也，他）， システムアドミニストレータ・逆引き情報処理2500，ソフトバンクパブリッシング，(2000.6)
+
+共著（貝原俊也，他）， 「システムアドミニストレータ・スタートノート」基礎編II，ソフトバンクパブリッシング，(2000.6)
+
+岡本　正昭，藤井　進， 日本語頻度分布ー複雑系のフラクタル成長，ＯＲ事典2000　－　事例編，Ａ－１１－１，pp.4176-4185，(2000.5)
+
+熊本 悦子, 藤井 進， 放射線治療計画の数理的取り扱い，ＯＲ事典2000－事例編，Ｂ－２－２，pp.1017-1026，(2000.5)
+
+水野幸男＊，藤井　進，他， OR事典2000　用語編 (スケジューリング)，日本オペレーションズ・リサーチ学会，(2000.5)
+
+1999
+
+共著（貝原俊也，他）， EUC要点ノートPart I，ソシム株式会社，(2000.3)
+
+共著（貝原俊也，他）， シスアド・情報処理用語2200，オーエス出版社，(2000.2)
+
+1998
+
+森戸晋*、相澤りえ子*、貝原俊也， Visual SLAMによるシステムシミュレーション，共立出版，(1998.4)
+
+1996
+
+Norio Okino,HiroyukiTamura,Susumu Fujii， Advances in Production Management Systems perspectives and future challenges，CHAPMAN＆HALL，(1996.0
+
+1993
+
+貝原俊也、武内景治、今井弘志， 生産システム・シミュレータ自動生成環境，SLAMIIによるシステム・シミュレーション入門（改訂版），(1993.7)
+

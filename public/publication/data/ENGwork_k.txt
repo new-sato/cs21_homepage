@@ -1,0 +1,856 @@
+2024
+N.Kambe, T.Kaihara, D.Kokuryo, Policy making support for smart wellness city with multi-scale social simulation, Japan Society of Mechanical Engineers Manufacturing System Division2025, pp.18-26（2025.03）
+T.Iguchi, T.Kaihara, D.Kokuryo, A Proposal for a Behavior Choice Model to Promote Circulation Behavior in Walkable City, Japan Society of Mechanical Engineers Manufacturing System Division2025, pp.346-346（2025.03）
+R.Yamada, T.Kaihara, D.Kokuryo, A proposal of supporting planning model of local community policy planning for enhancing disaster prevention capabilities, Japan Society of Mechanical Engineers Manufacturing System Division2025, pp.347-347（2025.03）
+K.Okamoto, T.Kaihara, D.Kokuryo, Tourist Behavior Evaluation with Agent-Based Simulation, Japan Society of Mechanical Engineers Manufacturing System Division2025, pp.361-361（2025.03）
+D.Hirano, T.Kaihara, D.Kokuryo, Conceptual Framework for Implementing a Ride-Sharing System Model Considering Psychological Resistance to Adoption, Japan Society of Mechanical Engineers Manufacturing System Division2025, pp.362-362（2025.03）
+Toshiya Kaihara, Daisuke Kokuryo, Ayumu Nagasawa, Fumiya Yamamoto, Kazuhiro Oka, Akiko Kase, Evaluation of event prediction operation for Self-Propelled Modular Transporter using in-plant logistics simulation, The Japan Society of Mechanical Engineers Manufacturing System Division2025, p.27-30（2025.03）
+Araki Kawamura, Toshiya Kaihara, Daisuke Kokuryo, Houei Mizuhara, Toyohiro Umeda, Hideo Ikeda, Akihisa Horio, A proposal for a closed-loop production planning method to deal with demand uncertainty and carbon emission reduction, The Japan Society of Mechanical Engineers Manufacturing System Division2025, p.85-90（2025.03）
+Takuma Ogawa, Toshiya Kaihara, Daisuke Kokuryo, Kenichi Harada, Yasuhiro Nomura, Production scheduling using optimization method and dynamic pegging to achieve mass customization, The Japan Society of Mechanical Engineers Manufacturing System Division2025, p.100-105（2025.03）
+Toshiya Kaihara, Daisuke Kokuryo, Masahiko Ibuki, Akiko Kase, Kazuhiro Oka, Fumiya Yamamoto, A proposal of Manufacturing System Simulation-based Estimation Method, The Japan Society of Mechanical Engineers Manufacturing System Division2025, p.106-111（2025.03）
+Sota Harada, Daisuke Kokuryo, Toshiya Kaihara, An Examination of Migration Strategy for Maintaining Diversity in Multi-objective Discrete ABC Algrithm, 2024 Institute of Systems, Control and Information Engineers Symposium, p.70-71（2025.01） 
+T. Kaihara, H.Suwa and T.Watanabe, Flexible Automation, The15th Transdisciplinary Federation of Science and Technology, E-3-2（2024.12）
+T.Ogawa, T. Kaihara, D.Kokuryo, K.Harano and Y.Noumura, A proposal of dynamic scheduling method in a mixed Make-to-Stock and Make-to-Order production Environment to achieve mass customization, The 64th Japan Joint Automatic Control Conference, pp.221-226（2024.11）
+A.Kawamura, T.Kaihara, D.Kokuryo, H.Mizuhara, T.Umeda, H Ikeda, A.Horio, A proposal of closed-loop manufacturing planning method with robust optimization considering customer demand uncertainty, The 64th Japan Joint Automatic Control Conference, pp. 227-234（2024.11）
+M.Ibuki, T.Kaihara, D.Kokuryo, A.Kase, K.Oka and F.Yamamoto, A Proposal of Manufacturing Data Estimation Method for Virtual Design of Production Lines -Lead Time Estimation by Backward/Forward Simulation-, The 64th Japan Joint Automatic Control Conference, pp. 237-242（2024.11）
+T.Yabui, D.Kokuryo, T.Kaihara, E.Kumamoto, A Proposal for Improving the Accuracy of Non-Invasive Magnetic Resonance Thermometry Using Image Filtering, The 64th Japan Joint Automatic Control Conference, pp. 974-978（2024.11）
+平野大智，貝原俊也，國領大介，ABSSを用いたステークホルダ間の関係性を考慮したライドシェア制度設計手法の一検討，計測自動制御学会システム・情報部門学術講演会2024（SSI2024），pp.427-439（2024.11）
+神部尚樹，貝原俊也，國領大介，マルチスケール社会シミュレーションを用いた健康都市政策の意思決定支援～政策立案のためのミクロ・マクロ連携モデルの有効性評価～，計測自動制御学会システム・情報部門学術講演会2024（SSI2024），pp.430-435（2024.11）
+貝原俊也，寺野隆雄，喜多一，社会共創デザインのためのデジタル社会実験基盤技術，計測自動制御学会システム・情報部門学術講演2024（SSI2024）pp. 394-397（2024.11）
+塚川景介，國領大介，貝原俊也，熊本悦子，Radiomics特微量を適用したセルオートマトンモデルに基づく腫瘍領域の時間発展予測手法の一提案，生体医工学シンポジウム2024，pp.213-213/H-19（2024.09）
+R. Yamada, T. Kaihara, D. Kokuryo, A Proposal of ABSS Model to Evaluate Local Community Revitalizatio for Improving Disaster Prevention Capabilities, 第36回社会システム部会研究会（SICE社会システム部），1C03 （2024.09）
+D. Hirano, T. Kaihara and D. Kokuryo, A Proposal of Design Method for Ride-Sharing System using ABSS Considering Regional Characteristics, 第36回社会システム部会研究会（SICE社会システム部），2D04（2024.09）
+N. Kambe, T. Kaihara and D. Kokuryo, Policy making support for regional revitalization using multi-scale social simulation -Linking between municipal fiscal macro-model and citizen walking micro-model- , 第36回社会システム部会研究会（SICE社会システム部），1B01（2024.09）
+Toshiya Kaihara, SPD (Societal Prototyping Design): Digital social experimentation platform to enable human-centered societal co-creative design, International Conference on Management in Emerging Markets (ICMEM) 2024 （2024.08）
+小川巧真，貝原俊也，國領大介，原野健一，野村泰弘，見込・受注生産混在環境下でのマスカスタマイゼーション実現に向けた動的スケジューリング手法の一提案，精密工学会2024年度関西地方定期学術講演会，pp.10-11 （2024.06）
+貝原俊也，國領大介，伊吹誠彦，加瀬明子，岡一廣，山本郁弥，生産ライン仮想設計のための製造データ推定手法の一提案，精密工学会2024年度関西地方定期学術講演会，pp.12-13（2024.06）
+Asahi Michishita, Nobutada Fujii, Shunsuke Watanabe, Takehide Sou, Daisuke Kokuryo, Toshiya Kaihara, Ruriko Watanabe, Shinichi Tanaka, A study on improving visitor circulation using combinatorial auctions, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp.293-294 （2024.05）
+D.Kokuryo, T.Kaihara and K.Kurimoto, Characteristic Evaluation of Long-term Resource Allocation Method using Combinatorial Double Auction for Crowd Sourced Manufacturing, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp.373-377（2024.05）
+K.Tsukagawa, D.Kokuryo, T.Kaihara and E.Kumamoto, A proposal of temporal evolution prediction method of cancer regions based on cellular automate model using MR image, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp.399-404（2024.05）
+A.Kawamura, T.Kaihara, D.Kokuryo, H.Mizuhara, T.Umeda, H.Ikeda, A study on a production planning method using advance demand information with demand uncertainty - consideration of external warehouse constraints-, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp.701-706（2024.05）
+T.Kaihara, Current status and future of JST MIRAI Program “Societal Prototyping Design” Project, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp. 818-822（2024.05）
+R.Yamaguchi, N.Fujii, S.Watanabe, G.Soh, D.Kokuryo, T.Kaihara, R.Watanabe, Y.Tsunami, Automatic wood measurement using image processing for multiple wood cross-section image, 68th Society of Systems, Control and Information Engineers Research Presentation Lecture（SCI’24），pp. 1149-1151（2024.05）
+2023
+Satoshi Nagahara, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Toward data-driven and multi-scale modeling for production system simulation : Comparison of modeling methods, The Japan Society of Mechanical Engineers Manufacturing System Division2024，pp.224-229（2024.03）
+Daiki Nagata, Toshiya Kaihara, Daisuke Kokuryo, Toyohiro Umeda, Houei Mizuhara,Job shop scheduling using particle swarm optimization combined with stochastic PERT, The Japan Society of Mechanical Engineers Manufacturing System Division2024, pp.96-101（2024.03）
+Hibiki Kobayashi, Toshiya Kaihara, Daisuke Kokuryo, Rina Tanaka, Masashi Hara, Yuto Miyachi, Puchit Sariddichainunta, A study on supply chain network planning with resilience - Toward optimality and computational efficiency -， The Japan Society of Mechanical Engineers Manufacturing System Division2024，pp.96-101（2024.03）
+岡田浩一，貝原俊也，國領大介，公共交通を基点としたシステム間連携による社会的価値創出に向けて-地方自治体における課題の整理とその可視化-，計測自動制御学会システム・情報部門学術講演会2023（SSI2023）（2023.11）
+貝原俊也，國領大介，山野上恵，原野健一，野村泰弘，仮想コミュニティが歩行運動習慣の獲得に与える効果の可視化と解析，計測自動制御学会システム・情報部門学術講演会2023（SSI2023）（2023.11）
+神部尚樹，貝原俊也，國領大介，社会シミュレーションを用いた地方都市活性化政策に対する意思決定支援に関する研究～システムダイナミクスによる健康づくり政策の因果分析～，計測自動制御学会システム・情報部門学術講演会2023（SSI2023）（2023.11）
+木村和真，藤井信忠，渡邉俊介，國領大介，貝原俊也，渡邉るりこ，多田暁，中村隆之，駐車場利用実態分析のためのセグメンテーションを用いた駐車状況可視化手法，計測自動制御学会システム・情報部門学術講演会2023（SSI2023）（2023.11）
+山口凌央，渡邉るりこ，渡邉俊介，藤井信忠，國領大介，貝原俊也，角南泰弘，木材流通における作業効率化のための画像処理を用いた木材最小径計測手法に関する研究，計測自動制御学会システム・情報部門学術講演会2023（SSI2023）（2023.11）
+Daisuke Kokuryo, Junki Sakuta, Chika Sato, Nobuhiro Nitta, Takashi Itahashi, Shigeyoshi Saito, Noriaki Yahata, Takayuki Obata, Toshiya Kaihara, Etsuko Kumamoto, A Proposal of Simultaneous Estimation Method of Multiple Quantitative Parameters using MR Simulation Technique, The 51st Annual Meeting of the Japanese Society for Magnetic Resonance in Medicine, PS08-6, pp. 328-328（2023.09）
+貝原 俊也，価値創造によるスマートものづくりとDX，2023年度精密工学会秋季大会学術講演会，J25_pp.784-785（2023.09）
+H Takizawa, R Watanabe, S Watanabe, N Fujii, D Kokuryo, T Kaihara, Y Fujioka and T Imafuku, Research on regional revitalization using parking lot usage history -An approach using a store recommendation system based on Bayesian networks-, 2023 Japan Society for Precision Engineering Fall Conference Academic Lecture, J28_pp.788-789（2023.09）
+舟橋慧人，渡邉るりこ，渡邉俊介，藤井信忠，國領大介，貝原俊也，チェーン工場を対象とした多品種生産スケジュール手法，2023年度精密工学会秋季大会学術講演会，J36_pp.799-800（2023.09）
+Daisuke Kokuryo, Toshiya Kaihara, Nobutada Fujii, Toru Murakami, Toyohiro Umeda, Hoei Mizuhara, Characteristic Evaluation of Multi-Objective Production Scheduling Method Considering Factory Load Adjustment, Scheduling Symposium 2023, pp.94-99（2023.09）
+國領　大介，臨床・前臨床MRIによる温熱治療支援技術開発，日本ハイパーサーミア学会第40会大会，pp. 055-055（2023.09）
+國領 大介，仲川　侑介，貝原　俊也，熊本　悦子，圧縮センシングを適用した磁気共鳴画像を用いた加温位置追尾精度の検討，日本ハイパーサーミア学会第40会大会，pp. 098-098（2023.09）
+永田大貴，貝原俊也，國領大介，梅田豊裕，水原宝英，処理時間の不確実性を考慮した作業者配置を含むジョブショップスケジューリング手法に関する研究，2023年度関西地方定期学術講演会，2-B, pp.4-5（2023.06）
+小林響生，貝原俊也，國領大介，田中里奈，原昌史，宮地優斗，サリッディチャイナンター プーチット，二段階確率計画法を用いた資材調達先選定と在庫水準決定によるサプライチェーンネットワーク設計手法の強靭性評価，2023年度関西地方定期学術講演会，2-B, pp.6-7（2023.06）
+西川綾乃，貝原俊也，國領大介，余剰電力と電力コスト削減のための二段階確率計画法による電力運用最適化手法の特性解析，2023年度関西地方定期学術講演会，4-B, pp.8-9（2023.06）
+D.Nagata, T.Kaihara, N.Fujii, D.Kokuryo, R.Watanabe, T.Umeda, H.Mizuhara, Evaluations for job shop scheduling method with worker assignment considering processing time uncertainty, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.146-151（2023.05）
+Hibiki Kobayashi, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Ruriko Watanabe, Rina Tanaka, Masashi Hara, Yuto Miyachi, Puchit Sariddichainunta, A study on supply chain network with resilience - A proposal of calculation method using scenario sampling - , Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.311-315（2023.05）
+T.Kaihara, D.Kokuryo, N.Fujii, R.Watanabe, A.Nishikawa, A Proposal of Optimal Power Usage Planning with Uncertainty for Utilizing Surplus Electric Power, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.400-404（2023.05）
+K.Kimura, N.Fujii, R.Watanabe, D.Kokuryo, T.Kaihara, A.Tada, T.Nakamura, Research on a method for analyzing parking lot usage using video information, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.408-411（2023.05）
+D.Kokuryo, J.Sakuta, T.Kaihara, N.Fujii, R.Watanabe, E.Kumamoto, Improvement of Estimation Method of Tissue Quantitative Values using Magnetic Resonance Simulation, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.549-551（2023.05）
+K.Shiraishi, D.Kokuryo, T.Kaihara, N.Fujii, R.Watanabe, E.Kumamoto, A proposal of prediction method of intrahepatic vessels displacement using movement information, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.574-578（2023.05）
+T.Kaihara, Invitation to JST MIRAI Program “Societal Prototyping Design” Project, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.809-813（2023.05）
+R.Yamaguchi, R.Watanabe, N.Fujii, D.Kokuryo, T.Kaihara, Y.Sunami, Automatic measurement of wood minimum diameter by image processing, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE)，pp.934-936（2023.05）
+2022
+岸本拓也，藤井信忠，渡邉るりこ，國領大介，貝原俊也，中野伸一，西口真嗣，農作物病害診断のための遺伝的アルゴリズムを用いた畳み込みオートエンコーダの構造最適化手法に関する研究，2023年度精密工学会春季大会学術講演会，A18，pp. 19-20（2023.03）
+Hayate Ohmoto, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Ruriko Watanabe, A study on simultaneous optimization method for production and transportation scheduling with Lagrangian decomposition and coordination method ~Towards improving the duality gap~, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.45-50（2023.03）
+Shinsuke Tsustui, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Ruriko Watanabe, Kenichi Harano, Yasuhiro Nomura, A study on production scheduling method considering demand fluctuation for mass customization, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.89-94（2023.03）
+Daiki Nagata, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Ruriko Watanabe, A proposal for job shop scheduling optimization method with worker assignment considering processing time uncertainty, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.116-121（2023.03）
+Moe ENDO, Aoi SATO, Harumi HARAGUCHI, Toshiya KAIHARA, Nobutada FUJII, Daisuke KOKURYO, A study on validation of operator assignment through assembly experiments in cell manufacturing, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.122-127（2023.03）
+Hibiki Kobayashi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Ruriko Watanabe, Rina Tanaka, Masashi Hara, Yuto Miyachi, Puchit Sariddichainunta, A study on supply shain network with resilience -Evaluation of suppliers selection and appropriate inventory level- ，The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.145-150（2023.03）
+Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Ruriko Watanabe, Ayano Nishikawa, A proposal of Power Operation Planning considering Renewable Energy and Electric Power Demand Fluctuations, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.241-246（2023.03）
+Kensuke Kurimoto, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Ruriko Watanabe, A Proposal of Resource Allocation Method Using Combinatorial Double Auction with Long-term Profits for CrowdSourced Manufacturing, The Japan Society of Mechanical Engineers Manufacturing System Division 2023, pp.247-252（2023.03）
+G.Shimizu, T.Kaihara, D.Kokuryo, N.Fujii and R.Watanabe, A proposal for mulgti-scale modeling in social systems by integrating models based on relationships among decision-makers, 第31回社会システム部会研究会（SICE社会システム部），pp.7-14（2023.03）
+T.Kaihara, N.Fujii, D.Kokuryo, R.Watanabe and M.Yamanoue, K.Harano and Y.Nomura, A trial on influence of community on exercise motivation for proactive health promotion, 第31回社会システム部会研究会（SICE社会システム部）， pp.238-238（2023.03）
+K.Okada, T.Kaihara, N.Fujii, D.Kokuryo and R.Watanabe, Relationship analysis of the stakeholders related to public transportation for improving value through multiple systems cooperation, 第31回社会システム部会研究会（SICE社会システム部）， pp.242-242（2023.03）
+Yota Suzuki, Ruriko Watanabe, Fujii Nobutada, Daisuke Kokuryo, Toshiya Kaihara, Kensaku Sawada and Kazuhito Uehara, Business allocation p;anning method using combinatorial auctions for back-office, JSAI Special Interest Group on Business Informatics (SIG-BI), BI-022-06（2023.03）
+T.Kaihara, Development of the multi-scale ABSS method into an infrastructure technology for digital social experimentation, 13th Transdisciplinary Federation of Science and Technology Conference, C-2-1（2022.12）
+清水岳，貝原俊也，藤井信忠，渡邉るりこ，國領大介，マルチスケールモデリングを用いた社会シミュレーションによる意思決定主体間の合意形成支援，計測自動制御学会 システム・情報部門学術講演会2022(SSI2022), GS08-02, pp.241-246（2022.11）
+S.Tsutsui, T.Kaihara, D.Kokuryo, N.Fujii, R.Watanabe, K.Harano, A study on production scheduling for realization of mass customization -Dynamic parts allocation change considering due date and manufacturing progress-, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2E1-2, pp. 899-906（2022.11）
+K.Kurimoto, T.Kaihara, D.Kokuryo, N.Fujii, R.Watanabe, A Proposal of Resource Allocation Method with Strategy-Proofness under Crowdsourced Manufacturing Environment, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2E1-4, pp. 914-918（2022.11）
+H.Ohomoto, T.Kaihara, D.Kokuryo, N.Fujii, R.Watanabe, A proposal of simultaneous optimization method for production scheduling and transportation work assignment to AGV with Lagrangian decomposition and coordination approach, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2E2-2, pp. 1159-1163（2022.11）
+Y.Suzuki, N.Nobutada, R.Watanabe, D.Kokuryo, T.Toshiya, K.Sawada, K.Uehara, Work allocation planning method for improving employee satisfaction and minimizing work hours using a combinatorial auction, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2E2-4, pp. 1169-1174（2022.11）
+K.Kimura, N.Fujii, R.Watanabe, D.Kokuryo, T.Kaihara, A.Tada, T.Nakamura, Research on visualization of parking lot usage using video information, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2G3-5, pp. 1513-1516（2022.11）
+J.Sakuta, D.Kokuryo, T.Kaihara, N.Fujii, R.Watanabe, E.Kumamoto, Acceleration and Efficacy Evaluation of Quantitative Estimation Method for MR Images using Magnetic Resonance Simulation, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2I2-5, pp. 1257-1261（2022.11）
+K.Shiraishi, D.Kokuryo, T.Kaihara, N.Fujii, R.Watanabe, E.Kumamoto, Efficacy Evaluation of a Proposed Automatic Liver Vessel Tracking Method Using a Region Growing Technique for MRI, Proceedings of the Japan Joint Automatic Control Conference  THE 65TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2I2-6, pp. 1262-1266（2022.11）
+Takuya KISHIMOTO, Nobutada FUJII, Ruriko WATANABE, Daisuke KOKURYO, Toshiya KAIHARA, Shinichi NAKANO and Shinji NISHIGUCHI, Disease Strain Detection Method of Farm Products Using Convolutional Auto Encoder (Second Report)(Hyperparameter optimization using genetic algorithms), The 32nd Design Engineering and Systems Division Lecture of the Japan Society of Mechanical Engineers, 1205（2022.09）
+G.Shimizu, T.Kaihara, D.Kokuryo and N.Fujii, Evaluation of Relationships among Decision-Makers～Application to COVID-19 Measures～, The 30th Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence（FAN2022), pp.431-436（2022.09）
+D.Kokuryo, T.Kaihara, N.Fujii and K.Kawamoto, Evaluation of Isolated Patient Allocation Method for Emerging Infectious Disease based on Constrained Matching Theory using Social Simulation, The 30th Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence（FAN2022), pp.437-442（2022.09）
+Daisuke Kokuryo, Masayuki Yabuuchi, Toshiya Kaihara, Nobutada Fujii, Evaluation of Cooperated Production and Energy Management Planning in consideration of Multiple Decision-Making Criteria, Scheduling Symposium 2022(SS2022), G3-2,pp.86-91（2022.09）
+Junki Sakuta, Daisuke Kokuryo, Toshiya Kaihara, Nobutada Fujii, Etsuko Kumamoto, A proposal of method for estimating the quantitative values using magnetic resonance simulation technology, The 50th anniversary meeting of JSMRM, PP10-2, pp.288-288（2022.09）
+
+Kakeru Shiraishi, Daisuke Kokuryo, Toshiya Kaihara, Nobutada Fujii, ,Etsuko Kumamoto, A proposal of automatic liver vessel tracking ｍethod for prediction of liver movement, The 50th anniversary meeting of JSMRM, DP07-14, pp.338-338（2022.09）
+Toshiya Kaihara, New Trends about Smart Manufacturing System in Society 5.0 Era, New fusion of Mechanical Engineering and Informatics（2022.08）
+G. Shimizu, T. Kaihara, D. Kokuryo, N. Fujii，A Proposal of Multi-Scale Modeling
+focusing on Relationships among Decision-Makers in Social System，第30回社会システム部会研究会（SICE社会システム部）（2022.08）
+K. Okada, T. Kaihara, N. Fujii, D. Kokuryo，A proposal of smart public transportation services
+focusing on multiple systems cooperation，第30回社会システム部会研究会（SICE社会システム部）（2022.08）
+H.Ohmoto, T.Kaihara, N.Fujii, and D.Kokuryo, A trial of integrated planning method for production scheduling and AGV route planning with Lagrangian decomposition and coordination approach, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE), 112-2，pp.41-44 (2022.05)
+K.Kurimoto, T.Kaihara, D.Kokuryo and N.Fujii, A proposal of profit allocation method based on cooperative game theory under Crowdsourced Manufacturing environment, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE), 122-3，pp.163-167 (2022.05)
+D.Nagata, T.Kaihara, N.Fujii and D.Kokuryo, T.Umeda and H.Mizuhara, A proposal of production scheduling method with robust optimization approach considering operation time variation, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE), 132-2，pp.285-291 (2022.05)
+Y.Suzuki, N.Fujii, R.Watanabe, D.Kokuryo and T.Kaihara, K.Ueda, K.Uehara, Work Allocation Planning Method Considering Work Time Minimization and Operation Rate Equalization, Proceeding of the 66th Annual Conference of the Institute of System, Control and information Engineers(ISCIE), 132-3，pp.292-295 (2022.05)
+藤井信忠, 渡邉るりこ, 國領大介, 貝原俊也, 関原規晃, 玉置久: クロスリカレンスプロットと動的時間伸縮法を用いた列車運転操作における特徴抽出手法，日本経営工学会2022年春季大会，D05（2022.05） 
+吉田 祐次郎，原口 春海，貝原 俊也，藤井 信忠: セル生産における作業者の不在を考慮したロバストな作業者訓練に関する研究，日本経営工学会2022年春季大会，D10，158-159（2022.05）
+2021
+Satoshi Nagahara, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, A proposal of data-driven multi-scale modeling approach for production flow simulation, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #103，pp.3-8 (2022.03)
+Toshiya Kaihara，Nobutada Fujii, Daisuke Kokuryo, Toru Murakami, Toyohiro Umeda, A proposal of production scheduling and factory load adjustment method with multi-objective optimization in due date and manufacturing cost for build-to-order production, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #205，pp.19-24 (2022.03)
+Tatsushi Nishi, Michiko Matsuda, Yoshitaka Tanimizu, Toshiya Kaihara, Fundamental Models for Enterprise Collaborations in Smart Supply Chains, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #209，pp.39-40 (2022.03)
+Hitomi NAKA, Harumi HARAGUCHI, Toshiya KAIHARA, Nobutada FUJII, Daisuke KOKURYO, A study on operator allocation in consideration of fatigue in cell manufacturing system, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #213，pp.52-57 (2022.03)
+Nobutada Fujii, Ruriko Watanabe, Daisuke Kokuryo, Toshiya Kaihara, Makoto Son, Mariko Doi*, Yoshiyasu Suzuki*, Yushi Yoshida*, A Store Layout Planning Method for Underground Shopping Streets Using Human Flow Data-based Simulation and Genetic Algoritm, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #402，pp.83-88 (2022.03)
+Masayuki Yabuuchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Cooperated methodology of production scheduling and energy supply planning ｆor the realization of sustainable manufacturing, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #611，pp.156-161 (2022.03)
+Shinsuke Tsustui, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Kenichi Harano, A proposal of production scheduling method with dynamic parts allocation for mass customization, The Japan Society of Mechanical engineers Manufacturing Systems Division 2022, #612，pp.162-167 (2022.03)
+前田　博美，藤井　信忠，渡邊　るりこ，國領　大介，貝原　俊也, アパレル業界における顧客・店舗間の関係のデザイン手法～保有衣服情報を用いた服選択要因の抽出～, サービス学会　第10回国内大会, B-1-2-02，pp.123－127（2022.03)
+岸本　拓也，藤井　信忠，渡邊　るりこ，國領　大介，貝原　俊也，中野　伸一*，西口　真嗣*, 畳み込みオートエンコーダを用いた病害診断による農作業者支援システム, サービス学会　第10回国内大会, B-1-2-03，pp.128－134（2022.03)
+K.Kawamoto, T.Kaihara, D.Kokuryo, N.Fujii，Evaluation of the effectiveness of medical care facility allocation method based on matching mechanisms for patients with emerging infectious diseases, 第27回社会システム部会研究会（SICE社会システム部）pp.57-65（2022.03）
+G.Shimizu, T.Kaihara, D.Kokuryo, N. Fujii，Influence analysis among multiple decision-makers in social simulation with multi-scale modeling，第27回社会システム部会研究会（SICE社会システム部）pp.66-72（2022.03）
+Ruriko Watanabe, Nobutada Fujii, Daisuke Kokuryo, Toshiya Kaihara, Arisa Fujimura, Takehide Hirose, Masaki Iizuka，A support method for securities analysts using， supply networks，The Japanese Society for Artificial Intelligence Business Informatics Study Group 20th Study Group，BI-020-17，pp. 83-89（2022.03）
+T.Kaihara, T.Terano, H.Kita, S.Takahashi, Multiscale ABSS method for social policy making, The12nd Transdisciplinary Federation of Science and Technology, A-2-4（2021.12）
+Toshiya Kaihara，New trends on Smart Manufacturing System in Society 5.0，日中韓機械工学技術交流会（2021.11）
+貝原　俊也，藤井　信忠，國領　大介，川本　恭平，製薬付きマッチングに基づいた新興感染症患者療養先割当手法の一提案 -患者の希望と適切な医療提供体制確保の両立に向けた検討-，計測自動制御学会システム・情報部門学術講演会2021（SSI2021)，GS5-2-2, pp.258-263（2021.11）
+清水　岳，貝原　俊也，藤井　信忠，國領　大介，複数の意思決定主体を含む社会シミュレーションのためのマルチスケール総合モデリング手法の一提案，計測自動制御学会システム・情報部門学術講演会2021（SSI2021)，GS6-2-1, pp.307-311（2021.11）
+貝原　俊也，社会政策立案に向けたマルチスケールABSS手法～D^3技術基盤の構築にむけて，計測自動制御学会システム・情報部門学術講演会2021（SSI2021)，SS3-1-2, pp.270-274（2021.11）
+J.Sakuta, D.Kokuryo, T.Kaihara, N.Fujii, E.Kumamoto, A Proposal of Quantitative Imparting Method for MR Images Using Magnetic Resonance Simulation, THE 64TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 1I2-2, pp.416-419 (2021.11)
+A.Ito, T.Kaihara, D.Kokuryo, N.Fujii, A Study on Sharing Logistics Network Design Considering Uncertainty, THE 64TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 1B3-4, pp.467-470 (2021.11)
+S.Tsutsui, T.Kaihara, D.Kokuryo, N.Fujii, K.Harano, A proposal of production scheduling update method for mass customization, THE 64TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 1B3-6, pp.475-480 (2021.11)
+X.Wang, N.Fujii, R.Watanabe, D.Kokuryo, T.Kaihara, Design of training support service based on user's exercise history (Support method for comparison of running motion using Dynamic Time Warping), THE 64TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, 2F3-5, pp.1215-1217 (2021.11)
+Masayuki Yabuuhi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, A proposal of production scheduling method based on decision criteria with electric power consumption and productivity-Examination of reset methodology about the aspiration level-, Scheduling Symposium 2021 (SS2021), GS5-1, pp.130-135（2021.09）
+Nobutada Fujii, Ruriko Watanabe, Daisuke Kokuryo, Toshiya Kaihara, Makoto Son, Mariko Doi*, Yoshiyasu Suzuki*, Yushi Yoshida*, A Study on Construction of Underground Shopping Street Simulation Using Human Flow Data, Scheduling Symposium 2021 (SS2021), OS2-1, pp.95-99（2021.09）
+Masaharu Ogawa*, Akira Ono*, Toshiya Kaihara，Concepts and Terms to Realize Society5.0，Journal of the society of instrument and control engineers，Vol.60, No.9, pp.670-677（2021.09）
+Daisuke Kokuryo, Yusuke Nakagawa, Toshiya Kaihara, Nobutada Fujii, Etsuko Kumamoto, Evaluation of accuracy of focal point tracking using restricted MR signals in Focused Ultrasound Surgery, The 49th Annual Meeting of the Japanese Society for Magnetic Resonance in Medicine, vol.41, P-119-J, pp.256-256（2021.09）
+T.Kaihara, N.Fujii, D.Kokuryo, T.Murakami, T.Umeda*，A Proposal of Factory Load Adjustment Method with Multi-Objective Optimization of Delivery Time and Manufacturing Cost for build-to-order Production，2021年度精密工学会秋季大会学術講演会講演論文集，A31, pp.39-40（2021.09）
+渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，入江　恭平，梅田　賢史*，原田　賢一*，提供順序のばらつきを考慮した献立計画手法に関する研究（第2報）-DGAを用いた実問題への適用-，2021年度精密工学会秋季大会学術講演会講演論文集，A28, pp.35-36（2021.09）
+N.Fujii, R.Watanabe, D.Kokuryo, T.Kaihara, H.Kanazawa, T.Shinmura*, Y.Hukuma*，リース業における環境変動に頑健な在庫管理手法（第2報）-リードタイムの考慮-，2021年度精密工学会秋季大会学術講演会講演論文集，A26, pp.31-32（2021.09）
+Yohta SUZUKI, Nobutada FUJII, Ruriko Watanabe, Daisuke KOKURYO, Toshiya KAIHARA, Keisuke UEDA and Kazuhito UEHARA，A Study on Robust Work Allocation Planning Method for Back Office Operation，The Japan Society of Mechanical Engineers 2021 Annual Meeting，S144-04（2021.09）
+G. Shimizu, T. Kaihara, N. Fujii and D. Kokuryo，A multi-scale integrated modeling approach for social simulation，第26回社会システム部会研究会（SICE社会システム部)（2021.08）
+Y.Tanaka, D.Kokuryo, T.Kaihara, N.Fujii, E.Kumamoto, Tumor Characteristic Analysis for realizing prognosis prediction in pre-clinical MR images, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), Gsf-02-2, pp.867-870 (2021.05)
+Asumi Ito, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, A study on collaborative network considering demand uncertainty, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), OS02-4, pp.9-12, (2021.05)
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Yuto Tsujimoto, Noritakea Mochiduki*, Puchit Sariddichainunta*, Yuto Miyachi*, A proposal of production planning method for inventory optimization in flexible flow shop, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), TS01-1-1, pp.118-120 (2021.05)
+N.Fujii, R.Watanabe, D.Kokuryo, T.Kaihara, A.Fujimura, T.Hirose*, M..Iizuka*, A support method for securities analysts using supply networks, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), TS01-1-3, pp.126-130 (2021.05)
+Masayuki Yabuuchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Sensitivity analysis of scheduling method based on decision criteria considering electric power costs and productivity, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), TS01-2-3，pp.219-222 (2021.05)
+T.Kaihara, N.Fujii, D.Kokuryo, T.Murakami, T.Umeda*, Machine operation planning with multi objective optimization for build-to-order machine production factory, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), TS01-3-2, pp.309-311 (2021.05)
+N.Fujii, D.Kokuryo, T.Kaihara, M.Son, R.Watanabe, M.Doi*, Y.Yoshida*, Y.Suzuki*, A Study on Store Layout for Underground Shopping Mall based on Human Flow Analysis and Optimization, Proceedings of the 65th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE), TS02-3-5, pp.715-719 (2021.05)
+渡邉るりこ, 藤井信忠, 國領大介, 貝原俊也, 崎山誠: アイデアソンを対象としたテキストマイニングによるグループディスカッションの定量的評価手法，日本経営工学会2021年春季大会，B19, pp.108-110（2021.05）
+2020
+Asumi ITO, Toshiya KAIHARA, Daisuke KOKURYO, Nobutada FUJII，A study on supply chain network with sharing logistics under demand uncertainty，The Japan Society of Mechanical engineers Manufacturing Systems Division 2021，pp.41-42（2021.03）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Pornpimol Kaewphing，Transportation Cost Optimization Approach for Last Mile Logistics with Time Window，The Japan Society of Mechanical engineers Manufacturing Systems Division 2021，pp.39-40（2021.03）
+Masayuki Yabuuchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Mio Nonaka, Kotone Senju，A proposal of scheduling method to reduce electric power costs under time zone-dependent charge system，The Japan Society of Mechanical engineers Manufacturing Systems Division 2021，pp.33-34（2021.03）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Toru Murakami, Yoyohiro Umeda，A study on machine operation planning for flexible job shop -Considerations on due date and machine operating utilization-，The Japan Society of Mechanical engineers Manufacturing Systems Division 2021，pp.31-32（2021.03）
+K.Kawamoto, T.Kaihara, N.Fujii, D.Kokuryo，A Proposal of Isolated Patient Allocation Method for Emerging Infectious Diseases based on Matching Theory using Social Simulation，第24回社会システム部会研究会（SICE社会システム部)，pp.177-177（2021.03）
+G.Shimizu, T.Kaihara, N.Fujii, D.Kokuryo，A basic research on preventation policy for new infectious diseases based on the concept of multi-scale modeling，第24回社会システム部会研究会（SICE社会システム部)，pp.176-176（2021.03）
+王　心悦，藤井　信忠，貝原　俊也，國領　大介，ユーザの行動履歴に基づく機械学習を用いたサービス設計に関する一提案　センシングデータによるランニング動作の比較及び差異の可視化，サービス学会　第9回国内大会，P-2-05（2021.03）
+藤井　信忠，渡邉　るりこ，國領　大介，　貝原　俊也，　金澤　宏篤，リース業における環境変動に頑健な在庫管理手法 -在庫配置の最適化-，2021年度精密工学会春季大会学術講演会講演論文集，pp.151-152（2021.03）
+津谷　紘平，藤井　信忠，渡邉　るりこ，國領　大介，貝原　俊也，角南　泰弘*，泉野　玲似*，眞野　方仁*，機械学習による森林情報分析手法に関する研究 -k-means法を用いた撮影条件に頑健な学習手法-，2021年度精密工学会春季大会学術講演会講演論文集，pp.145-146（2021.03）
+入江　恭平，渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，柳田　賢史*，原田　賢一*，提供順序のばらつきをを考慮した献立計画手法に関する研究 -カフェテリアの献立を対象として-，2021年度精密工学会春季大会学術講演会講演論文集，pp.135-136（2021.03）
+貝原　俊也，藤井　信忠，國領　大介，山根　雄，原野　健一，過去の探索情報を利用した自律分散型マスカスタム生産対応日程計画手法の一提案，2021年度精密工学会春季大会学術講演会講演論文集，pp.125-123（2021.03）
+貝原　俊也，國領　大介，藤井　信忠，原田　瑞基，モデルベースシステムズエンジニアリングにおけるシステム要求および構造の関係性に着目した影響分析，2021年度精密工学会春季大会学術講演会講演論文集，pp.121-122（2021.03）
+Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Toru Murakami, Toyohiro Umeda*，A basic consideration on machine operation planning in flexible job shop under build-to-order production，Proceedings of the Japan Joint Automatic Control Conference  THE 63TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，pp.408-411（2020.11）
+Y.Tanaka, D.Kokuryo, T.Kaihara, N.Fujii, E.Kumamoto，A proposal of Image Enhancement Method Using Multi-Objective Optimization Technique for Improvement of Tumor Segmentation Accuracy，Proceedings of the Japan Joint Automatic Control Conference  THE 63TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，pp.158-162（2020.11）
+神田　海翔，貝原　俊也，藤井　信忠，國領　大介，マルチエージェントシミュレーションを用いたバイクシェアリングサービスに関する研究～交通手段にかかる料金と環境負荷の関係性評価～，計測自動制御学会システム・情報部門学術講演会2020（SSI2020)，G59-2-2，pp.107-110（2020.11）
+貝原　俊也，國領　大介，藤井　信忠，原田　瑞基，モデルベースシステムズエンジニアリングにおけるシステム要求の構造に着目した影響分析 -健康モデル化スマートインタラクティブサービスを対象として-，計測自動制御学会システム・情報部門学術講演会2020（SSI2020)，C39-1-1，pp.87-91（2020.11）
+貝原　俊也，藤井　信忠，國領　大介，山根　雄，原野　健一，ラグランジュ分解・調整法を用いたマスカスタム生産対応日程計画手法の一提案，2020年度精密工学会秋季大会学術講演会講演論文集，pp.85-86（2020.09）
+K.Tsuya, N.Fujii, D.Kokuryo, T.Kaihara, Y.Sunami*, R.Izuno*, M.Mano*，Study on tree species discrimination using machine learning in forestry，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.1164-1166（2020.05）
+N.Fujii, D.Kokuryo, T.Kaihara, M.Son，A study on in-store layout planning for clothing retail store based on people flow analysis -Validation of layout change effect using simulations-，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.1192-1195（2020.05）
+T.Kaihara, N.Fujii, D.Kokuryo, M.Harada，System architecture analysis with Network theory in MBSE approach -Application to smart interactive service with digital health modeling-，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.575-580（2020.05）
+R.Watanabe, N.Fujii, D.Kokuryo, T.Kaihara, Y.Abe，Support method of consultants by analyzing corporate text，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.508-511（2020.05）
+K.Kanda, T.Kaihara, N.Fujii, D.Kokuryo，A consideration on bike-sharing service and environmental load with multi-agent simulation，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.419-422（2020.05）
+Salama Shady, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A Hyper-Heuristic Framework using GP for Dynamic Job Shop Scheduling Problem，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.248-252（2020.05）
+M.Yabuuchi, T.Kaihara, N.Fujii, D.Kokuryo, S.Sakajo*, Y.Nishita*，A proposal of scheduling method for electric power saving of production equipment，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.244-247（2020.05）
+Xinyue Wang, Nobutada Fujii, Toshiya Kaihara, Daisuke Kokuryo，A proposal for support service based on user action history using neural network，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.1196-1198（2020.05）
+K.yamashita, D.Kokuryo, T.Kaihara, N.Fujii, T.Umeda*, R.Izutsu*，A Proposal of Order Planning Method among multiple Stakeholders in Manufacturing Industry -Order Quantity Adjustment considering Due Date and Maximum Production-，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.141-145（2020.05）
+Y.Tanaka, D.Kokuryo, T.Kaihara, N.Fujii, E.Kumamoto，A Proposal of Interactive Tumor Segmentation Method Considering Effects of Magnetic Fieｌd Inhomogeneity，Proceedings of the 64th Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.47-50（2020.05）
+2019
+藤井　信忠，洪　性明，國領　大介，貝原　俊也，玉置　久，鳩野　逸生，生産設備ネットワークにおけるアントエージェントを用いた異常発見 -複数設備における検証-，日本経営工学会2020年春季大会（2020.03）
+﨑山　誠，藤井　信忠，國領　大介，貝原　俊也，アイデアソンにおける対応分析とHDP-LDAを用いたグループディスカッションの分析手法，日本経営工学会2020年春季大会（2020.03）
+飯塚　俊介，藤井　信忠，國領　大介，貝原　俊也，中野　伸一，機械学習を用いた農作物の生育予測手法 -ドローン画像への適用-，日本経営工学会2020年春季大会（2020.03）
+Takafumi CHIDA, Toshiya KAIHARA, Nobutada FUJII, Daisuke KOKURYO，A Proposal on a resource matching method with consideration of strategyproofness in crowdsourced manufacturing systems，The Japan Society of Mechanical engineers Manufacturing Systems Division 2020，pp.81-82（2020.03）
+Yoshiaki Harada, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii，A Proposal on Resource Allocation Method based on Combinatorial Double Auction for Crowdsourced Manufacturing，The Japan Society of Mechanical engineers Manufacturing Systems Division 2020，pp.79-80（2020.03）
+Ken Yamashita, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A Study on Order Quantity Decision Timing Policy in Order Planning Problem among Multiple Stakeholders，Proceedings of the Japan Joint Automatic Control Conference  THE 62TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，2M2-04（2019.11）
+Kyohei Irie, Nobutada Fujii, Daisuke Kokuryo, Toshiya Kaihara，A proposal of a menu planning method for managed meal，Proceedings of the Japan Joint Automatic Control Conference  THE 62TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，2M2-02（2019.11）
+Makoto Sakiyama, Nobutada Fujii, Daisuke Kokuryo, Toshiya Kaihara，Group discussion analysis in ideathon using correspondence analysis and LDA，Proceedings of the Japan Joint Automatic Control Conference  THE 62TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，2Ｍ1-03（2019.11）
+Y.Nakagawa, D.Kokuryo, T,Kaihara, N.Fujii, E.Kumamoto，A proposal of high-speed irradiation position tracking method for MR guided focused ultrasound surgery in abdominal organ，Proceedings of the Japan Joint Automatic Control Conference  THE 62TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，1E3-03（2019.11）
+Y. Tanaka, D. Kokuryo, T. Kaihara, N. Fujii, E. Kumamoto，A proposal of Tumor Segmentation Method from Magnetic Resonance Images considering Field Inhomogeneity，Proceedings of the Japan Joint Automatic Control Conference  THE 62TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE，1E3-02（2019.11）
+Ruriko WATANABE, Nobutada FUJII, Daisuke KOKURYO, Toshiya KAIHARA, Yoichi ABE*, Ryoko SANTO*，Support method of consulting service by analyzing business history (Second report)- Data augmentation using thesaurus dictionary -，The Japan Society of Mechanical Engineers，2414（2019.09）
+Xinyue WANG, Nobutada FUJII, Toshiya KAIHARA, Daisuke KOKURYO，A proposal about training support service based on history of user’s action data，The Japan Society of Mechanical Engineers，S142411（2019.09）
+Shunsuke IITSUKA, Nobutada FUJII, Daisuke KOKURYO, Toshiya KAIHARA, Shinichi NAKANO*, Shinji NISHIGUCHI*，Growth Prediction of Farm Products Using Convolutional Neural Networks (second report)，The Japan Society of Mechanical Engineers，2412（2019.09）
+Daisuke Kokuryo, Tomoya Taguchi, Toshiya Kaihara, Nobutada Fujii，A Proposal of Data Utilization Approach for Heterogeneous System Corporation toward Realizing Super Smart Society ~Application for Strategy against Pandemic Influenza~，The 29th Symposium on Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence（2019.09）
+仲川　侑介，國領　大介，貝原　俊也，藤井　信忠，熊本　悦子，腹腔臓器を対象としたMRガイド下集束超音波治療のための高速照射位置同定手法の提案，生体医工学シンポジウム2019，2A-33（2019.09）
+原田　佳明，貝原　俊也，国領　大介，藤井　信忠，組合せダブルオークションによるクラウドソースドマニュファクチャリングの実現，2019年度精密工学会秋季大会学術講演会講演論文集，pp.230-231（2019.09）
+津谷　鉱平，藤井　信忠，國領　大介，貝原　俊也，野中　朋美*，飲食業におけるサービス提供現場のレイアウト計画に関する研究，2019年度精密工学会秋季大会学術講演会講演論文集，pp.222-223（2019.09）
+Kagiyama Yoshiyuki*, Nakanishi Yuki, Takao Masaki*, Otake Yoshihito*, Sugano Nobuhiko*, Kaihara Toshiya, Tada Yukio, Sato Yoshinobu*，Automated pre-operative planning system "AutoImPlan" for total hip replacement －Improvement of automated selection module for optimized implants combination with multi-objective optimization method－，63rd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.1131-1133（2019.05）
+Nakagawa Yusuke+, Kokuryo Daisuke, Kaihara Toshiya, Kumamoto Etsuko，Image reconstruction method with compressed sensing for high-speed MR temperature measurement of abdominal organs，63rd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.1115-1119（2019.05）
+Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, Nakayama Atsushi+，A study on systemic risk analysis of financial markets by agent-based simulation，63rd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.917-919（2019.05）
+Harada Yoshiaki*, Kaihara Toshiya, Kokuryo Daisuke, Fujii Nobutada，A proposal of auction based resource allocation method under Crowdsourced Manufacturing environment，63rd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.912-916（2019.05）
+Yamashita Ken, Kaihara Toshiya, Kokuryo Daisuke, Umeda Toyohiro*, Izutsu Rihito*，A proposal of order planning method among multiple organizations in manufacturing industry -Consideration of order quantity adjustment with due date-，63rd Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)，pp.907-909（2019.05）
+2018
+田口　智也，貝原　俊也，藤井　信忠，國領　大介，超スマート社会実現に向けたデータ活用による異種のシステム間連携に関する研究，平成31年度電気学会全国大会，pp.138-138（2019.03）
+崎山　誠，藤井　信忠，国領　大介，貝原　俊也，アイデアソンにおける対応分析とLDAを用いたグループディスカッションの可視化，日本経営工学会2019年春季大会，D19（2019.03）
+藤井　信忠，國領　大介，貝原　俊也，松元　善紀，野中　朋美*，新村　猛*，従業員間の相互作用を考慮した人員レイアウト計画手法，日本経営工学会2019年春季大会，D20（2019.03）
+Ken Yamashita, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, *Toyohiro Umeda, *Rihito Idutsu，A proposal of order planning method for negotiating multiple utilities among multiple entities，Manufacturing Systems Division Conference 2019，pp.87-88（2019.03）
+Shota Suginouchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, *Hajime Mizuyama，A study on multi-objective optimization method with agents negotiation mechanism for parts ordering problem，Manufacturing Systems Division Conference 2019，pp.75-76（2019.03）
+Yoshiaki Harada, Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii，A proposal of resource allocation method among companies under Crowdsourced Manufacturing，Manufacturing Systems Division Conference 2019，pp.36-40（2019.03）
+Takafumi CHIDA, Toshiya KAIHARA, Nobutada FUJII, Daisuke KOKURYO，Cooperative game theory approach to resource matching in crowdsourced manufacturing，Manufacturing Systems Division Conference 2019，pp.17-18（2019.03）
+王　心悦，藤井　信忠，貝原　俊也，國領　大介，ユーザーの行動履歴に基づく機械学習を用いたサービス設計に関する一提案，サービス学会　第7回国内大会，A-3-03（2019.03）
+渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，安部　洋一*，山東　良子*，テキストマイニングを用いたコンサルティングサービスの支援手法（第3報），サービス学会　第7回国内大会，A-3-02（2019.03）
+藤井　信忠，國領　大介，貝原　俊也，釜元　大樹，企業間ネットワークにおけるサービス普及に関する研究（第2報）-コミュニティのクラスタ分割が普及に及ぼす影響-，2019年度精密工学会春季大会学術講演　講演論文集，pp.171-172（2019.03）
+藤井　信忠，國領　大介，貝原　俊也，洪　性明，アントエージェントを用いた生産設備ネットワークにおける異常発見（第2報）-観測値に応じたフェロモン滴下量の調整-，2019年度精密工学会春季大会学術講演　講演論文集，pp.155-156（2019.03）
+崎山　誠，藤井　信忠，國領　大介，貝原　俊也，アイデアソンにおけるグループディスカッションの可視化に関する研究，日本機械学会 第28回設計工学・システム部門講演会，1307（2018.11）
+飯塚　俊介，藤井　信忠，國領　大介，貝原　俊也，中野　伸一，山東　良子，畳み込みニューラルネットワークを用いた農作物の生育予測に関する研究，日本機械学会 第28回設計工学・システム部門講演会，1310（2018.11）
+K.Yamashita, T.Kaihara, N.Fujii, D.Kokuryo, T.Umeda, R..Izutsu，A proposal of ordering negotiation method among multiple entities for manufacturing industry -Consideration of due date determination-，第61回自動制御連合講演会，pp.590-594（2018.11）
+T.Kaihara, N.Fujii, D.Kokuryo, S.Nishimura，A study on manufacturing scheduling method for CPS-based factory security -Considering flexible open shop of mass-custom production-，第61回自動制御連合講演会，pp.578-581（2018.11）
+Y.Nakagawa, D.Kokuryo, T.Kaihara, N.Fujii, E.Kumamoto，Image reconstruction method using compressed sensing for rapid MR temperature measurement，第61回自動制御連合講演会，pp.65-69（2018.11）
+渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，顧客履歴の解析によるコンサルティングサービスの支援手法－実現場への適用－，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+藤井　信忠，國領　大介，貝原　俊也，松元　善紀，新村　猛*，サービス産業における需要変動を考慮した人員シフト計画手法，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+王　心悦，藤井　信忠，國領　大介，貝原　俊也，ユーザーの行動履歴を用いたサービス設計に関する提案，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+Nikhanbayev Nursultan, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A study on multiscale modeling approach for social systems，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+貝原　俊也，藤井　信忠，國領　大介，中山　淳志，コール市場における外部資産を保持した金融機関のシステミックリスク分析，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+田口　智也，貝原　俊也，藤井　信忠，國領　大介，超スマート社会におけるシステム間連携に向けた取得データ活用手法に関する研究－新型インフルエンザ対策を対象に－，計測自動制御学会システム・情報部門学術講演2018（SSI2018)（USB)（2018.11）
+國領　大介，貝原　俊也，藤井　信忠，田村　菜ツ実，過去の探索情報をフェロモン更新に用いたMax-Min Ant Systemの提案，The 28th Fuzzy,Artificial Intelligence, Neural Networks and Computational Intelligence（2018.09）
+洪　性明，藤井　信忠，;國領　大介，貝原　俊也，玉置 久，鳩野 逸生，生産設備ネットワークにおけるフェロモンを用いたエージェントベース異常発見手法，一般社団法人日本鉄鋼協会第176回秋季講演大会（2018.09）
+杉之内　将大，貝原 俊也，藤井 信忠，國領　大介，部品発注計画問題に対する組合せオークションを用いた多目的最適化手法の一提案，2018年度日本機械学会年次大会，S1440005（2018.09）
+藤井　信忠，國領　大介，貝原　俊也，釜元　大樹，安部　洋一，山東　良子，企業間ネットワークにおけるサービスの普及に関する研究，2018年度精密工学会秋季大会学術講演会（2018.09）
+渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，安部　洋一*，山東　良子*，企業内情報の解析によるコンサルティングサービスの支援手法　-実現場における検証-，2018年度精密工学会秋季大会学術講演会（2018.09）
+T.Taguchi, T.Kaihara, N.Fujii and D.Kokuryo，A study on cooperation between different systems by utilizing data toward realization of Society 5.0 -Application for countermeasure strategy against pandemic influenza-，Proceedings of the 62nd Annual Conference of the Institute of Systems, Control and Information Engineers(ISCIE)（2018.05）
+T.Kaihara, N.Fujii, D.Kokuryo and N.Sugimoto，A proposal of crew scheduling method considering delay of train schedule and personnel costs，Proceedings of the 62nd Annual Conference of the Institute of Systems, Control and Information Engineers(ISCIE)（2018.05）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Shohei Nishimura，A proposal of manufacturing scheduling method considering mass-custom production for CPS-based factory security，Proceedings of the 62nd Annual Conference of the Institute of Systems, Control and Information Engineers(ISCIE)（2018.05）
+Nikhanbayev N.M., Kaihara T., Fujii N., and Kokuryo D.，A study on multiscale modeling and simulation approach for social systems，Proceedings of the 62nd Annual Conference of the Institute of Systems, Control and Information Engineers(ISCIE)（2018.05）
+2017
+Nobutada Fujii, Kaihara Toshiya, Daisuke Kokuryo, An Liang，A proposal of Naive Bayes based Signature-driven Fault Detection for Production System in Cyber-attack，Manufacturing Systems Division Conference2018，pp.95-96（2018.03）
+Takafumi Chida, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，Stability Analysis on Resource Matching in Crowdsourced Manufacturing，Manufacturing Systems Division Conference2018，pp.87-88（2018.03）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Kodai Hirai，A study on auction type production scheduling method for realization of mass customization，Manufacturing Systems Division Conference2018，pp.85-86（2018.03）
+Noriyasu Yoshimura, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A Proposal of Multi-period Logistics Network Model Considering Resource Constraints，Manufacturing Systems Division Conference2018，pp.51-52（2018.03）
+Harumi Haraguchi*, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A study on the relationship of human factor and productivity in cellular manufacturing system，Manufacturing Systems Division Conference2018，pp.33-34（2018.03）
+渡邉　るりこ，藤井　信忠，國領　大介，貝原　俊也，安倍　洋一*，山東　良子，テキストマイニングを用いたコンサルティングサービスの支援手法（第2報），サービス学会　第６回国内大会講演論文集（USB)（2018.03）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Bohan Li，A Robust Optimization Approach for Two-echelon Supply Network，Manufacturing Systems Division Conference2018，pp.49-50（2018.03）
+Nobutada Fujii, Toshiya Kaihara, Daisuke Kokuryo, Sungmyung Hong，Detection of unusual behavior in  production equipment network by using Ant Agent，2018年度精密工学会春季大会学術講演会講演論文集，pp.223-224（2018.03）
+Ai Ito, Nobutada Fujii, Tochiya Kaihara, Daisuke Kokuryo, Takeshi Shimmura*，Simultaneous Planning Method of Shift Work Schedule and Work Allocation in Restaurant -Consideration of Shortage and Surplus Personnel-，2018年度精密工学会春季大会学術講演会講演論文集，pp.213-214（2018.03）
+Daichi Itaya, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Rihito Izutsu, Toyohiro Umeda，A study on production scheduling method with consideration of evaluation criteria of different planners，2018年度精密工学会春季大会学術講演会講演論文集，pp.211-212（2018.03）
+N.M.Nikhanbayev. T.Kaihara, N.Fujii, D.Kokuryo，A study on multiscale modelling and simulation including its application on electricity market analysis，計測自動制御学会システム・情報部門学術講演会2017（SSI2017），pp.299-304（2017.11）
+貝原　俊也，藤井　信忠，國領　大介，坂本　一馬，仮想市場を内包した貿易モデルによる財取引の特性解析～自由貿易協定締結時の協定国間貿易での検証～，計測自動制御学会システム・情報部門学術講演会2017（SSI2017），pp.313-317（2017.11）
+貝原　俊也，スマーターワールド実現にむけたシステムズアプローチ，計測自動制御学会システム・情報部門学術講演会2017（SSI2017），pp.757-762（2017.11）
+Shota Suginouchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A study of an optimization method for integrating part selection and production scheduling for multi-period-parts component management using pheromone information-，The Institute of Electrical Engineers of Japan，pp857-862（2017.09）
+Daisuke Kokuryo, Toshiya Kaihara, Nobutada Fujii, Hiro Iwatake，Performance Evaluation of Adaptive Particle Swarm Optimization using Estimation Information of Solution Landscape，The Institute of Electrical Engineers of Japan，pp.394-398（2017.09）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Kodai Hirai，A proposal of production scheduling method for realization of mass customization -Adjusting the number of operating machines for cost reduction-，2017年度精密工学会秋季大会学術講演会講演論文集，pp.591-592（2017.09）
+Daichi Itaya, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Rihito Izutsu*, Toyohiro Umeda*，A Study on production scheduling method by cooperation among planners with different evaluation criteria，2017年度精密工学会秋季大会学術講演会講演論文集，pp.587-588（2017.09）
+Ai Ito, Nobutada Fujii, Toshiya Kaihara, Daisuke Kokuryo, Takeshi Shimmura*，A Staff Shift Scheduling Method Considering Allocating Jobs in Restaurant Business -Modeling Including Break Time-，2017年度精密工学会秋季大会学術講演会講演論文集，pp.583-584（2017.09）
+Kaori Yamada, Toshiharu Taura, Kenji Shimada, Yuichi Washida, Akira Tsumaya, Toshiya Kaihara, Yasuyoshi Yokokoji, Ryuta Sato，International Innovation Design School for Enhancing the Ability of Designing Future Products，2017年度精密工学会秋季大会学術講演会講演論文集，pp.581-582（2017.09）
+藤井　信忠，貝原　俊也，國領　大介，藤澤　卓馬，アイデアソンにおける集合知創出とその支援に関する研究　-支援手法の有効性検証-，日本経営工学会2017年春季大会予稿集，pp.88-89（2017.05）
+Nikhanbayev Nursultan, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A study on multiscale modeling and simulation of energy-economic interactions -Creating comprehensive model of energy-economic interactions considering both micro and macro scales，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Toshiya Kaihara, Daisuke Kokuryo, Kodai Hirai，A proposal of production scheduling method for realization of mass customization -Considering users’ satisfaction about due date and price-，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Daisuke　Kokuryo, Toshiya Kaihara, Shota Suginouchi, Kodai Hirai，Construction of smart factory for value co-creative tailor-made design and manufacturing system-Facility expansion and operation methodology considering with users’ demands-，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Kazuma Sakamoto，Empirical analysis of virtual market with dynamic trade model，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Toshiya Kaihara, Daisuke Kokuryo, Nobutada Fujii, Bohan Li，A Characteristic Analysis of Two-echelon Supply Network with Demand Uncertainty using Robust Optimization Approach，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Daichi Itaya, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, *Rihito Izutsu, *Toyohiro Umeda，A study on production scheduling with consideration of workers’ skill under multiple cost parameters，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+Shota .Suginouchi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A study of an optimization method of production scheduling and part selection with combinatorial auction，Proceedings of the 61st Annual Conference of the Institute of Systems, Control and Information Engineers (ISCIE)（2017.05）
+2016
+Yoshiteru Katsumura, *Yuuichi Suginishi, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo，A Study on Effectiveness of Cloud-based Manufacturing System (3)，日本機械学会　生産システム部門研究発表講演会2017講演論文集，No.17-8 pp.101-102（2017.03）
+Toshiya Kaihara, Nobutda Fujii, Daisuke Kokuryo, Kodai Hirai，A proposal of production scheduling method for realization of mass customization -Making a production schedule considering user needs with auction method-，日本機械学会　生産システム部門研究発表講演会2017講演論文集，No.17-8 pp.25-26（2017.03）
+Daichi Itaya, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, *Rihito Idutsu, *Toyohiro Umeda，A study on a production scheduling with consideration of workers' ability and production costs，日本機械学会　生産システム部門研究発表講演会2017講演論文集，No.17-8 pp.47-48（2017.03）
+Shota Suginouchi, Toshiy Kaihara, Nobutada Fujii, Daisuke Kokuryo，A proposal of an optimization method for integrating part selection and production scheduling with pheromone statistic data for multi-period，日本機械学会　生産システム部門研究発表講演会2017講演論文集，No.17-8 pp.23-24（2017.03）
+伊藤　愛、藤井　信忠、貝原　俊也、國領　大介、*新村　猛，外食産業における組合せオークションを用いた人員シフト計画手法 -担当可能業務がシフトに与える影響-，サービス学会　第５回国内大会講演論文集，pp.226-231（2017.03）
+小山　健太、藤井　信忠、貝原　俊也、國領　大介，遺伝的アルゴリズムとシミュレーションの統合による外食産業の厨房設備レイアウト計画 -設備のグループ化を取り入れた計画手法-，サービス学会　第５回国内大会講演論文集，pp.216-221（2017.03）
+渡邉　るりこ、藤井　信忠、国領　大介、貝原　俊也、大西　由訓、安部　洋一、山東　良子, テキストマイニングを用いたコンサルティングサービスの支援手法 -不正予測の実サービスにおける検証-, サービス学会　第５回国内大会講演論文集，pp.187-191（2017.03）
+貝原俊也，藤井信忠，國領大介，坂本一馬，貿易モデルを考慮した仮想市場の特性評価～為替変動による影響～，計測自動制御学会システム・情報部門学術講演会2016（SSI2016）pp.302-305 (2016.12)
+貝原俊也,　藤井信忠，國領大介，橋本祐真，資金の取引関係と共通アセットに着目した金融機関のシステミックリスク解析，計測自動制御学会システム・情報部門学術講演会2016（SSI2016）pp.306-309 (2016.12)
+伊藤愛，藤井信忠，貝原俊也，國領大介，*新村猛，外食産業における作業者の兼務がサービス提供能力へ与える影響を考慮した人員シフト計画手法，計測自動制御学会システム・情報部門学術講演会2016（SSI2016）pp.975-980 (2016.12)
+貝原俊也，藤井信忠，國領大介，岩竹大，Fitness Distance Correlationを用いた解空間の構造推定機能を有する適応的Particle Swarm Optimizationの一提案，計測自動制御学会システム・情報部門学術講演会2016（SSI2016）pp.22-24 (2016.12)
+藤井信忠，貝原俊也，國領大介，藤澤卓馬，アイデアソンにおける対応分析を用いたアイデア創出過程の定量分析，計測自動制御学会システム・情報部門学術講演会2016（SSI2016）pp.759-762 (2016.12)
+Daisuke Kokuryo, Toshiya Kaihara, Syota Suginouchi, Jiali Zhu, K.Hirai, A study of operation methodology for tailor-made manufacturing system considering users' demands-Validation using smart factory system-, Proceedings of the Japan Joint Automatic Control Conference  THE 59TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.111-113 (2016.11)
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, K.Hirai, A proposal of production scheduling method for the realization of mass customization -Applying auction method to planning and operational phases-, Proceedings of the Japan Joint Automatic Control Conference  THE 59TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.118-123 (2016.11)
+Kenta Koyama, Nobutada Fujii, Toshiya Kaihara, Daisuke Kokuryo, *Takeshi Shimmura, Kitchen layout planning in food service industry by integration of simulation and optimization -Effectiveness of maintaining population diversity in Genetic Algorithm-, Proceedings of the Japan Joint Automatic Control Conference  THE 59TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.352-356 (2016.11)
+Ruriko Watanabe, Nobutada Fujii, Daisuke Kokuryo, Toshiya Kaihara, *Yoshinori Onishi, *Yoichi Abe, *Ryoko Santo, Proceedings of the Japan Joint Automatic Control Conference  THE 59TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.370-374 (2016.11)
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Yuma Hashimoto, A Study on Systemic Rick of Financial Institutions with Complex Networks-Impact Analysis of Initial Shock-, The Institute of Electrical Engineers of Japan, pp920-923 (2016.9)
+Daisuke Kokuryo, Toshiya Kaihara, Swee Kuik, Syota Suginouchi, Jiali Zhu，A Study on Operation Methodology of Value Co-creative Smart Factory using Agent-based System，Proceedings of the 60th Annual Conference of the institute of Systems,Control and Information Engineers (CD-ROM) (2016.5)
+Noriyasu Yoshimura, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, A Formalization of Logistics Network Design Considering External Resource Utilization, Proceedings of the 60th Annual Conference of the institute of Systems,Control and Information Engineers (CD-ROM) (2016.5)
+Toshiya Kaihara, Nobutada Fujii, Daiuke Kokuryo, Yuma Hashimoto, Analysis of Virtual Market with Complex Networks-Modeling of Information Exchange among Consumers-, Proceedings of the 60th Annual Conference of the institute of Systems,Control and Information Engineers (CD-ROM) (2016.5)
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Syunta Imamura, Characteristic analysis of information propagation in Artificial Bee Colony Algorithm introducing Network-Structure, Proceedings of the 60th Annual Conference of the institute of Systems,Control and Information Engineers (CD-ROM) (2016.5)
+Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, Hiro Iwatake, A Proposal of Adaptive PSO with Presumption of the Solution Landscape Using Particle Filter, Proceedings of the 60th Annual Conference of the institute of Systems,Control and Information Engineers (CD-ROM) (2016.5)
+藤井信忠，貝原俊也，國領大介，藤澤卓馬，ハッカソンにおける集合知創出とその支援に関する研究，日本経営工学会2016年春季大会予稿集，pp224-225（2016.5）
+
+2015
+貝原俊也, 藤井信忠, *新村猛, 外食産業を対象とした共創的デザインによる生産性革新統合的モデルの構築, サービス学会第四回国内大会講演論文集, pp.45-50 (2016.3)
+藤井信忠, 貝原俊也, 國領大介, 小山健太, *新村猛, シミュレーションと最適化を統合した飲食店の厨房設備レイアウト計画－厨房における通路の考慮－, サービス学会第四回国内大会講演論文集, pp.420-423 (2016.3)
+Toshiya Kaihara, Fujii Nobutada, Kokuryo Daisuke, Hamada Yuuki, *Naito Shingo, A study on optimal operation method of automated storage/retrieval system with combinatorial auction - re-scheduling method considering with dynamic situation in operation phase-, 2016年度精密工学会春季大会学術講演会講演論文集（CD-ROM) (2016.3)
+Katsumura Yoshiteru, *Suginishi Yuuichi, Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, A Study on Effectiveness of Cloud-based Manufacturing System(2), 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.41-42 (2016.3)
+Suginouchi Syota, Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, A research on optimal scheduling and stock allocation planning considering customers' needs with negotiation mechanism between customers and manufacturer, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.55-56 (2016.3)
+Yamamoto Tomoyuki, Fujii Nobutada, Kaihara Toshiya, Kokuryo Daisuke, A method to improve resilience of manufacturing system using Real-Virtual Fusion concept -Rolling Scheduling using information of planning phase-, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.57-58 (2016.3)
+Kokuryo Daisuke, Kaihara Toshiya, Swee S KUIK, Suginouchi Shota, ZHU Jiali, Construction of Value Co-creative Smart Factory for Tailor-made Design and Manufacturing System, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.69-70pp.69-70 (2016.3)
+Haraguchi Harumi, Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, A study of designing for the operator training in a cell manufacturing system, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.71-72 (2016.3)
+Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, Sakai Kyohei, *Umeda Toyohiro, A Methodology on Manufacturing Scheduling Problem with Lot Formation and Machine Allocation using Structure Analysis, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.73-74 (2016.3)
+*Nishi Tatsushi, *Tanimizu Yoshitaka, Kaihara Toshiya, Game Theoretical Models for Supply Chain Optimization, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.99-100 (2016.3)
+*Nonaka Tomomi, *Shimmura Takeshi, *Takahashi Toshifumi, Fujii Nobutada, Kaihara Toshiya，An Employee Satisfaction Model for Service System - An Analysis of Motivators Considering Age Difference in a Restaurant Service -，Proceedings of the Japan Joint Automatic Control Conference  THE 58TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE（CD-ROM) (2015.11)
+Kaihara Toshiya, *Kita Hajime，A New Current towards Innovative Systems Approach，Proceedings of the Japan Joint Automatic Control Conference  THE 58TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE（CD-ROM) (2015.11)
+Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke, Sakai Kyouhei, *Umeda Toyohiro，A Scheduling Method with Lagrangian Decomposition and Coordination Method for Flexible Flow Shop:A Proposal of Lot Formation ，Proceedings of the Japan Joint Automatic Control Conference  THE 58TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE（CD-ROM) (2015.11)
+Suginouchi Syota, Kaihara Toshiya, Fujii Nobutada, Kokuryo Daisuke，A research on optimal scheduling and stock allocation plan with negotiation mechanism among participating elements in supply chain (2nd report)，Proceedings of the Japan Joint Automatic Control Conference  THE 58TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE（CD-ROM) (2015.11)
+Fujii Nobutada, Kaihara Toshiya, Kokuryo Daisuke, Koyama Kenta, *Shimmura Takeshi，Kitchen facility layout planning in food service industry using genetic algorithm and simulation，Proceedings of the Japan Joint Automatic Control Conference  THE 58TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE（CD-ROM) (2015.11)
+*安部洋一，藤井信忠，貝原俊也，*山東良子，企業からの相談内容とインシデント発生確率に関する研究 - 相談記録における特定語の共起分析 - , 日本経営工学会2015年秋季大会予稿集, pp.226-227 (2015.11)
+Imamura Syunta, Toshiya Kaihara, Nobutada Fujii, Daisuke Kokuryo, *Akira Kitamura, A Proposal on Artificial Bee Colony Algorithm with Network-Structure第25回インテリジェント・システム・シンポジウムFAN2015　講演論文集, pp.57-62 (2015.9)
+貝原俊也，IoT時代の新しい"もの・コトづくり"：スマートファクトリー，MIT研究会 (2015.9)
+S.Suginouchi, T.Kaihara, N.Fujii, *S.Yoshida, Y.Koga, Towards an optimal order planning in global supply chain, Proceedings of the 59th Annual Conference of the institute of Systems,Control and Information Engineers（CD-ROM) (2015.5)
+Yasutaka Koga, *Satoshi Yoshida, Toshiya Kaihara, Nobutada Fujii, STRATEGIC FACILITY LOCAION DESIGN OF THE GLOBAL SUPPLY-CHAIN CONSIDERING INVENTORY AMOUNT, Proceedings of the 59th Annual Conference of the Institute of Systems,Control and Information Engineers（CD-ROM) (2015.5)
+Jiali ZHU, Toshiya KAIHARA, Nobutada FUJII, Daisuke KOKURYO, Swee S.Kuik, An Extended EOQ Model considering Recycling,Repair and Reuse in Reverse Supply Chain with Demand Fluctuation, Proceedings of the 59th Annual Conference of the Institute of Systems,Control and Information Engineers（CD-ROM) (2015.5)
+野中朋美, *新村猛, *高橋俊文, 藤井信忠, 貝原俊也, 顧客満足度を考慮した従業員満足度モデル, 日本経営工学会2015年春季大会予稿集, pp.22-23 (2015.5)
+藤井信忠, 貝原俊也, 藤澤卓馬, *安部洋一, *山東良子, *荒谷典利, 企業間ネット ワークにおけるサービスの普及方策に関する研究 - セミナー参加企業のネット ワーク分析 - , 日本経営工学会2015年春季大会予稿集, pp.24-25 (2015.5)
+藤井信忠，高井剛，貝原俊也，*菅原貴弘，SNS環境における情報拡散とその防止に関する研究，第29回人工知能学会年次大会, 2G5-OS-25b-6(CD-ROM) (2015.5)
+貝原俊也, ”ものづくり”における海外潮流と今後日本が目指すべき方向性, ビューローベリタスジャパン講演会,  (2015.5)
+
+2014
+Jumpei Oda, Nobutada Fujii, Toshiya Kaihara, *Takeshi Shimmura, A staff shift scheduling method based on combinatorial auction in restaurant business - Application to real scale problem -, Proceedings of JSPE Semestrial Meeting - 2015 JSPE Spring Conference, pp.661-662 (2015.3)
+Toshiya Kaihara, Nobutada Fujii, Yuuki Hamada, *Shingo Naitoh, A study on multi I/O point automated storage/retrieval system operation with combinatorial auction, Proceedings of JSPE Semestrial Meeting - 2015 JSPE Spring Conference, pp.265-266 (2015.3)
+*Tomomi Nonaka, Nobutada Fujii, *Yuki Kobayakawa, Hajime Mizuyama, Energy-aware Scheduling Using Energy-Block Model Considering Each Machine’s Energy Consumption Pattern - Combination of Energy-Blocks in Various Shapes -, Proceedings of JSPE Semestrial Meeting - 2015 JSPE Spring Conference, pp.97-98 (2015.3)
+勝村義輝,  *杉西優一,  貝原俊也, クラウドマニュファクチャリングの社会有効性に関する研究, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.71-72 (2015.3)
+Tomoyuki Yamamoto, Nobutada Fujii, Toshiya Kaihara, Resilient Manufacturing System Using Real-Virtual Fusion Manufacturing System Concept - Planning Phase for Single Stage Parallel Machines Problem -, Proceedings of JSPE Semestrial Meeting - 2015 JSPE Spring Conference, pp.271-272 (2015.3)
+Nobutada Fujii, Toshiya Kaihara, Masanori Sakaguchi, Tsutomu Yoshikawa, A Study on Integration of Scheduling and Process Planning in Real-Virtual Fusion Manufacturing System - Verification in the operational phase -, Proceedings of JSPE Semestrial Meeting - 2015 JSPE Spring Conference, pp.269-270 (2015.3)
+吉川勉, 貝原俊也, 藤井信忠, 阪口真規　, 組み立て工程におけるエージェントベース制御システム - システム構成手法 -, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.115-116 (2015.3)
+貝原俊也, 藤井信忠, 酒井響平, *梅田豊裕, フレキシブル・フローショップを対象としたラグランジュ分解・調整法を用いたスケジューリング手法 - 機械割付アルゴリズムの一提案 -, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.83-84 (2015.3)
+原口春海, 貝原俊也, 藤井信忠, 国領大介, セル生産における作業者の最適訓練量に関する研究, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.79-80 (2015.3)
+貝原　俊也, IoT環境下における「考える工場」の実現を目指して - 内閣府戦略的イノベーション創造プログラム(SIP)における取り組み, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.41-42 (2015.3)
+北貴之, 貝原俊也,  藤井信忠, *波岡一郎, 半導体生産における複合要因を考慮したロット割付手法の一提案, 日本機械学会生産システム部門研究発表講演会2015 講演論文集, pp.77-78 (2015.3)
+高井剛、藤井信忠、貝原俊也、*菅原貴弘, 複雑ネットワーク環境における情報拡散とその防止に関する研究, 日本経営工学会　2014年秋季大会予稿集, pp.258-259 (2014.11)
+Toshiya Kaihara, Nobutada Fujii, Kyohei Sakai, *Toyohiro Umeda, An Analyzing Method of Scheduling Structure for Large-scale Manufacturing System, Proceedings of the Japan Joint Automatic Control Conference  THE 57TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.2034-2038  (2014.11)
+山本知幸 藤井信忠 貝原俊也, 実仮想融合型生産システムにおけるシミュレーションを用いた初期スケジュール立案手法の一提案, 計測自動制御学会　システム・情報部門学術講演会SSI2014 講演論文集(CD-ROM), pp.1054-1058  (2014.11)
+貝原俊也, 藤井信忠, 駒井寛則, 市場原理を用いたスマートグリッド環境下における電力配分計画の最適化, 計測自動制御学会　システム・情報部門学術講演会SSI2014 講演論文集(CD-ROM), pp.1198-1201  (2014.11)
+吉村 徳泰, 貝原 俊也,  藤井 信忠, 外部資源を考慮した多期間ロジスティクス・ネットワーク・モデリングの一提案, 計測自動制御学会　システム・情報部門学術講演会SSI2014 講演論文集(CD-ROM), pp.1192-1197  (2014.11)
+藤井信忠、貝原俊也、小田純平、*新村猛, 外食産業におけるサービス満足度向上を目指したスタッフスケジューリング手法の構築　- 従業員の能力差と人件費を考慮した人員配置手法の提案 -, DESIGNシンポジウム2014　講演論文集（USB）, pp.531-535  (2014.11)
+T. Kaihara, N. Fujii, S. Suginouchi, *S. Yoshida, Y. Koga, Towards an optimal order planning in global supply chain, Proceedings of the Japan Joint Automatic Control Conference  THE 57TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.2044-2049  (2014.11)
+高井剛, 藤井信忠, 貝原俊也, 複雑ネットワーク環境における情報拡散に関する基礎的検討, 計測自動制御学会　システム・情報部門学術講演会SSI2014 講演論文集(CD-ROM), pp.688-691  (2014.11)
+古賀康隆、*吉田聡、貝原俊也、藤井信忠, グローバルサプライチェーンにおける拠点配置設計に関する研究　～コスト基準の最適工場配置決定手法の一提案～, スケジューリング・シンポジウム2014講演論文集, pp.183-188 (2014.9)
+Nobutada Fujii, Toshiya Kaihara, Masanori Sakaguchi, Tsutomu Yoshikawa, A Study on Integration of Scheduling and Process Planning in Real-Virtual Fusion Manufacturing System - Formulation as a mixed integer programming problem -, Proceedings of JSPE Semestrial Meeting 2014 JSPE Autumn Conference, pp.475-476 (2014.9)
+Harumi Haraguchi, Toshiya Kaihara, Nobutada Fujii, A study on the training schedule in consideration of the acquisition priority of the work of a cell manufacturing system, Proceedings of JSPE Semestrial Meeting 2014 JSPE Autumn Conference, pp.479-480 (2014.9)
+吉村徳泰、貝原俊也、藤井信忠, 外部資源を考慮した多期間ロジスティクス・ネットワーク・モデリングの一提案, 平成26年度電気学会電子・情報・システム部門大会　講演論文集(CD-ROM), pp.442-447 (2014.9)
+Toshiya Kaihara, Nobutada Fujii, Yuuki Hamada, *Shingo Naitoh, A study on multi I/O point automated storage/retrieval system operation with combinatorial auction, Proceedings of JSPE Semestrial Meeting 2014 JSPE Autumn Conference, pp.473-474 (2014.9)
+T. Kaihara, N. Fujii, T. Nonaka, S. Suginouchi, *S. Yoshida, *Y. Koga, A study on accepting and ordering plans for global supply chain, Proceedings of the 58ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2014.5)
+Jiali Zhu, Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, Extended EOQ Model considering Recycling, Repair, and Reuse in Reverse Logistics, Proceedings of the 58ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2014.5)
+Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, Hironori Komai, An optimization of electric power distribution planning with market mechanism for smart grid network, Proceedings of the 58ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2014.5)
+Noriyasu Yoshimura, Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, A study on logistics network design including external resources, Proceedings of the 58ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2014.5)
+*新村猛、*久野芳裕、*大浦秀一、*浅川智之、貝原俊也、藤井信忠、野中朋美, 調理場シミュレータシステムを用いた多品種型和食レストランのリードタイム改善, サービス学会第２回国内大会　講演論文集（pdf download）, pp.13-15 (2014.4)
+藤井信忠、貝原俊也、野中朋美、小田純平、*新村猛, 外食産業におけるサービス満足度向上を目指した人員シフト計画手法の提案―実規模問題への適用―, サービス学会第２回国内大会　講演論文集（pdf download）, pp.325-330 (2014.4)
+貝原俊也、藤井信忠、野中朋美、*新村猛、*大浦秀一、*浅川智之, 共創的デザインによる環境変動適応型レストランサービスモデルの構築, サービス学会第２回国内大会　講演論文集（pdf download）, pp.271-273 (2014.4)
+2013
+Tomomi Nonaka, Toshiya Kaihara, Nobutada Fujii, Jiali Ahu, An EOQ Model for Reverse Logistics with Marginal Reuse Rate, Proceedings of JSPE Semestrial Meeting - 2014 JSPE Spring Conference, pp.521-522 (2014.3)
+Nobutada Fujii, Toshiya Kaihara, Tomomi Nonaka, Shun Nogami, Layout design for underground shopping streets using multi-agent simulation and optimization method (2nd report) -  Integration Approach by Repetition of Optimization and Simulation -, Proceedings of JSPE Semestrial Meeting - 2014 JSPE Spring Conference, pp.405-406 (2014.3)
+Nobutada Fujii, Toshiya Kaihara, Tomomi Nonaka, Masanori Sakaguchi, A Study on Integration of Scheduling and Process Planning in Real-Virtual Fusion Manufacturing System - Application to a Benchmark Problem -, Proceedings of JSPE Semestrial Meeting - 2014 JSPE Spring Conference, pp.33-34 (2014.3)
+Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, Tensuke Okuno, *Masashi Morikawa, A Study on double deep automated storage/retrieval system operation with combinatorial auction, Proceedings of JSPE Semestrial Meeting - 2014 JSPE Spring Conference, pp.31-32 (2014.3)
+野中朋美、貝原俊也、藤井信忠, 設備のエネルギ消費傾向を考慮したエネルギブロックモデルによる環境配慮型スケジューリング, 日本機械学会　生産システム部門研究発表講演会2014講演論文集, pp.93-94 (2014.3)
+*吉川勉、貝原俊也、藤井信忠, 組み立て工程におけるエージェントベース制御システム, 日本機械学会　生産システム部門研究発表講演会2014講演論文集, pp.63-64 (2014. 3
+原口春海、貝原俊也、藤井信忠、野中朋美, 工程分割型セル生産システムにおける共同作業を考慮した作業者配置とスケジューリングに関する研究, 日本機械学会　生産システム部門研究発表講演会2014講演論文集, pp.47-48 (2014.3)
+*北貴之、貝原俊也、藤井信忠、野中朋美、*波岡一郎, 半導体生産における特急ロットに対する再ロット割付手法の一提案, 日本機械学会　生産システム部門研究発表講演会2014講演論文集, pp.35-36 (2014.3)
+藤井信忠、貝原俊也、野中朋美、吉川智哉、*波岡一郎、*北貴之, CPSの概念に基づく実仮想融合型生産システム―設備故障時におけるオークションによる代替設備エージェントの決定―, 日本機械学会　生産システム部門研究発表講演会2014講演論文集, pp.33-34 (2014.3)
+貝原俊也, 製造業のサービス化に向けて　- 価値創造を目指したものづくり - , 野洲市ものづくり経営交流センタースクール　（口頭発表）(2013.12)
+Takayuki Kita, Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, *Ichiro Namioka, A Proposal of Lot Assignment Method in Semiconductor Production System using Muti-agent, Proceedings of the Japan Joint Automatic Control Conference  THE 56TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.1576-1581 (2013.11)
+大掛宗利、藤井信忠、貝原俊也、野中朋美、*中条朱希, 非一様型並列機械スケジューリング問題に対する並列分枝限定法の適用, 計測自動制御学会　システム・情報部門　学術講演会 2013 (SSI2013) 講演論文集(CD-ROM), pp.86-89 (2013.11)
+藤井信忠、貝原俊也、野中朋美、吉川智哉、*波岡一郎、*北貴之, CPSの概念に基づく実仮想融合型生産システム－設備故障時における意志決定参加設備エージェントの限定－, 計測自動制御学会　システム・情報部門　学術講演会 2013 (SSI2013) 講演論文集(CD-ROM), pp.379-382 (2013.11)
+貝原俊也、藤井信忠、野中朋美、小林洋平、藤井進、*井筒理人, 非一様ロット纏め条件を有するフレキシブルフローショップを対象とした分散協調型スケジューリングに関する研究, 計測自動制御学会　システム・情報部門　学術講演会 2013 (SSI2013) 講演論文集(CD-ROM), pp.392-397 (2013.11)
+藤井信忠、貝原俊也、野中朋美、小田純平、*新村猛, 飲食業におけるサービス満足度向上を目指した人員シフト計画に関する計画（従業員の能力差を考慮した計画手法の提案）, 日本機械学会　第23回設計工学・システム部門講演会　講演論文集, USB (2013. 10
+貝原俊也, 製造業のサービス化に向けて - サービス科学研究の概要紹介, 東京大学ものづくり経営研究コンソーシアム　（口頭発表）(2013.9)
+貝原俊也、藤井信忠、野中朋美、伴井悠馬, 応答曲面法による解空間の構造推定機能を有するPSOの提案, 第23回インテリジェント・システム・シンポジウムFAN2013　講演論文集 (CD-ROM), pp.308-311 (2013.9)
+Harumi Haraguchi, Toshiya Kaihara, Nobutada Fujii, Tomomi Nonaka, A study on efficient operation of the cell production system which aimed at the productivity and the skill improvement, Proceedings of JSPE Semestrial Meeting 2013 JSPE Autumn Conference, pp.753-754 (2013.9)
+Nobutada Fujii, Toshiya Kaihara, Tomomi Nonaka, Shun Nogami, Layout design for underground shopping streets using multi-agent simulation and optimization method, Proceedings of JSPE Semestrial Meeting 2013 JSPE Autumn Conference, pp.711-712 (2013.9)
+貝原俊也、藤井信忠、野中朋美、奥野天介、*森川雅司, 組合せオークションを用いた立体自動倉庫の入出庫スケジューリングに関する研究, スケジューリング・シンポジウム2013　（スケジューリング学会シンポジウム）　講演論文集, pp.13-16 (2013.9)
+古賀康隆、*村尾了、貝原俊也, 組合せオークション理論を用いたグローバル需給計画の適正化, スケジューリング・シンポジウム2013　（スケジューリング学会シンポジウム）　講演論文集, pp.17-22 (2013.9)
+吉村 徳泰、貝原 俊也、藤井 信忠、野中　朋美, ロジスティクスネットワーク設計に関する研究, 電気学会 電子・情報・システム部門大会2013 講演論文集, pp.1599-1602 (2013.9)
+Toshiya Kaihara, Fuji Nobutada, Yuma Tomoi, Trial on the presumption of the construction of the solution space during the search of PSO, Proceedings of the 57ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2013.5)
+原口春海、貝原俊也、藤井信忠, セル生産システムにおける訓練の目的別による作業者の配置に関する研究, 日本経営工学会　平成25年度　春季大会予稿集, pp.104-105 (2013.5)
+Toshiya Kaihara，Nobutada Fujii，Tomoya Yoshikawa, *Ichiro Namioka，Takayuki Kita, Real-Virtual Fusion Manufacturing System using model plant -Realization of information propagation method in equipment failure-, Proceedings of the 57ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2013.5)
+Toshiya Kaihara, Nobutada Fujii, Yohei Kobayashi, *Rihito Izutsu, *Toyohiro Umeda, A proposal of the cost minimization method by feedback of the cooperation information in distributed cooperative scheduling approach, Proceedings of the 57ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2013.5)
+Kaihara Toshiya，Fujii Nobutada, Ohgake Munetoshi, *Nakajo Aki, Fast solutions of optimum schedule by massivery parallel computing -Focuisng on test process of semiconducor-, Proceedings of the 57ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, CR-ROM (2013.5)
+*新村 猛、貝原 俊也、 藤井 信忠、*蔵田 武志、*竹中 毅, 労働集約型対面サービス産業を対象としたサービス価値創成システムの提案－サービステクノロジーの統合－, サービス学会　第１回国内大会講演論文集（pdf download）(2013.4)
+藤井 信忠、 貝原 俊也、植村南海、*新村 猛, セントラルキッチンにおける設備レイアウト計画に関する研究―季節変動を考慮したレイアウト生成―, サービス学会　第１回国内大会講演論文集（pdf download）, pp.45-48 (2013.4)
+貝原 俊也、 藤井 信忠、*新村 猛, 共創的デザインによる環境変動適応型レストランサービスモデルの構築, サービス学会　第１回国内大会講演論文集（pdf download）, pp.39-44 (2013.4)
+2012
+小田 純平, 藤井 信忠, 貝原 俊也, 飲食店におけるサービス満足度向上を目指した人員シフト計画に関する基礎的研究, 経営工学会学生関西支部卒業論文・修士論文発表会講演論文集  (2013.3)
+Toshiya Kaihara, Nobutada Fujii, Yuki Nakai, *Yasutaka Koga, *Yuki Sakurai, *Ryo Murao, An optimization method of accepting and ordering plan with Combinatorial Auction for sales-production integrated global production systems, Proceedings of JSPE Semestrial Meeting - 2013 JSPE Spring Conference, pp.395-396 (2013.3)
+Toshiya Kaihara, Nobutada Fujii, Tensuke Okuno, *Masashi Morikawa, A study on double deep automated storage/retrieval system operation considering due date and crane utilization with combinatorial auction, Proceedings of JSPE Semestrial Meeting - 2013 JSPE Spring Conference, pp.405-406 (2013.3)
+Nobutada Fujii, Toshiya Kaihara, Minami Uemura, *Takeshi Shimmura, A study on facility layout optimization in central kitchen (2nd report) - Hybrid solution method of optimization and simulation -, Proceedings of JSPE Semestrial Meeting - 2013 JSPE Spring Conference, pp.1007-1008 (2013.3)
+原口 春海，貝原 俊也，藤井 信忠, セル生産における技能向上を目的とした作業者の配置に関する研究, 日本機械学会　生産システム部門研究発表講演会2013論文集, pp.85-86 (2013.3)
+北 貴之，貝原 俊也，藤井 信忠，*波岡 一郎, 半導体生産におけるロット処理バランスを考慮した生産スケジューリング研究, 日本機械学会　生産システム部門研究発表講演会2013論文集, pp.61-62 (2013.3)
+吉川 勉，貝原 俊也，藤井 信忠, 状況変化に適応可能な組み立て工程の制御システム, 日本機械学会　生産システム部門研究発表講演会2013論文集, pp.37-38 (2013.3)
+藤井 信忠, マルチエージェントシステムによるシステムの信頼性構築 - 適応性と最適性の狭間で -, 日本鉄鋼協会　　計測・制御・システム工学部会　次世代鉄鋼業のあるべき姿を具現化するシステム技術フォーラム 第４回公開フォーラム (2013.1)
+貝原 俊也, グローバルものづくりにおけるシステム最適化技術, 日本機械学会計算力学部門第10回最適化シンポジウムアブストラクト集, pp.1-11 (2012.12)
+藤井 信忠, 社会適応型生産システムアプローチ構築への取り組み, 計測自動制御学会　　第 51 回自律分散システム部会 研究会,  (2012.12)
+貝原俊也，藤井信忠，小林洋平，藤井進，*井筒理人, ロット編成を有するフレキシブルフローショップを対象とした分散協調型スケジューリング手法によるコスト最小化, 計測自動制御学会　システム・情報部門　学術講演会 2012講演論文集 （CD-ROM）, pp.181-186 (2012.11)
+田ノ畑裕幸，貝原俊也，藤井信忠, 搬送を考慮した分散協調型生産スケジューリング手法に関する研究, 計測自動制御学会　システム・情報部門　学術講演会 2012 講演論文集（CD-ROM）, pp.82-87 (2012.11)
+Toshiya Kaihara, Nobutada Fujii, Koji Kobayashi, An optimisation methodology on power distribution planning with market-oriented programming in smart grid, Proceedings of the Japan Joint Automatic Control Conference  THE 55TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.173-176 (2012.11)
+Fang Yu, Toshiya Kaihara, Nobutada Fujii, Coalition Formation based Multi-item Negotiation of Supply Chain Network, Proceedings of the Japan Joint Automatic Control Conference  THE 55TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.155-160 (2012.11)
+貝原 俊也, 社会指向型生産システムの概要紹介 －人とシステムの調和に基づくモノづくりを目指して, 電気学会C部門　生産スケジューリング業務のシステム化規範に関する協同研究委員会,  (2012.11)
+藤井 信忠, 貝原 俊也, 阪口 英生, 社会的ネットワーク構造を導入した分散遺伝的アルゴリズム, 日本経営工学会 平成24年度秋季研究大会予稿集, pp.170-171 (2012.11)
+藤井 信忠, 貝原 俊也, 植村 南海, 新村 猛, 製販一体型のサービス生産システムに関する研究－外食産業におけるセントラルキッチンの設備レイアウト計画－, Designシンポジウム2012講演論文集, pp.241-244 (2012.10)
+Toshiya Kaihara, Nobutada Fujii, *Yuuki Sakurai, *Ryo Murao, Impact of information sharing in the scheduling optimization for sales-production integrated global production system, Proceedings of JSPE Semestrial Meeting 2012 JSPE Autumn Conference, pp.767-768 (2012.9)
+Nobutada Fujii, Toshiya Kaihara, Minami Uemura, *Takeshi Shimmura, A study on facility layout optimization in central kitchen - A solution using genetic algorithm and computer simulation -, Proceedings of JSPE Semestrial Meeting 2012 JSPE Autumn Conference, pp.223-224 (2012.9)
+Fang Yu, Toshiya Kaihara, Nobutada Fujii, A game theory based negotiation for the supply chain network ‐ The optimal setting of the supply chain structure ‐, Proceedings of the 56ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.69-70 (2012.5)
+Toshiya Kaihara，Nobutada Fujii, Koji Kobayashi, Basic study for optimizing logistics planning by Market-Oriented-Programming, Proceedings of the 56ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.135-136 (2012.5)
+Toshiya Kaihara，Nobutada Fujii， *Ichiro Namioka, Tomoya Yoshikawa, Real-Virtual Fusion Manufacturing System with model plant -Realization of autonomous distributed logistics control mechanism-, Proceedings of the 56ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.133-134 (2012.5)
+2011
+Toshiya Kaihara, Nobutada Fujii, Yuki Nakai, Optimization scheduling method with combinatorial auction for sales-production integrated global production system, Proceedings of JSPE Semestrial Meeting - 2012 JSPE Spring Conference, pp.1061-1062 (2012.3)
+黒瀬　伸二、貝原　俊也、藤井 信忠, 半導体製造におけるスケジューリングの最適化および実規模モデルへの適用, 日本機械学会生産システム部門研究発表講演会2012講演論文集, pp.63-64 (2012.3)
+岩元　隆志、 貝原　俊也、 藤井　信忠、*藤井　進、*梅田　豊裕, ロット編成と段取り替えを有するフレキシブル・フローショップを対象とした分散協調型スケジューリング手法によるロット編成とスケジューリングの同時最適化, 日本機械学会生産システム部門研究発表講演会2012講演論文集, pp.61-62 (2012.3)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Scheduling Method in Autonomous Distributed Real-Virtual Fusion Manufacturing System (5th Report) - Influence on Rescheduling with the Generated Range of Virtual System -, Proceedings of JSPE Semestrial Meeting - 2012 JSPE Spring Conference, pp.1059-1060 (2012.3)
+*S. Fujii, N. Fujii, *K. Iwamura, *E. Morinaga, A. Tsumaya, *T. Inoue, *T. Mariyama, A study on Highly-Distributed Manufacturing System Simulation under Ubiquitous Environment (2nd Report) - A Framework for Highly-Distributed Manufacturing System Simulation -, Proceedings of JSPE Semestrial Meeting - 2012 JSPE Spring Conference, pp.1075-1076 (2012.3)
+*S. Fujii, N. Fujii, *K. Iwamura, *E. Morinaga, A. Tsumaya, *M. Koike, A Study on Highly-Distributed Manufacturing System Simulation under Ubiquitous Environment (1st Report) - Time Management Algorithm for Highly-Distributed Simulation -, Proceedings of JSPE Semestrial Meeting - 2012 JSPE Spring Conference, pp.1073-1074 (2012.3)
+Suguru Hatta, Toshiya Kaihara, Nobutada Fujii, *Masashi Morikawa, A study on automated storage retrieval system operation considering routing distance and tardiness with combinatorial auction, Proceedings of JSPE Semestrial Meeting - 2012 JSPE Spring Conference, pp.1063-1064 (2012.3)
+貝原俊也，藤井信忠，指熊康太, ネットワーク構造に基づく情報共有を適用したParticle Swarm Optimization に関する研究, 計測自動制御学会システム・情報部門講演会2011講演論文集(CD-ROM), pp.376-377 (2011.11)
+藤井信忠，貝原俊也，吉川智哉, 消費者ネットワークにおけるサービス普及のエージェントシミュレーション－繰り返し利用するサービスの普及への消費者効用の非均質性の影響－, 第四回横幹連合コンファレンス講演論文集, 2F1-2 (2011.11)
+田ノ畑裕幸，貝原俊也，藤井信忠, 列生成法を用いたフローショップスケジューリング手法に関する研究, 計測自動制御学会システム・情報部門講演会2011講演論文集(CD-ROM), pp.378-381 (2011.11)
+銭毅, 藤井信忠，貝原俊也，藤井進, *梅田豊裕, 社会的交渉手法を用いた実仮想融合生産スケジューリング ―シミュレーションによる意思決定手法―, 計測自動制御学会システム・情報部門講演会2011講演論文集(CD-ROM), pp.329-333 (2011.11)
+Toshiya Kaihara, Nobutada Fujii, Koji Kobayashi, Application of Market-Oriented-Programming into Mixed-Integer-Programming, Proceedings of the Japan Joint Automatic Control Conference  THE 54TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.1183-1185 (2011.11)
+Nobutada Fujii, Toshiya Kaihara, Hideo Sakaguchi, A Study on Distributed Genetic Algorithm introducing Complex Networks - Influence of Network Structure on Neighborhood Model -, Proceedings of the Japan Joint Automatic Control Conference  THE 54TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, pp.1186-1187 (2011.11)
+*坂平文博，*織田瑞夫，*畑圭輔，藤井信忠，貝原俊也, アンケートデータに基づく主観的評価を用いた非耐久消費財のシェアシミュレーション, JAWS2011 (Joint Agent Workshop and Symposium 2011) 講演論文集, 48-1～48-8 (2011.10)
+岩元 隆志，貝原 俊也，藤井 信忠，*藤井 進，*梅田 豊裕, ロット編成と段取り替えを有するフレキシブル・フローショップを対象とした分散協調型スケジューリング手法に関する研究－ロット編成法の特性評価－, 2011年度　日本機械学会全国大会講演論文集, DVD-ROM (2011.9)
+貝原俊也, 藤井信忠, マルチエージェントシステムによる経済社会シミュレーション, 平成23年度　電気学会電子・情報・システム部門大会講演論文集(CD-ROM), pp.332-337 (2011.9)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Scheduling Method in Autonomous Distributed Real-Virtual Fusion Manufacturing System (4th Report) - Influence on Rescheduling with Limitation of Partial Components -, Proceedings of JSPE Semestrial Meeting 2011 JSPE Autumn Conference, pp.55-56 (2011.9)
+Suguru Hatta, Toshiya Kaihara, Nobutada Fujii, *Masashi Morikawa, A study on optimization method based on social negotiation mechanism for automated storage retrieval system operation - JIT transportation scheduling in warehouse -, Proceedings of JSPE Semestrial Meeting 2011 JSPE Autumn Conference, pp.49-50 (2011.9)
+Toshiya Kaihara, Nobutada Fujii, Kouta Sashikma, A Study on Particle Swarm Optimization with Considering Diversity Maintenance - An Application of Information Sharing with Complex Network-, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.397-398 (2011.5)
+T. Kaihara, N. Fujii, H. Tanohata, A Study on Column Generation for Flowshop Scheduling Problem, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.661-662 (2011.5)
+Toshiya Kaihara, Nobutada Fujii, Takashi Iwamoto, *Susumu Fujii, *Toyohiro Umeda, A proposal of distributed cooperative scheduling approach for flexible flow shop with lot formation and setup problems -Lot formation considering of due date-, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.659-660 (2011.5)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Real-Virtual Fusion Manufacturing Scheduling with Social Contract Based Approach - Information propagation with introducing Latest Start Time -, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.657-658 (2011.5)
+N. Fujii, T. Kaihara, H. Sakaguchi, A study on Distributed Genetic Algorithm Introducing Complex Networks, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.395-396 (2011.5)
+*Mizuo Oda, *Fumihiro Sakahira, *Keisuke Hata, Nobutada Fujii, Toshiya Kaihara, Simulation about New Product Diffusion Process by Social Networking Approach and Agent Based Simulation, Proceedings of the 55ｔh Annual Conference of the Institute of Systems, Control and Information Engineers, pp.393-394 (2011.5)
+2010
+貝原俊也, キーノートスピーチ　：　サービス生産システムにおける顧客サービスの計測・解析に関する研究, 2011年度精密工学会春季大会学術講演会講演論文集, pp.581-582 (2011.3)
+銭毅, 藤井信忠, 貝原俊也, 藤井進, 梅田豊裕, 社会的交渉手法を用いた実仮想融合型生産スケジューリング－運用段階における組合せオークション手法の適用－, 日本機械学会生産システム部門講演会2011講演論文集,  (2011.3)
+八尾佳宏, 貝原俊也, 藤井信忠, 動的環境下における部門間統合型生産スケジュールに関する研究（部門内・部門間生産スケジューリングの連携）, 日本機械学会生産システム部門講演会2011講演論文集,  (2011.3)
+岩元隆志, 貝原俊也, 藤井信忠, 藤井進, 梅田豊裕, ロット編成・段取り替え問題を有するフレキシブル・フローショップを対象とした分散協調型スケジューリング手法に関する研究―納期を考慮したロット編成法の提案―, 日本機械学会生産システム部門講演会2011講演論文集,  (2011.3)
+Suguru Hatta, Toshiya Kaihara, Nobutada Fujii, *Masashi Morikawa, Research on optimization methodology with social negotiation mechanism for automated storage retrieval system operation, Proceedings of JSPE Semestrial Meeting - 2011 JSPE Spring Conference, pp.561-562 (2011.3)
+Tatsuya Omori, Toshiya Kaihara, Nobutada Fujii, Susumu Fujii, *Masashi Kurahashi, Research on optimization method considering worker allocation and production scheduling with combinatorial auction for cell manufacturing systems - Application of local search method into bid determination problem -, Proceedings of JSPE Semestrial Meeting - 2011 JSPE Spring Conference, pp.553-554 (2011.3)
+Nobutada Fujii, Toshiya Kaihara, Tomoya Yoshikawa, A Study on Service Diffusion in Complex Networks (4th report) - Application to Service Purchased Repeatedly -, Proceedings of JSPE Semestrial Meeting - 2011 JSPE Spring Conference, pp.573-574 (2011.3)
+黒瀬伸二, 貝原俊也, 藤井信忠, 半導体製造におけるスケジューリングの最適化および実規模モデルへの適用, 日本機械学会生産システム部門講演会2011講演論文集,  (2011.3)
+銭　毅，藤井　信忠，貝原　俊也，*藤井　進，*梅田　豊裕, 社会的交渉手法を用いた実仮想融合型生産スケジューリング　－組合せオークション手法の適用－, 計測自動制御学会 システム・情報部門学術講演会2010論文集　（CD-ROM）, 2G3-2 (2010.11)
+藤井信忠，貝原俊也，吉川智哉, 複雑ネットワークを用いた複数競合サービスの普及に関する研究　～消費者効用の非均質性の影響～, 計測自動制御学会 システム・情報部門学術講演会2010論文集　（CD-ROM）, 2F2-4 (2010.11)
+辻部晃久，貝原俊也，藤井信忠，*野中洋一, 分散協調型手法を用いた定期・定量メンテナンススケジューリングに関する研究－局所探索法の定量メンテナンス実施時期決定法への適用－, 計測自動制御学会 システム・情報部門学術講演会2010論文集　（CD-ROM） (2010.11)
+松田徹也，貝原俊也，藤井信忠, 消費エージェントが複数期戦略を有する仮想市場下での資源配分特性解析, 計測自動制御学会 システム・情報部門学術講演会2010論文集　（CD-ROM） (2010.11)
+貝原俊也, マルチエージェントシステムによる社会的交渉ベース生産スケジューリング手法, スケジューリング・シンポジウム2010講演論文集, pp.217-222 (2010.9)
+Nobutada Fujii, Toshiya Kaihara, Tomoya Yoshikawa, A study on Service Diffusion in Complex Networks (3rd report) - Application to Competitive Market with Plural Services -, Proceedings of JSPE Semestrial Meeting 2010 JSPE Autumn Conference, pp.589-590 (2010.9)
+Yoshihiro Yao, Toshiya Kaihara, Nobutada Fujii, A Study on Integration of Interdivisional and Divisional Scheduling in Dynamically Changing Manufacturing Environment, Proceedings of JSPE Semestrial Meeting 2010 JSPE Autumn Conference, pp.93-94 (2010.9)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Scheduling Method in Autonomous Distributed Real-Virtual Fusion Manufacturing System (3rd Report) - Schedule Optimization in Planning Phase-, Proceedings of JSPE Semestrial Meeting 2010 JSPE Autumn Conference, pp.91-92 (2010.9)
+Tastuya Omori, Toshiya Kaihara, Nobutada Fujii, *Susumu Fujii, *Masashi Kurahashi, Research on the optimization of cell manufacturing scheduling method with combinational auction - Application of greedy method to neighborhood creation in the bid determination problem -, Proceedings of JSPE Semestrial Meeting 2010 JSPE Autumn Conference, pp.89-90 (2010.9)
+高尾好江、林真弘、國領大介、熊本悦子、貝原俊也、黒田輝, 肝のMRガイド下集束超音波治療のための血管樹状構造を用いた三次元目標点追尾, 第38回日本磁気共鳴医学会大会,  (2010.9)
+Shinji KUROSE, Toshiya KAIHARA, Nobutada FUJII, A Study on Scheduling Problem in Semiconductor Manufacturing, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.363-364 (2010.5)
+Toshiya KAIHARA, Nobutada FUJII, Shinya Aoyama, *Susumu Fujii, *Toyohiro Umeda, A proposal of Production Scheduling Method with J-Cost method, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.121-122 (2010.5)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Scheduling Method in Autonomous Decentralized Real-Virtual Fusion Manufacturing System (2nd Report) - Decision Making Method in Virtual System-, Proceedings of JSPE Semestrial Meeting 2010 JSPE Autumn Conference, pp.8-9 (2010.5)
+Yoshie Takao, Masahiro Hayashi, Etsuko Kumamoto, Toshiya Kaihara, *Daisuke Kokuryo, *Kagayaki Kuroda, Analysis of the Liver Deformation and Displacement based on Three-dimensional Vessel Structures, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.419-420 (2010.5)
+Makiya Matsumoto, Susumu Aizawa, Yuichiro Matsuoka, Etsuko Kumamoto, Toshiya KAIHARA, *Kagayaki Kuroda, Image fusion technique for MR-Endoscope system, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.413-414 (2010.5)
+Akihisa Tsujibe, Toshiya KAIHARA, Nobutada FUJII, Youichi Nonaka, A proposal of Proactive Maintenance Scheduling method with Periodical and Quantitative Maintenances, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.367-368 (2010.5)
+Mizuo ODA, Toshiya KAIHARA, Nobutada FUJII, A Study on the Construction of Market Simulator by Agent Based Approach, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.64-65 (2010.5)
+Tetsuya Matsuda, Toshiya Kaihara, Nobutada Fujii, Resource allocation analysis with time series variation in virtual perfect competitive market, Proceedings of the 54th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.55-56 (2010.5)
+2009
+Tastuya Omori, Toshiya Kaihara, Nobutada Fujii, *Susumu Fujii, *Masashi Kurahashi, *Nobuhiro Hayashi, *Shinya Inao, Basic analysis on cell manufacturing scheduling method with combinatorial auction - A case of assembly cell production considering workers’ skill level -, Proceedings of JSPE Semestrial Meeting - 2010 JSPE Spring Conference, p.219-220 (2010.3)
+八尾佳宏、貝原俊也、藤井信忠, 動的環境下における部門間生産スケジューリングの最適化についての研究, 日本機会学会　生産システム部門研究発表講演会2010講演論文集, p.31-32 (2010.3)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, *Susumu Fujii, *Toyohiro Umeda, Scheduling Method in Autonomous Decentralized Real-Virtual Fusion Manufacturing System, Proceedings of JSPE Semestrial Meeting - 2010 JSPE Spring Conference, p.217-218 (2010.3)
+Nobutada Fujii, Toshiya Kaihara, Tomoya Yoshikawa, A study on Service Diffusion in Complex Networks (2nd report) - Introducing Heterogeneity of Consumer Utility -, Proceedings of JSPE Semestrial Meeting - 2010 JSPE Spring Conference, p.33-34 (2010.3)
+陳楠、藤井信忠、貝原俊也, 進化型ニューラルネットワークを用いた構内物流の効率化に関する研究, 日本機会学会　生産システム部門研究発表講演会2010講演論文集, p.63-64 (2010.3)
+黒瀬伸二、貝原俊也、藤井信忠, 半導体製造における協調型スケジューリング手法の一提案, 日本機会学会　生産システム部門研究発表講演会2010講演論文集, p.33-34 (2010.3)
+長谷川弘幸，貝原俊也，藤井信忠，黒瀬伸二, リエントラントフレキシブルフローショップを対象とした資源割当問題における最適化法－公開型組合せオークションによるアプローチ－, 計測自動制御学会システム・情報部門学術講演会2009講演論文集(USB), pp.400-405 (2009.11)
+貝原俊也，藤井信忠，小西孝行, 進化的アルゴリズムを組み込んだハイブリッド型Particle Swarm Optimizationの一提案, 計測自動制御学会システム・情報部門学術講演会2009講演論文集(USB), pp.334-339 (2009.11)
+Shinji Kurose, Toshiya Kaihara, Nobutada Fujii, A Proposal on Cooperative Scheduling method for Semiconductor Manufacturing, Proceedings of the Japan Joint Automatic Control Conference  THE 52ND JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, A3-6 (2009.11)
+Hiroshi Hasegawa, Toshiya Kaihara, Nobutada Fujii, *Shinji Kurose, A manufacturing scheduling method using Lagrangian decomposition and coordination approach - Application to re-entrant flexible flow shop problem -, Proceedings of the Japan Joint Automatic Control Conference  THE 52ND JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, A1-3 (2009.11)
+Toshiya Kaihara, Nobutada Fujii, Sayaka Toide, *Takahiro Nakano, Optimization Method using Combinatorial Auction for Production Scheduling with Batch Processing, Proceedings of the Japan Joint Automatic Control Conference  THE 52ND JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, A1-5 (2009.11)
+Tetsuya Matsuda, Toshiya Kaihara, Nobutada Fujii, Resource allocation analysis in a perfectly competitive virtual market with demand constrains of consumers, Proceedings of the Japan Joint Automatic Control Conference  THE 52ND JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, A3-5 (2009.11)
+江田崇，藤井信忠，貝原俊也, 異質性を導入した消費者ネットワークにおける外部性を有した製品市場のシミュレーション, 計測自動制御学会システム・情報部門学術講演会2009講演論文集(USB), pp.173-178 (2009.11)
+貝原俊也，藤井信忠，辻部晃久，野中洋一, 分散協調型手法を用いたプロアクティブメンテナンススケジューリングに関する研究, 計測自動制御学会システム・情報部門学術講演会2009講演論文集(USB), pp.328-333 (2009.10)
+Yoshihiro Yao, Toshiya Kaihara, Nobutada Fujii, A Study on Optimization of Interdivisional Scheduling for Dynamically Changing Manufacturing Environment - Integration with Scheduling of each Division -, Proceedings of JSPE Semestrial Meeting 2009 JSPE Autumn Conference, pp.985-986 (2009.9)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, Construction of Decentralized Real-Virtual Interaction Manufacturing System using Model Plant, Proceedings of JSPE Semestrial Meeting 2009 JSPE Autumn Conference, pp.967-968 (2009.9)
+Nobutada Fujii, Toshiya Kaihara, Tomoya Yoshikawa, A study on Service Diffusion in Complex Networks - Introducing Heterogeneity of Service Quality -, Proceedings of JSPE Semestrial Meeting 2009 JSPE Autumn Conference, pp.525-526 (2009.9)
+Toshiya Kaihara, Nobutada Fujii, Tastuya Omori, *Susumu Fujii, *Masashi Kurahashi, *Nobuhiro Hayashi, *Shinya Inao, Basic analysis on cell manufacturing scheduling method with combinatorial auction - Relationship between optimality and calculation time -, Proceedings of JSPE Semestrial Meeting 2009 JSPE Autumn Conference, pp.977-978 (2009.9)
+貝原俊也, 社会的交渉アルゴリズムによるスケジューリング手法 ～マルチエージェントシステムからのアプローチ～, 2009年スケジューリング学会講演論文集, pp.113-118 (2009.9)
+銭毅，貝原俊也，藤井信忠, エージェントベース実仮想融合型生産スケジューリング環境の構築, 2009年スケジューリング学会講演論文集, pp.119-124 (2009. 9
+Toshiya Kaihara, Supply network analysis with considering product life cycle, Proceedings of JSPE Semestrial Meeting 2009 JSPE Autumn Conference, pp.1013-1014 (2009.9)
+Ｙi Qian, Nobutada Fujii, Toshiya Kaihara, A Study on real-virtual interaction method for production scheduling using model plant, 精密工学会2009年度関西地方学術講演会　講演論文集, pp.9-10 (2009.5)
+Toshiya Kaihara, Nobutada Fujii, Hiroshi Hasegawa, *Shinji Kurose, A manufacturing scheduling method of re-entrant flow shops using Lagrangian decomposition and coodination approach, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.237-238 (2009.5)
+Toshiya Kaihara, Nobutada Fujii, Akihisa Tsujibe, *Youichi Nonaka, A proposal of Proactive Maintenance Scheduling method for flexible jobshop with distributed cooperative approach, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.91-92 (2009.5)
+M. Matsumoto, Y. Shoji, Y. Matsuoka, E. Kumamoto, T. Kaihara, *K. Kuroda, Development of Tracking Technique with Wireless tuned marker coils for Integrated MR-Endoscope system, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.271-272 (2009.5)
+Toshiya Kaihara, Nobutada Fujii, Takayuki Konishi, Ａ Proposal of Hybrid Particle Swarm Optimization with Evolutionary Algorithm, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.283-284 (2009.5)
+Ｔ. Eda, N. Fujii, T. Kaihara, Diffusion of Products with Network-Externalities in Heterogeneous Consumer Network, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.659-660 (2009.5)
+Ｔoshiya Kaihara, Nobutada Fujii, Sayaka Toide, *Hisaya Ishibashi, Ａ study on Optimization Method for Production Scheduling with Batch Process by Combinatorial Auction, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.93-94 (2009.5)
+Yoshihiro Yao, Toshiya Kaihara, Nobutada Fujii, A Study on Optimization of Interdivisional Scheduling for Dynamically Changing Manufacturing Environment, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, PP.87-88 (2009.5)
+*Shinji Kurose, Toshiya Kaihara, Nobutada Fujii, Hiroyuki Hasegawa, A Study on Scheduling Problem in Semiconductor Manufacturing, Proceedings of the 53rd Annual Conference of the Institute of Systems, Control and Information Engineers, pp.89-90 (2009.5)
+2008
+貝原俊也、藤井信忠、西林聡、*藤井進、*梅田豊裕, フレキシブル・フローショップを対象とした分散協調型スケジューリング手法によるロット編成とスケジューリングの同時最適化, 日本機械学会　生産システム部門研究発表講演会2009講演論文集　, P.79-80 (2009.3)
+貝原俊也、藤井信忠、水島優二, 回収業者の意思決定を導入した製品ライフサイクルシミュレーション, 日本機械学会　生産システム部門研究発表講演会2009講演論文集　, P.55-56 (2009.3)
+Yi Qian, Nobutada Fujii, Toshiya Kaihara, A study on real-virtual ineraction method for production scheduling using model plant, Proceedings of JSPE Semestrial Meeting - 2009 JSPE Spring Conference, p.323-324 (2009.3)
+Toshiya Kaihara, Nobutada Fujii, Shohei Tsuji, *Susumu Fujii, *Masashi Kurahashi, *Noburiro Hayashi, An optimality analysis of cell manufacturing scheduling method based on auction mechanism using cell negotiation, Proceedings of JSPE Semestrial Meeting - 2009 JSPE Spring Conference, p.327-328 (2009.3)
+藤井信忠、貝原俊也、大塚太朗, 分散型遺伝的アルゴリズムによるリアクティブ・スケジューリング手法に関する研究, 日本機械学会　生産システム部門研究発表講演会2009講演論文集, P.21-22 (2009.3)
+貝原俊也、藤井信忠、植田育宏, 動的環境下における市場指向プログラミングを用いた資源配分, 計測自動制御学会　システム・情報部門学術講演会2008　講演論文集, p.257-260 (2008.11)
+江田崇、藤井信忠、貝原俊也, 複雑ネットワーク環境下における消費者の異質性を導入した外部性を有する製品の普及特性, 計測自動制御学会　システム・情報部門学術講演会2008　講演論文集, p.135-138 (2008.11)
+貝原俊也、藤井信忠、西林聡、*藤井進、*梅田豊裕、, フローショップを対象とする近似ラグランジュ緩和法を用いた分散協調型スケジューリング手法の一提案, 計測自動制御学会　システム・情報部門学術講演会2008　講演論文集, P.187-192 (2008.11)
+貝原俊也、藤井信忠、松山芳和, 複数の完全競争型動的仮想市場における資源配分特性解析, 計測自動制御学会　システム・情報部門学術講演会2008　講演論文集, P.77-80 (2008.11)
+藤井信忠、 貝原俊也、 水島優二, 回収業者の意思決定を考慮した循環型社会のマルチエージェントシミュレーション, 同エージェントワークショップ＆シンポジウム２００８（JAWS-2008）予稿集, CD-ROM (2008.10)
+熊本悦子、松本真基也、小路優、松岡雄一郎、*黒田輝、貝原俊也, ワイヤレスマーカーを用いたMR内視鏡トラッキング手法の検討, 第17回日本コンピュータ外科学会大会　抄録集, 08(ⅩⅤ)-87：pp403-404 (2008.10)
+Kaihara　Toshiya, Fujii Nobutada, Shohei Tsuji, Susumu Fujii, Masashi Kurahashi, Nobuhiro Hayashi, A study on auction based manufacturing scheduling method with cell negotiation mechanism, Proceedings of JSPE Semestrial Meeting 2008 JSPE Autumn Conference, P.891-892 (2008.9)
+松本真基也、 小路優、 松岡雄一郎、 熊本悦子、*黒田輝、貝原俊也, MR-内視鏡システムにおける画像融合のためのデバイストラッキング, 体医工学シンポジウム2008講演予稿集, pp.318-322 (2008.9)
+松本真基也、小路優、松岡雄一郎、熊本悦子、*黒田輝、貝原俊也, MR－内視鏡システムにおける画像融合のための内視鏡先端の位置・姿勢検出, 第36回 日本磁気共鳴医学会大会　講演抄録集, pp.239 (2008.9)
+貝原 俊也、藤井 信忠、指尾 健太郎、銭 毅, モデルプラントを用いた実仮想融合型の生産管理手法に関する研究, 日本機械学会　生産システム部門研究発表講演会2008　講演論文集, pp.71-71 (2008.7)
+藤井 信忠、 貝原 俊也、 指尾 健太郎、 大塚 太朗, マルチエージェントシステムを用いた遅延情報伝播に基づくリアクティブ・スケジューリングに関する研究, 日本機械学会　生産システム部門研究発表講演会2008　講演論文集, pp.31-32 (2008.7)
+Nobutada Fujii, Toshiya Kaihara, Yuji Mizushima, A study on the recycling society using Multi-agent System, The 22nd Annual Conference of the Japanese Society for Artificial Intelligence, CD-ROM, 3B3-8 (2008.6)
+Toshiya Kaihara, Kentaro Sashio, Satoshi Nishibayashi, *Susumu Fujii, *Toyohiro Umeda, A Proposal of Distributed Cooperative Scheduling to Solve Flow Shop Scheduling Problems, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.499－500 (2008.5)
+Tosiya Kaihara, Kentaro Sashio, Ikuhiro Ueda, Application of MOP into perfectly competitive virtual market based on growth theory, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.231-232 (2008.5)
+Yuu Shouji, Makiya Matsumoto, Shou Nishiyama, Yuuichirou Matsuoka, Etsuko Kumamoto, Toshiya Kaihara, *Kagayaki Kuroda, Tracking method of MR endoscope with tuned marker coils, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.103-104 (2008.5)
+Toshiya KAIHARA，Kentaro SASHIO， Yoshikazu MATSUYAMA, A study on resource allocation analysis in multiple perfectly competitive virtual markets, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.503-504 (2008.5)
+N．Fujii，T. Kaihara ，*T．Eda, A study on products diffusion with externality in complex networks, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.235-236 (2008.5)
+Toshiya KAIHARA, Nobutada FUJII, Kentaro SASHIO Hiroyuki HASESGAWA, *Shinji KUROSE, A study on optimization method with combinational auction－ application to resource allocation problem of re-entrant flowshop －, Proceedings of the 52nd Annual Conference of the Institute of Systems, Control and Information Engineers, CD-ROM, P.497－498 (2008.5)
+2007
+貝原俊也，神野亘俊, 限定的な情報共有環境下における拡張ラグランジュ分解調整法を適用した企業間交渉の最適化に関する研究, 計測自動制御学会システム・情報部門学術講演会 2007,  (2007.11)
+貝原俊也，指尾健太郎，藤井進，三浦克仁, 生産スケジューリング問題に対する組合せオークションを用いた最適化手法に関する一提案, 計測自動制御学会システム・情報部門学術講演会 2007,  (2007.11)
+松本真基也　松岡雄一郎　小路優　山田唯　小寺邦彦　熊本悦子　黒田輝　貝原俊也, MR-内視鏡システムにおける視野の位置・角度ならびに歪みを考慮した画像融合, 第16回日本コンピュータ外科学会大会, 07(ⅩⅣ)-075, pp171-172 (2007.11)
+国領大介、貝原俊也、熊本悦子、藤井進、黒田輝, 肝臓に対するMRガイド下集束超音波療法のための照射位置推定法の検討, 第16回日本コンピュータ外科学会大会, 07(VIII)-37, pp.95-96 (2007.11)
+松本真基也　松岡雄一郎　山田唯　小寺邦彦　熊本悦子　黒田輝　貝原俊也, MR-内視鏡融合システムにおける画像呈示法, 第35回日本磁気共鳴医学会　講演抄録集, EP-1-119, pp335 (2007.9)
+黒田輝、国領大介、熊本悦子、Rojas Jonathan, Bilgin Keserci、岡田篤哉、、村上卓道, 集束超音波治療のための磁気共鳴による非侵襲・自己参照型温度分布画像化法, 第24回日本ハイパーサーミア学会,  (2007.9)
+黒田輝、ロハスジョナタン、国領大介、熊本悦子, 脂質MR信号の温度依存性に関する基礎検討, 第35回日本磁気共鳴医学会大会, EP-3-001, pp.440 (2007.9)
+国領大介、黒田輝、Bilgin Keserci、岡田篤哉、藤井進、熊本悦子、貝原俊也, 腹腔臓器に対するMRガイド下集束超音波治療のための照射位置推定の検討, 第35回日本磁気共鳴医学会大会, EP-2-156, pp.430 (2007.9)
+Yoshihiro Yao, Toshiya Kaihara, Kentaro Sashio, Kosuke Morikawa, A Study on Automated Scheduling Methodology for Machining Job Shop, Proceedings of JSPE Semestrial Meeting 2007 JSPE Autumn Conference, pp.375-376 (2007.9)
+松岡雄一郎　関野直己　森田圭紀　松本真基也　久津見弘　熊本悦子　東健　黒田輝, MR内視鏡による胃壁内血管イメージングの試み, 第35回日本磁気共鳴医学会　講演抄録集, EP-1-106, pp328 (2007.9)
+八尾佳宏，貝原俊也，指尾健太郎，森川幸祐, 機械加工ジョブショップにおけるオークション型スケジューリング方式の研究―オークションを用いた設備とワークのマッチングによる動的変化への対応―, 精密学会2007年度関西地方定期学術講演会講演論文集, pp.65-66 (2007.8)
+八尾佳宏、貝原俊也、指尾健太郎, 機械加工ジョブショップにおけるオークション型スケジューリング方式の研究（シミュレーションによるオークションパラメータの調整について）, 日本機会学会　生産システム部門講演会2007　講演論文集, PP. 25-26 (2007.7)
+八尾佳宏，貝原俊也，指尾健太郎, 機械加工ジョブショップにおけるオークション型スケジューリング方式の研究―構成要素のスペック変更による動的変化への対応―, 日本機械学会生産システム部門講演会2007講演論文集, pp.25-26 (2007.7)
+指尾健太郎、貝原俊也、*藤井進, APS方式における未確定受注が生産効率に及ぼす影響の解析―加工・組立型工場における実験, 日本機会学会　生産システム部門講演会２００７　講演論文集, pp.65-66 (2007.7)
+Toshiya Kaihara, Takatoshi Kanno, A study on optimised collaboration in Virtual Enterprise with Lagrangian decomposition coordination method, Proceedings of the 51st Annual Conference of the Institute of Systems, Control and Information Engineers, pp.59-60 (2007.5)
+Toshiya Kaihara, Kentaro Sashio, Susumu Fujii, Katsuhito Miura, A proposal of optimization method based on combinatorial auction for resource allocation problem in cell manufacturing systems, Proceedings of the 51st Annual Conference of the Institute of Systems, Control and Information Engineers, pp.73-74 (2007.5)
+Toshiya KAIHARA, Kentaro SASHIO, Yoshihiro YAO, Kosuke MORIKAWA, A Study on Auction Type Scheduling Method for Job Shop Machining System - Application into Work Dispatching in Dynamic Environment -, Proceedings of the 51st Annual Conference of the Institute of Systems, Control and Information Engineers, pp.77-78 (2007.5)
+Kentaro Sashio, Toshiya Kaihara, Susumu Fujii, Yuya Seki, Analysis of Unconfirmed Orders for Productivity under APS System - Experiments with Distributed Virtual Factory, Proceedings of the 51st Annual Conference of the Institute of Systems, Control and Information Engineers, pp.81-82 (2007.5)
+Daisuke Kokuryo, Toshiya Kaihara, Etsuko Kumamoto, Susumu Fujii, Kagayaki Kuroda, Method for Tracking Focal Point in Magnetic-Resonance-guided Focused Ultrasound Surgery, Proceedings of the 51st Annual Conference of the Institute of Systems, Control and Information Engineers, pp.655-656 (2007.5)
+2006
+Yoshihiro Yao, Toshiya Kaihara, Kentaro Sashio, A Study on Auction Type Scheduling Method for Machining Job Shop 2nd Report, Integration of Real-time Scheduling and Simulation Method, Proceedings of JSPE Semestrial Meeting - 2007 JSPE Spring Conference, pp.963-964 (2007.3)
+Toshiya Kaihara, Kentaro Sashio, Hiroko Yokose, *Susumu Fujii, *Masashi Kurahashi, *Nobuhiro Hayashi, A Study on autonomous operation for cell manufacturing systems with auction method - Basic analysis of auction method and operational guideline -, Proceedings of JSPE Semestrial Meeting - 2007 JSPE Spring Conference, pp.961-962 (2007.3)
+Toshiya Kaihara, Kentaro Sashio, Yuya Seki, *Susumu Fujii, *Toyohiro Umeda, Basic Analysis of Production Control System Based on Product Cost - Evaluating the Effects of Planning Parameters on Productivity -, Proceedings of JSPE Semestrial Meeting - 2007 JSPE Spring Conference, pp.955-956 (2007.3)
+貝原俊也, 生産システムの効率化を目指した計画・運用法について, NIRO 第三回生産システムの合理化セミナー,  (2007.1)
+貝原俊也, 生産システムの効率化を目指した計画・運用法について, NIRO 第三回生産システムの合理化セミナー,  (2006.12)
+貝原俊也 垣原康平, 複雑系仮想市場に基づくマルチエージェント型仮想市場モデルの一提案, 計測自動制御学会第40回システム工学部会研究会 講演論文集, pp.1-6 (2006.12)
+T. Kaihara, K. Sashio, H. Yokose, *S. Fujii, *M. Kurahashi, *N. Hayashi, A proposal of auction based scheduling method for cell manufacturing system -Investigation of priority orders management-, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SA5-2-3 (2006.11)
+貝原俊也，酒井唯史, 非均質型Particle Swarm Optimizationを用いた多目的最適化手法の一提案～適応的アルゴリズムの構築～, 計測自動制御学会 システム・情報部門学術講演会2006講演論文集, pp. 171-176 (2006.11)
+貝原俊也，松永祐樹, 市場指向プログラミングを用いたハイブリッドスケジューリングの一提案～動的生産スケジューリング問題を対象に～, 計測自動制御学会 システム・情報部門学術講演会2006講演論文集, pp.183-186 (2006.11)
+D. Kokuryo, T. Kaihara, E. Kumamoto *S. Fujii, *K. Kuroda, Method of Tracking Focal Position of Ultrasound Treatment using Magnetic Resonance Imaging, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SU5-3-6 (2006.11)
+K. Murakami, *Y. Matsuoka, *M. Matsumoto, E. Kumamoto, *K. Kuroda, T. Kaihara, *S. Fujii, Estimation of MR-Endoscope Position using Sensor Coils for Gradient Magnetic Field, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SU5-3-1 (2006.11)
+Opadiji Jayeola Femi，Toshiya Kaihara, A Study on the Effects of Consumer Preference on Profitability in a Mass Customization Supply Chain Model, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SU3-1-6 (2006.11)
+K. Sashio, *S. Fujii, T. Kaihara, Y. Seki, A Basic Analysis of APS Systems with Distributed Virtual Factory, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SA5-2-5 (2006.11)
+T.Kaihara, K.Sashio, Y.Okada, A Study on Distributed Collaborative Scheduling for Discrete Production System, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SA5-1-3 (2006.11)
+Y. Yao, T. Kaihara, K. Sashio, A Study on Auction Type Scheduling Method for Machining Job Shop - Auction Method for managing Priority Jobs -, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SA5-2-1 (2006.11)
+T. Kaihara，D .Fujii, *M. Tanaka, *S. Sato, A study on marketing methodology with multiagent systems -Inverse simulation analysis on evolutionary process of product attributes-, Proceedings of the Japan Joint Automatic Control Conference  THE 49TH JAPAN JOINT AUTOMATIC CONTROL CONFERENCE, SU3-1-5 (2006.11)
+貝原俊也, 生産システムの効率化を目指した計画・運用法について, NIRO 第二回生産システムの合理化セミナー,  (2006.10)
+Kentaro Sashio, *Susumu Fujii, Toshiya Kaihara, Hiroko Yokose,  *Masashi Kurahashi, *Nobuhiro Hayashi, An Analysis of Production Planning and Scheduling Algorithm with Auction Method for Cell Manufacturing Systems, Proceedings of JSPE Semestrial Meeting 2006 JSPE Autumn Conference, pp.15-16 (2006.9)
+国領大介，黒田輝，ビルギン ケセルジ，岡田篤哉，熊本悦子，藤井進，貝原俊也, 血管マーカーを用いた肝臓の呼吸性移動・変形解析, 第34回日本磁気共鳴医学会講演抄録集, pp.327 (2006.9)
+Yoshihiro Yao, Toshiya Kaihara, *Susumu Fujii, Kentaro Sashio, A Study on Auction Type Scheduling Method for Machining Job Shop 1st Report, Autonomous Decision Making Method for Machining Order and Lot Size, Proceedings of JSPE Semestrial Meeting 2006 JSPE Autumn Conference, pp.13-14 (2006.9)
+Toshiya Kaihara, Kentaro Sashio, Yuya Seki, *Susumu Fujii, *Toyohiro Umeda, A Study on Production Planning Based on Production Cost with Distributed Virtual Factory - An Effective Strategy for Re-planning Period Setting -, Proceedings of JSPE Semestrial Meeting 2006 JSPE Autumn Conference, pp.29-30 (2006.9)
+Opadiji Jayeola Femi，Kaihara Toshiya，Sashio Kentaro, Microeconomic Characterization of Supply Network Integration in a Multi-product Manufacturing Environment, Proceedings of JSPE Semestrial Meeting 2006 JSPE Autumn Conference, pp.27-28 (2006.9)
+貝原俊也, 生産システムにおける自律分散型運用の取り組み, 精密工学会関西支部　第35回イブニングセミナー,  (2006.7)
+貝原俊也, 生産システムの効率化を目指した計画・運用法について, NIRO 第一回生産システムの合理化セミナー,  (2006.7)
+貝原俊也，藤井進，松永祐樹, 完全競争市場下における市場指向プログラミングの単一工程並列機械生産スケジューリング問題への適用, 日本機械学会生産システム部門講演会2006講演論文集, pp.43-44 (2006.6)
+
+Susumu Fujii, Toshiya Kaihara, Kentaro Sashio, Hiroko Yokose, Masashi Kurahashi, Nobuhiro Hayashi, A Proporal of Auction Based Scheduling for Cell Manufacturing System - Integration between Daily Planning and Scheduling, Proceedings of the 50th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.213-214 (2006.5)
+Kentaro Sashio, Susumu Fujii, Toshiya Kaihara, Development of Communication System for Distributed Simulation under Global Manufacturing Environment, Proceedings of the 50th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.241-242 (2006.5)
+Toshiya Kaihara, susumu Fujii, Tadashi Sakai, A Basic Analysis of Particle Swarm Optimization for Multiobjective Optimization Problems, Proceedings of the 50th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.225-226 (2006.5)
+Susumu Fujii, Toshiya Kaihara, Kentaro Sashio, Shinya Inao, Yuya Seki, Toyohiro Umeda, A Study on Cost-based Lot Sizing in Decomposition-Type Manufacturing, Proceedings of the 50th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.237-238 (2006.5)
+Yoshihiro Yao, Toshiya Kaihara, Susumu Fujii, Yuko Tanahashi, Research of the auction type scheduling method for machining job shop, Proceedings of the 50th Annual Conference of the Institute of Systems, Control and Information Engineers, pp.211-212 (2006.5)
+2005
+指尾健太郎・藤井進・貝原俊也・羽田真希, 経営資源に基づいた在庫管理方式の効率性評価, 2006年度精密工学会春季大会学術講演会　講演論文集, CD-ROM pp.83-84 (2006.3)
+貝原俊也，藤井進，浜口賢一, 動的環境下における完全競争型仮想市場の効率的資源配分に関する研究 ―市場を構成するエージェント及び財の量的変化を対象に―, 電気学会研究会資料 IIC-06-98, pp.41-46 (2006.3)
+貝原俊也，藤井進，成川輝生, バーチャルエンタプライズ環境下における全体利益向上を目指した企業間協調に関する研究, 計測自動制御学会関西支部 平成17年度シンポジウム講演論文集 pp.105-108 (2006.3)
+貝原俊也，藤井進，小原裕貴, 学習エージェントより構成される複雑系仮想市場に関する研究, 計測自動制御学会関西支部 平成17年度シンポジウム講演論文集 pp.101-104 (2006.3)
+貝原俊也，藤井進，渡邉舞, 消費者行動を内包したエージェント型サプライネットワークモデルの設計, 計測自動制御学会　第38回システム工学部会研究会講演論文集, pp.99-104 (2006.3)
+藤井　進・貝原俊也・藤本智子・指尾健太郎, 格子型機械配置生産システムにおけるレイアウト創成機能に関する研究, 2006年度精密工学会春季大会学術講演会　講演論文集, CD-ROM pp.81-82 (2006.3)
+貝原俊也，藤井進，酒井唯史, 非均質型Particle Swarm Optimizationを用いた多目的最適化手法の一提案, 計測自動制御学会 システム・情報部門学術講演会2005講演論文集 pp. 297-300 (2005.11)
+貝原俊也，藤井進，浜口賢一, 動的な完全競争仮想市場における学習エージェントの効率性, 計測自動制御学会 システム・情報部門学術講演会2005講演論文集 pp.268-273 (2005.11)
+貝原俊也，藤井進，小原裕貴, 複雑系仮想市場における効率的資源配分メカニズムに関する研究, 計測自動制御学会 システム・情報部門学術講演会2005講演論文集 pp.319-324 (2005.11)
+貝原俊也，藤井進，成川輝生, 企業間協調における情報共有の有効性に関する研究, 第一回横幹連合コンファレンス講演論文集 pp.223-224 (2005.1)
+指尾健太郎、藤井進、貝原俊也, 分散仮想工場を用いた生産管理方式の特性解析―組立型生産を対象に―, スケジューリング学会　スケジューリング・シンポジウム2005講演論文集 p.154-157 (2005.9)
+国領大介、黒田輝、鈴木恭平、Bilgin Keserci、岡田篤哉、熊本悦子、藤井進, MRガイド下集束超音波療法のための自己参照型温度分布画像化法の最適化, 第33回日本磁気共鳴医学会大会, 136A, pp.207 (2005.9)
+国領大介、藤井進、熊本悦子、貝原俊也、黒田輝, MRガイド下集束超音波による子宮筋腫治療のための自己参照型温度分布画像化法の最適化, 生体医工学シンポジウム2005, 1-1 (2005.9)
+藤井　進・貝原俊也・指尾健太郎・横瀬紘子（神戸大）・林　伸広（オムロン）, オークション方式を用いたセル生産システムの自律的運用法に関する研究, 2005年度精密工学会秋季大会学術講演会講演論文集 p.631-632 (2005.9)
+指尾健太郎・藤井　進・貝原俊也・稲生進也（神戸大）・梅田豊裕（神戸製鋼）, 分散仮想工場を用いた分解型生産システムにおけるAPS方式の特性評価, 2005年度精密工学会秋季大会学術講演会講演論文集 p.633-634 (2005.9)
+藤井　進・貝原俊也・指尾健太郎・藤本智子, 格子型機械配置生産システムにおける自律的レイアウト機能に関する研究, 2005年度精密工学会秋季大会学術講演会講演論文集 p.635-636 (2005.9)
+指尾健太郎、藤井進、　貝原俊也, 分散仮想工場を用いた生産管理方式の多面的性能評価―APS方式における実験―, 日本機械学会　生産システム部門講演会2005講演論文集 P.23-24 (2005.6)
+貝原俊也、藤井進、渡邉舞, 企業間交渉における消費行動のモデル化に関する一試み, 日本機械学会　生産システム部門講演会2005講演論文集 p.47-48 (2005.6)
+貝原俊也、藤井進, 寡占市場型仮想市場の資源配分問題への適用, 日本機械学会　生産システム部門講演会2005講演論文集 p.45-46 (2005.6)
+藤井進、貝原俊也、指尾健太郎、稲尾進也、(神戸製鋼所)　梅田豊裕, 生産コストに基づくロットサイズ設定法に関する基礎研究―分解型生産システムにおける実験―, 第49回システム制御情報学会研究発表講演会講演論文集 p.45-46 (2005.5)
+国領大介、藤井進、熊本悦子、貝原俊也、(財)先端医療振興財団　黒田輝, 自己参照法を用いた3次元MR温度分布計測法, 第49回システム制御情報学会研究発表講演会講演論文集 p.537-538 (2005.5)
+貝原俊也、藤井進、浜口賢一, 市場規模の変動する完全競争型仮想市場における均衡解の分析, 第49回システム制御情報学会研究発表講演会講演論文集 p.143-144 (2005.5)
+貝原俊也、藤井進、成川輝生, バーチャルエンタプライズ環境下における情報共有の効果に関する研究, 第49回システム制御情報学会研究発表講演会講演論文集 p.101-102 (2005.5)
+貝原俊也、藤井進、小原裕貴, 複数取引環境下における複雑系仮想市場に関する研究, 第49回システム制御情報学会研究発表講演会講演論文集 p.87-88 (2005.5)
+指尾健太郎、藤井進、貝原俊也, コスト基準スケジューリングの性能評価, 第49回システム制御情報学会研究発表講演会講演論文集 p.47-48 (2005.5)
+2004
+指尾健太郎、藤井進、貝原俊也 ,分散仮想工場を用いたAPS方式の特性評価に関する研究 ，2005年度精密工学会春季大会学術講演会講演論文集（2005.3）
+貝原俊也、藤井進、高木正仁 ,資源分配問題のマルチエージェント型仮想市場を用いた一解法～寡占市場的アプローチ，2005年度精密工学会春季大会学術講演会講演論文集（2005.3）
+杉森光洋、藤井進、貝原俊也、指尾健太郎、梅田豊裕（神戸製鋼所）,生産システム運用効率のコスト基準評価に関する実験的考察―分散型生産に対する押し出し型管理法の適用 ，2005年度精密工学会春季大会学術講演会講演論文集（2005.3）
+関俊哉、藤井進、貝原俊也、指尾健太郎 ,格子型機械配置生産システムのオークションベース運用法―AGV、パレットの運用― ，2005年度精密工学会春季大会学術講演会講演論文集（2005.3）
+貝原俊也，藤井進，高木正仁 ,寡占環境下における仮想市場の一提案 ，第35回 SICEシステム工学部会研究会「エージェントベース社会システム科学の創出」（2005.3）
+貝原俊也，藤井進，浜口賢一 ,市場規模が変動する完全競争市場を対象とした市場指向プログラミングの適用 ，計測自動制御学会システム・情報部門学術講演会2004講演論文集（2004.11）
+貝原俊也，藤井進，高木正仁 ,資源配分問題に対する不完全競争市場を用いた均衡解導出法の一提案～資源集約型産業を対象に ，第四回サイバネティック・フレキシブル・オートメーション・シンポジウム講演論文集（2004.11）
+杉森光洋，藤井進，貝原俊也，指尾健太郎,梅田豊裕 ,分解型生産システムにおける生産管理のコスト基準特性評価 ，2004 年度精密工学会秋季大会学術講演会講演論文集（2004.9）
+指尾健太郎, 藤井進，貝原俊也,コスト基準スケジューリングに関する基礎研究，2004 年度精密工学会秋季大会学術講演会講演論文集（2004.9）
+Keserci Bilgin，国領大介，熊本悦子，松岡雄一郎，黒田輝 ,Sefl-Referenced based MR Temperature Imaging Feedback System for liver Thermal Ablations ，第32回日本磁気共鳴医学会大会抄録集（2004.9）
+国領大介，黒田輝，鈴木恭平，Keserci Bilgin，熊本悦子，藤井進,自己参照型差分法を用いた温度計測の定量性 ，第32回日本磁気共鳴医学会大会抄録集（2004.9）
+松岡雄一郎，黒田輝，熊本悦子，斉藤明人，峯　泰治，柴崎隆男，森康洋，Bilgin Keserci,病変組織深達度診断のための内視鏡-MRシステム，第32回日本磁気共鳴医学会大会抄録集(2004.9）
+森康洋，松岡雄一郎，黒田輝，熊本悦子，Bilgin Keserci，藤井進,傾斜磁場を用いたMR内視鏡位置姿勢検出法の基礎検討，第32回日本磁気共鳴医学会大会抄録集（2004.9）
+関俊哉，藤井進，貝原俊也，指尾健太郎,格子型機械配置生産システムにおける自律的ライン再構成に関する研究 ，2004 年度精密工学会秋季大会学術講演会講演論文集（2004.9）
+藤井進，貝原俊也，藤本智子,格子型機械配置生産システムにおける自律的レイアウト創生に関する研究―レイアウト創生機能の性能評価―，精密工学会2004年度関西地方定期学術講演会講演論文集（2004.7）
+貝原俊也，藤井進，高木正仁 ,不完全競争市場における市場指向プログラミングの特性評価―完全競争市場との比較，日本機械学会生産システム部門講演会2004講演論文集（2004.6）
+藤井進、貝原俊也、指尾健太郎、杉森光洋、梅田豊裕, 大規模工場における生産スケジューリング法のコスト指標に基づく性能評価，第48回システム制御情報学会研究発表講演会講演論文集（2004.5）
+指尾健太郎、藤井進、貝原俊也,製品コストを指標とする生産システムの運用法に関する基礎研究，第48回システム制御情報学会研究発表講演会講演論文集（2004.5）
+He Bai, Susumu Fujii, Toshiya Kaihara ,A Study on Implementing Automated Model Updating for Manufacturing System Simulation ，第48回システム制御情報学会研究発表講演会講演論文集（2004.5）
+貝原俊也、藤井進、吉村徳泰,市場規模の動的変化を考慮した市場指向プログラミングの特性評価 ，第48回システム制御情報学会研究発表講演会講演論文集（2004.5）
+藤井進、貝原俊也、関俊哉,格子型機械配置生産システムにおける専用化・汎用化による自律的ライン再構成に関する研究 ，第48回システム制御情報学会研究発表講演会講演論文集（2004.5）
+2003
+貝原俊也、藤井進、吉村徳泰，仮想市場における均衡解の導出に関する研究～動的市場への拡張～ ，第32回 SICEシステム工学部会研究会「社会・組織・経済におけるエージェント指向のシステムモデリング～エージェント指向社会科学への文理融合型の接近」（2004.3）
+藤井進、貝原俊也、宇都宮拓真，動的環境下における格子型配置機械群の自律的再構成機能に関する研究―MCの専用化・汎用化アルゴリズム―，2004年度精密工学会春季大会学 術講演会，（2004.3）
+指尾健太郎、藤井進、貝原俊也，分散仮想工場を用いた押し出し型生産方式の特性評価，2004年度精密工学会春季大会学術講演会，（2004.3）
+貝原俊也、藤井進、吉村徳泰，マルチエージェント型仮想市場によるパレート最適解の導出法，平成16年度電気学会全国大会講演論文集（2004.3）
+貝原俊也，藤井進，大家健司，社会科学のメタファに基づくマルチエージェントパラダイム ，第四回 計測自動制御学会システムインテグレーション部門講演会(SI 2003)講演論文集(CD-ROM)（2003.12）
+山本洋介，熊本悦子，Bilgin Keserci，原田泰樹，國領大介，黒田輝，自己参照型温度分布画像化法における位相不連続の補正法 ，（2003.12）
+國領大介，黒田輝，熊本悦子，原田泰樹，Bilgin Keserci，藤井進，自己参照型差分法を用いたMRI温度分布計測における位相推定法の最適化，第12回日本コンピュータ外科学会論文集（2003.12）
+藤井進，貝原俊也，宇都宮拓真，格子型配置機械群の動的環境下における工具配分法に関する研究，第46回自動制御連合講演会講演論文集(CD-ROM)（2003.11）
+張　小明、藤井　進、貝原　俊也，大規模FMSにおける工具・ジョブ配分問題に関する基礎研究，第三回CFAシンポジウム，（2003.10）
+原田泰樹、黒田輝、熊本悦子、国領大介、Bilgin　 Keserci、藤井進，自己参照型差分法によるMRI温度分布計測，計測自動制御学会関西支部シンポジウム，（2003.10）
+指尾健太郎、藤井進、貝原俊也，分散仮想工場を用いた部品在庫管理に関する研究，2003年度精密工学会秋季大会学術講演会，（2003.10）　
+貝原俊也、藤井進，マルチエージェント型生産・流通システムモデルの一提案～多段階交渉プロトコルの特性評価，2003年度精密工学会秋季大会学術講演会，（2003.10）
+熊本悦子、小松真子、小野公嗣、安部久志、岡田篤哉、Bilgin　 Keserci、松岡雄一郎、黒田輝、藤井進，K-spaceを利用したMR-IVRカテーテル抽出に関する一手法，第31回日本磁気共鳴医学会大会，（2003.9）
+黒田輝、原田泰樹、国領大介、松岡雄一郎、浅見大輔、Keserci Bilgin、岡田篤哉、熊本悦子、藤井進，自己参照・体動追従型温度分布計測法，第31回日本磁気共鳴医学会大会，(2003.9)　
+藤井進，貝原俊也，宇都宮拓真，関俊哉，格子型機械配置生産システムにおける自律的ライン形成に関する基礎研究，日本機械学会2003年度年次大会講演論文集（2003.8）
+熊本悦子、小野公嗣、小松真子、黒田輝、藤井進，MRガイド下IVRにおける3次元カテーテルトラッキング，第42回日本エム・イー学会大会，(2003.6)
+藤井進、貝原俊也、後藤敏之、小林哲也、梅田豊裕，コスト指標を取り入れた分散型仮想工場に関する研究，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+貝原俊也、藤井進、大家健司，複雑系経済学に基づく人工市場モデルの構築―知識集約型財を対象に― ，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+藤井進、貝原俊也、諏訪晴彦、宇都宮拓真，格子型配置機械群の効率的運用法に関する研究―MCの専用化・汎用化アルゴリズム― ，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+貝原俊也、藤井進，環境適応型人工システムの構築～社会科学的アプローチ ，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+貝原俊也、藤井進、吉村徳泰，動的なワルラス型仮想市場の構築に関する研究 ，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+指尾健太郎、藤井進、貝原俊也，コストを指標としたスケジューリング法に関する一提案 ，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+張小明、藤井進、貝原俊也，工具交換を考慮したFMSにおける工具運用法に関する研究，第47回システム制御情報学会研究発表講演会講演論文集（2003.5）
+2002
+貝原俊也，ITを活用した工場管理・企業経営のための意思決定プラットフォーム，(2003.3)
+貝原俊也，藤井進，吉村徳泰，ワルラス型仮想市場の取引解に対するパレート最適性への一考察，第28回 SICEシステム工学部会研究会，(2003.3)
+貝原俊也，藤井進，大家健司，複雑系経済学に基づく人工市場モデルの構築，日本機械学会生産システム部門講演会，(2003.3)
+貝原俊也，藤井進，吉村徳泰，市場指向プログラミングによるワルラス型仮想市場の構築，日本機械学会生産システム部門講演会，(2003.3)
+貝原俊也，藤井進，佐藤弘章，マルチエージェントシステムを用いた企業間合意形成手法の一提案，日本機械学会生産システム部門講演会，(2003.3)
+貝原俊也，藤井進，環境適応型知的人工システムの構築に向けて ～社会科学的アプローチ，日本機械学会生産システム部門講演会，(2003.3)
+張小明，藤井進，貝原俊也，工具再配分を考慮したFMSスケジューリング手法に関する研究，2003年度精密工学会春季大会，(2003.3)
+指尾健太郎，藤井進，貝原俊也，分散仮想工場を用いた生産システム運用条件の設定に関する基礎研究～押し出し型生産方式について，2003年度精密工学会春季大会，(2003.3)
+藤井進，グローバル生産時代における生産システムシミュレーション―経営支援ツールとして―，(2003.3)
+貝原俊也，ITを活用した工場管理・企業経営のための意思決定プラットフォーム，第22回神戸大学工学部サミット，(2003.1)
+貝原俊也，藤井進，吉村徳泰，ワルラス型仮想市場の取引解に対するパレート最適性の検証，情報処理学会，(2003.1)
+大家健司，貝原俊也，藤井進，複雑系経済学に基づく人工市場モデルの一提案，SICEシステムインテグレーション部門大会2002，(2002.12)
+貝原俊也，ヒューマンテクノロジを中心とした新しいものづくり，第27回システム工学部会研究会，(2002.12)
+貝原俊也、藤井進、大家健司，複雑系経済学に基づく人工市場モデルの一提案―サプライネットワークへの適用，第３回SICEシステムインテグレーション部門講演会（SI 2002），神戸産業振興センター，(2002.12)
+貝原俊也，藤井進，環境ダイナミクスに適応する知的人工システムの構築に向けて～社会科学的アプローチ，第45回自動制御連合講演会，(2002.11)
+張小明，貝原俊也，藤井進，FMSにおけるヒューリスティックな工具・ジョブ配分法に関する研究，第二回CFAシンポジウム，(2002.11)
+貝原俊也，藤井進，吉村徳泰，市場指向プログラミングを用いた仮想市場に関する研究，第45回自動制御連合講演会，(2002.11)
+貝原俊也、藤井進、吉村徳泰，市場指向プログラミングを用いた仮想市場の構築に関する研究，第45回自動制御連合講演会，東北大学，(2002.11)
+貝原俊也、藤井進、佐藤弘章，バーチャルエンタプライズにおける企業間合意形成アルゴリズムの一提案，計測自動制御学会　システム・情報部門学術講演会2002，理化学研究所・横浜研究所　ゲノム科学総合研究センター，(2002.11)
+貝原俊也，藤井進，江下善行，宇都宮拓真，社会的交渉に基づく自律分散型リアルタイムスケジューリングの一提案～矩形型機械配置生産システムを対象に，スケジューリングシンポジウム2002，(2002.10)
+指尾健太郎、藤井進、貝原俊也，生産管理システムと統合可能な生産シュミレータのモデル化，精密工学会秋季大会，熊本大学工学部，(2002.10)
+藤井進、貝原俊也、北村章*、梅田豊裕*、後藤敏之，生産システムのコスト評価に関する基礎研究―アルミ板圧延ラインへの適用，精密工学会秋季大会，熊本大学工学部，(2002.10)
+貝原俊也，情報技術を活用したこれからの「ものづくり」～生産管理の視点から，(2002.10)
+指尾健太郎，藤井進，貝原俊也，データベース統合による分散仮想工場の構築，日本機械学会2002年度年次大会，(2002.9)
+藤井進、貝原俊也、宇都宮拓真，格子型配置機械群におけるMC専用化に関する研究，2002年度機械学会年次大会，東京大学工学部，(2002.9)
+原田泰樹、黒田輝*、浅見大輔*、熊本悦子、岡田篤哉*、安部久志*、ビルギン・ケセルジ*、藤井進，MR温度計測における有限要素法を用いた体動補正，日本磁気共鳴医学会大会，京王プラザホテル，(2002.9)
+原田泰樹，黒田輝*，浅見大輔*，熊本悦子，岡田篤也*,安部久志*，ビルギンケセルジ*，藤井進，MR温度計測における有限要素法を用いた体動補正，第30回日本磁気共鳴医学会大会，京王プラザホテル，(2002.9)
+藤井進，貝原俊也，張小明，工具室を考慮したFMSにおけるスケジューリング手法に関する研究，日本機械学会2002年度年次大会，(2002.9)
+藤 進，貝原俊也，江下善行，格子型機械配置生産システムにおける自律分散スケジューリング，電気学会 電子・情報・システム部門大会，(2002.9)
+佐藤弘章，貝原俊也，藤井進，ヴァーチャルエンタプライズにおける合意形成へのゲーム論的アプローチ，電気学会 電子・情報・システム部門大会，(2002.9)
+岡田篤也*,黒田輝*，安部久志*，Bilgin Keserci*，Azzam Khankan*,熊本悦子，村上卓道*，中村仁信*，Microwave Ablation of Poricine Livers Assisted with 3D Temperature Monitoring with an Open MR，第30回日本磁気共鳴医学会大会，京王プラザホテル，(2002.9)
+小野公嗣，熊本悦子，ビルギンケセルジ*，安部久志*，岡田篤也*，黒田輝*，藤井進，ステレオスコピックプロジェクション法を用いたカテーテルトラッキングシステムの開発，第30回日本磁気共鳴医学会大会，京王プラザホテル，(2002.9)
+指尾健太郎、藤井進、貝原俊也，分散仮想工場における生産管理機構の実装，2002年度関西地方定期学術講演会　精密工学会関西支部，近畿大学生物理工学部，(2002.8)
+T . Kaihara, S. Fujii, H. Sato，A study on partnering algorithm based on N-person cooperative game in Virtual Enterprise，第41回計測自動制御学会学術講演会，(2002.8)
+貝原俊也，コンピュータ上に構築されるバーチャルワールド-人工社会・経済・組織-，神戸大学工学部公開講座，(2002.7)
+貝原俊也，社会学的マルチエージェントによるバーチャルワールド～仮想企業(VE)，仮想社会の構築に向けて～，(2002.6)
+後藤敏之，藤井進，貝原俊也，北村章*，梅田豊裕*，製品コストのABC分析に関する基礎研究～アルミ板圧延ラインを対象とした一試行，第46回システム制御情報学会研究発表講演会，(2002.5)
+大家健司，貝原俊也，藤井進，複雑系経済学に基づく人工市場モデルに関する基礎研究，第46回システム制御情報学会研究発表講演会，(2002.5)
+張小明，藤井進，貝原俊也，工具室を考慮したFMSにおける工具の共有方策に関する研究，第46回システム制御情報学会研究発表講演会，(2002.5)
+貝原俊也，藤井進，佐藤弘章，購買者行動モデルを用いた企業間合意形成アルゴリズムの一提案，第46回システム制御情報学会研究発表講演会，(2002.5)
+江下善行、藤井進、貝原俊也，矩形機械群の自律的運用法に関する研究，第46回システム制御情報学会研究発表講演会，(2002.5)
+白鶴，藤井進，貝原俊也，An adaptive simulation framework for the manifacturing system - Changing data agent framework focused，第46回システム制御情報学会研究発表講演会，(2002.5)
+安部久志*，村上卓道*，黒田輝*，熊本悦子，岡田篤也*，ビルギンケセルジ*，アッザムカンカン*，堀雅敏*，中村仁信*，MRIガイド下血管系IVRシステム:In vivoにおけるchateter tracking study，第61本医学放射線学会学術発表会，神戸ポートピアホテルなど，(2002.4)
+2001
+藤井進，貝原俊也，張小明，工具室を考慮したFMSにおける二段階工具運用方法に関する研究，2002年度精密工学会春季大会，(2002.3)
+貝原俊也，南健介*，多段階交渉プロトコルのダイナミズム評価，SICE第25回システム工学部会研究会「人工社会・組織・経済の基礎理論と応用」，(2002.3)
+藤井進，貝原俊也，指尾健太郎，分散仮想工場に関する研究-シミュレータ統合におけるデータベースの利用-，2002年度精密工学会春季大会，(2002.3)
+藤井進，貝原俊也，宮本良平，サプライウエッブにおけるゲーム論的企業間交渉に関する研究，2002年度日本OR学会春季研究発表会，(2002.3)
+白鶴，藤井進，貝原俊也，自動アップデート機能を有する生産システムのシミュレーション・モデル，日本機械学会生産システム部門講演会2002，(2002.3)
+貝原俊也，藤井進，仮想市場を内包したマルチエージェント型サプライチェーンマネジメントの一提案，日本機械学会生産システム部門講演会2002，(2002.3)
+貝原俊也，藤井進，宮本良平，サプライネットにおける企業間交渉に基づいた意思決定法に関する研究，日本機械学会関西支部第77回定時総会講演会，(2002.3)
+白鶴，藤井進，貝原俊也，A Proposal on adaptive object model for manufacturing system simulation，第一回CFAシンポジウム，(2001.11)
+貝原俊也，藤井進，複雑系市場指向プログラミングによる仮想市場の構築とそのSCMへの適用，第一回CFAシンポジウム，(2001.11)
+藤井進，貝原俊也，指尾健太郎，分散仮想工場の構築－異なるシミュレーションソフトウエアによるエリアシミュレータの統合－，日本機械学会第3回生産加工・工作機械部門講演会，(2001.11)
+藤井進，森田浩*，張小明，工具室を考慮したFMSにおける工具計画及びスケジューリング手法に関する研究，第44回自動制御連合講演会，慶應義塾大学理工学部矢上キャンパス創想館，(2001.11)
+貝原俊也，藤井進，宮本良平，契約社会のアナロジーによるエンタプライズエージェントの交渉戦略，SICEシステム・情報部門学術講演会2001，(2001.11)
+辻竜彦, 諏訪晴彦*, 藤井進，行動ネットワークによるスケジューリング・ルールの獲得，スケジューリング・シンポジウム2001，(2001.10)
+熊本 悦子，小野 公嗣，原田 泰樹，藤井 進，堀 雅敏*，村上 卓道*，中村 仁信*，ビルギン ケセルジ*，塚元 鉄二*，竹井 直行*，黒田 輝*，開放型MRIによるIVR支援システムにおけるカテーテル立体可視化に関する基礎検討，第29回日本磁気共鳴医学会大会，つくば国際会議場，(2001.9)
+藤井進，貝原俊也，サプライウエッブ環境下におけるコスト分析への一考察，2001年度日本OR学会秋季研究発表会，(2001.9)
+安部 久志*，村上 卓道*，堀 雅敏*，岡田 篤哉*，大須賀 慶悟*，中村 仁信*，原田 泰樹，小野 公嗣，熊本 悦子，藤井 進，竹井 直行*，ビルギン ケセルジ*，塚元 鉄二*，黒田 輝*，開放型MRIによるIVR支援システムにおけるカテーテル視認性の評価，第29回日本磁気共鳴医学会大会，つくば国際会議場，(2001.9)
+貝原俊也，マルチエージェントシミュレーションと離散シミュレーション，OR学会セミナー「離散シミュレーション　－その最前線と事例－」，(2001.9)
+貝原俊也，仮想市場型ＳＣＭにおける企業エージェントの交渉戦略，平成13年電気学会電子・情報・システム部門大会，(2001.9)
+貝原俊也，具足香菜子*，需要効用を含んだサプライチェーンモデルの一考察，2001年度日本機械学会年次大会，(2001.8)
+貝原俊也，藤井進，サプライウエッブ環境下における企業間商取引の一方法論，第６回知能メカトロニクスワークショップ，(2001.8)
+貝原俊也，南健介*，マルチエージェント型サプライチェーンマネジメントの一提案，2001年度日本機械学会年次大会，(2001.8)
+藤井進，貝原俊也，宮本良平，バーチャルエンタープライズにおける構成メンバー選択に関するゲーム論的研究，2001年度日本機械学会年次大会，(2001.8)
+藤井進，e-ビジネス時代のものづくり，2001年度日本機械学会年次大会，(2001.8)
+貝原俊也，サプライチェーンマネジメントを取り巻く工学的視点からの研究動向，アジャイル生産革命－21世紀のサプライチェーン構築に向けて，(2001.7)
+貝原俊也，南健介*，マルチステージネゴシエーションによる資源配分特性，第４５回システム制御情報学会研究発表講演会，(2001.5)
+He Bai, Susumu Fujii, Toshiya Kaihara, Etsuko Kumamoto，A Basic Study on Automated Updating of Manufacturing System Simulation Model，第４５回システム制御情報学会研究発表講演会，ホテルアウィーナ大阪，(2001.5)
+貝原俊也，岩代亜希*，社会学的マルチエージェントによるサプライチェーンマネジメント，第４５回システム制御情報学会研究発表講演会，(2001.5)
+貝原俊也，大朝貴子*，複雑系市場指向プログラミングによる仮想市場の構築，第４５回システム制御情報学会研究発表講演会，(2001.5)
+貝原俊也，古隅陽子*，ワルラス型市場指向プログラミングによるデマンドチェーンモデルの構築，第４５回システム制御情報学会研究発表講演会，(2001.5)
+貝原俊也，社会学的マルチエージェントによるサプライチェーンマネジメント，第４５回システム制御情報学会研究発表講演会，(2001.5)
+貝原俊也，藤井進，森田浩*，サプライウエッブ環境下における企業間商取引アルゴリズム～経済学的マルチエージェントによるアプローチ，2001年度日本OR学会春季研究発表会，(2001.5)
+藤井 進，熊本 悦子，池戸 雅人，塚本 康夫，ラジオサージェリーにおける照射経路の数理的決定，第４５回システム制御情報学会研究発表講演会，ホテルアウィーナ大阪，(2001.5)
+藤井　進，森田　浩*，貝原俊也，岸上智広，指尾健太郎，オープン環境下での分散仮想工場の構築，第４５回システム制御情報学会研究発表講演会，ホテルアウィーナ大阪，(2001.5)
+2000
+貝原 俊也，経済社会のアナロジによるサプライチェーンマネジメント，平成13年電気学会全国大会，(2001.3)
+貝原 俊也，他，仮想市場型サプライチェーンにおけるエージェントの戦略と資源配分特性，日本機械学会関西支部第76期定時総会講演会，(2001.3)
+貝原 俊也，他，社会学的マルチエージェント手法の提案～多目的分散型リソース配分問題への適用，計測自動制御学会システム工学部会・知能工学部会共催研究会，(2001.3)
+貝原 俊也，他，複雑系市場指向プログラミングによるサプライチェーンの価格裁定，日本機械学会関西支部第76期定時総会講演会，(2001.3)
+藤井　進，分散シミュレーション技術，日本機械学会第1回ファクトリーオートメーション部門講演会，法政大学小金井キャンパス，(2001.3)
+貝原 俊也，エージェントプログラムを用いた流通システムのモデル化，日本機械学会第一回FA部門講演会，(2001.3)
+宮後　謙太郎，森田　浩，藤井　進，作業者の能力差を考慮した作業者配置に関する研究，日本機械学会第1回ファクトリーオートメーション部門講演会，法政大学小金井キャンパス，(2001.3)
+貝原 俊也，他，仮想市場を内包したグローバルＳＣＭの一提案，計測自動制御学会システム情報部門シンポジウム2000，(2000.11)
+貝原 俊也，他，仮想市場型サプライチェーンにおける企業エージェントの基本交渉戦略，第43回自動制御連合講演会，(2000.11)
+貝原 俊也、藤井 進，原田 憲二，複雑系経済学に基づいた市場価格の創発に関する研究，第43回自動制御連合講演会，(2000.11)
+藤井　進，森田　浩，田中　猛，格子型機械配置生産システムにおける自己組織化とスケジューリングに関する研究，スケジューリングシンポジウム2000，カリアック，(2000.10)
+貝原 俊也，他，複雑系市場指向プログラミングによる分散型仮想市場の構築，計測自動制御学会関西支部シンポジウム，(2000.10)
+貝原 俊也，SCMにおける仮想市場型資源配分アルゴリズムの一提案，スケジューリング・シンポジウム2000，(2000.10)
+藤井　進，貝原俊也＊，岸上智広，広域分散型生産システムシミュレーションの通信環境に関する研究，平成１２年電気学会　電子・情報・システム部門大会，関西大学，(2000.9)
+藤井　進，貝原俊也＊，森田　浩，サプライウェブ環境下のバーチャルエンタープライズ構成に関する一考察，２０００年度日本オペレーションズ・リサーチ学会秋季研究発表会，東京工業大学，(2000.9)
+林　崇文，森田　浩，藤井　進，中山徳良＊，確率的フロンティアと包絡分析法による技術変化の評価とその比較，２０００年度日本オペレーションズ・リサーチ学会秋季研究発表会，東京工業大学，(2000.9)
+貝原俊也＊，藤井　進，原田憲二，複雑系経済学に基づくサプライネットの創発，平成１２年電気学会　電子・情報・システム部門大会，関西大学，(2000.9)
+森田　浩，藤井　進，飯尾啓之，多段階並列機械群の自律的専用化，日本機械学会２０００年度年次大会，名城大学，(2000.8)
+藤井　進，貝原俊也＊，岸上智広，オープン環境下における分散仮想工場に関する研究，日本機械学会２０００年度年次大会，名城大学，(2000.8)
+貝原俊也，サプライチェーンマネジメントの研究動向について，「フレキシブルオートメーション21研究分科会」第14回研究例会，(2000.7)
+貝原 俊也，サプライチェーンマネジメントの研究動向について，システム制御情報学会「フレキシブルオートメーション21研究分科会」第14回研究例会，神戸大学滝川記念会館，(2000.7)
+藤井 進、貝原 俊也、森田 浩、岸上 智広，広域環境下で行う分散型生産システムシミュレーションにおける通信環境に関する研究，第39回計測自動制御学会学術講演会，(2000.7)
+貝原 俊也，他，複雑系市場指向プログラミングによるサプライチェーンマネジメント，第39回計測自動制御学会学術講演会，(2000.7)
+貝原 俊也，他，バーチャルミュージアム構築のための一方法論，第44回システム制御情報学会研究発表講演会，(2000.5)
+貝原 俊也，動的市場指向プログラミングによるサプライチェーンマネジメント，第44回システム制御情報学会研究発表講演会，(2000.5)
+貝原 俊也，他，仮想市場を内包した企業間商取引サーバの構築法に関する研究，第44回システム制御情報学会研究発表講演会，(2000.5)
+貝原 俊也、藤井 進、原田 憲二，自己創発による市場価格の決定法に関する研究，第44回システム制御情報学会研究発表講演会，(2000.5)
+藤井 進、貝原 俊也、森田 浩、岸上 智広，広域環境下で行う分散型生産システムシミュレーションにおける通信環境に関する研究，第44回システム制御情報学会研究発表講演会，(2000.5)
+米田さつき*，吉田稔*，藤井進，森田浩，照明空間における知覚モデルの追加学習，第４４回システム制御情報学会研究発表講演会，京都テルサ，(2000.5)
+貝原 俊也，他，複雑系市場モデルによる価格裁定のダイナミズム，第44回システム制御情報学会研究発表講演会，(2000.5)
+藤井進，鵜塚伸治，熊本悦子，塚本康夫，数理的手法によるラジオサージェリーの照射条件決定に関する研究，第４４回システム制御情報学会研究発表講演会，京都テルサ，(2000.5)
+1999
+貝原 俊也，他，複雑系市場指向プログラミングによる価格裁定のダイナミズム，平成12年電気学会全国大会，(2000.3)
+藤井 進,貝原俊也*,坂中 真弓，バーチャルエンタープライズの合意形成における交渉過程，平成12年電気学会全国大会，東京工業大学，(2000.3)
+貝原 俊也，電子商取引とe-Business，兵庫ニューメディア推進協議会情報産業専門部会，神戸市教育会館，(2000.3)
+貝原 俊也，他，バーチャルミュージアムの構成法に関する研究，日本情報考古学会第9回大会，(2000.3)
+藤井 進,貝原俊也*,森田 浩,臼井 肇，分散型仮想工場を用いたロットレベルの製品コスト分析，平成12年電気学会全国大会，東京工業大学，(2000.3)
+藤井 進,貝原 俊也,森田 浩,臼井 肇,赤瀬有美，分散型仮想工場を用いた製品コスト分析－特急品の影響について，日本機械学会関西支部第75期定時総会講演会，立命館大学，(2000.3)
+貝原 俊也，他，マルチエージェントによるエレクトリックコマースサーバの構築，平成12年電気学会全国大会，(2000.3)
+藤井進, 森田浩,十河知也,吉田稔*,米田さつき*，舞台空間の照明計画法に関する数理的考察，2000年度日本オペレーションズリサーチ学会春季研究発表会，名古屋工業大学，(2000.3)
+貝原 俊也，他，市場経済の創発メカニズムをアナロジーとする複雑系市場指向プログラミングの提案，第20回計測自動制御学会システム工学部会研究会，(2000.2)
+貝原俊也，マルチエージェント技術と企業情報システム，NEDEK研究会，(2000.2)
+藤井 進，大規模分散型仮想工場の効用に関する一考察，電気学会産業システム情報化研究会，大阪電気クラブ，(2000.1)
+貝原 俊也，生産・流通システムにおけるエージェントモデリング，電気学会 「生産・流通ネットワーク技術の産業応用」講習会，電気学会本部ビル，(1999.12)
+貝原 俊也，バーチャルエンタープライズ環境下におけるサプライチェインマネジメント，第42回自動制御連合講演会，(1999.11)
+貝原 俊也，他，インターネット上における企業間電子商取引サーバの有効性について，計測自動制御学会システム情報部門シンポジウム1999，(1999.11)
+藤井 進,貝原俊也*,森田 浩,池上 智広，広域分散型生産システムシミュレータにおける通信環境に関する研究，計測自動制御学会システム情報部門シンポジウム'99，高知工科大学，(1999.11)
+藤井 進, 貝原 俊也, 坂中 真弓，バーチャル・エンタープライズ環境下における企業間の合意形成に関する研究，第42回自動制御連合講演会，日本大学理工学部舟橋校舎，(1999.11)
+Hideo Michida, Hiroshi Morita and N. Nakayama*，Estimation of Efficiency Score under Uncertainty，National Conference of Institute for Operations Research and Management Science (INFORMS Philadelphia)，Philadelphia Mariot & Convention Center，(1999.11)
+Susumu Fujii and Hiroshi Morita，A Study on Autonomous Characterization of Parallel Arranged Machines，National Confer-ence of Institute for Operations Research and Management Science (INFORMS Philadelphia)，Philadelphia Mariot & Convention Center，(1999.11)
+貝原 俊也，サプライチェインマネジメントとマルチエージェント技術，通産省機情局（産業機械課）主催、進化型プロダクトに関する調査研究委員会，製造科学技術センター 第一会議室，(1999.11)
+藤井 進，バーチャルファクトリ　－新しい生産システムの構築・運用支援ツールとして－，第42回自動制御連合講演会，日本大学理工学部舟橋校舎，(1999.11)
+貝原俊也*, 藤井 進，マルチエージェント型生産スケジューリングにおける情報共有と文脈形成，スケジューリング・シンポジウム'99，京都産業大学，(1999.10)
+諏訪晴彦*, 藤井 進,森田 浩，ジョブショップ・スケジューリングにおける局所探索ルールの獲得，スケジューリング・シンポジウム'99，京都産業大学，(1999.10)
+Toshiya Kaihara，Agent-based Approaches in Manufacturing System and Supply Chain Management，Special Lecture in Production Engineering，University of Minho, Portugal，(1999.10)
+森田 浩, 藤井 進，1工程並列機械群の自律的な専用化と汎用化に関する研究，スケジューリング・シンポジウム'99，京都産業大学，(1999.10)
+道田 英雄, 森田 浩, 藤井 進，不確実性による非効率性を考慮した確率的DEAモデル，1999年度日本オペレーションズ・リサーチ学会秋季研究発表会，(1999.10)
+貝原 俊也，他，連想記憶モデルを用いた博物館システムの提案，日本情報考古学会第8回大会，(1999.10)
+藤井 進,熊本 悦子，多目的計画法による放射線外照射治療計画，第11回RAMPシンポジウム，九州大学国際ホール，(1999.10)
+貝原 俊也，グローバル生産／流通システムの知能化－バーチャルエンタープライズ環境下におけるサプライチェインマネジメント，第４回｢知能メカトロニクス｣ワークショップ，(1999.9)
+貝原 俊也，バーチャルエンタープライズ環境下におけるサプライチェインマネジメント，第４回｢知能メカトロニクス｣ワークショップ 特別企画：先端メカトロニクスに関する技術講演会，高知工科大学，(1999.9)
+Hiroshi Morita, Sususmu Fujii, Yasuto Tatsuta* and Yoshiharu Takata*，Economical Analysis of High Volume Flexible Manufacturing System by High Speed Processing，15th Triennial Conference of International Federation of Operations Research Society (IFORS'99)，(1999.8)
+貝原 俊也，他，マルチエージェントによるサプライチェインマネジメント，平成11年電気学会電子・情報・システム部門大会，(1999.8)
+藤井 進, 森田 浩, 荒井栄司*,杉村延広*，情報化社会における生産意思決定プロセスに関する研究，平成11年度IMS研究成果報告会，タイム２４ビル，(1999.7)
+貝原俊也*,藤井 進, 国正 聡,原田憲二，自己組織化スケジューリングにおける教示信号の効果，日本機械学会1999年度年次大会，慶應義塾大学三田キャンパス，(1999.7)
+藤井 進, 貝原俊也*,森田 浩, 大内 淳，オブジェクト志向型生産システムシミュレーションにおけるモデル構築法，日本機械学会1999年度年次大会，慶應義塾大学三田キャンパス，(1999.7)
+
+藤井 進, 森田 浩, 飯尾 啓之，並列機械群の自律的専用化に関する基礎的検討，日本機械学会1999年度年次大会，慶應義塾大学三田キャンパス，(1999.7)
+熊本悦子,藤井進,今井克也,塚本康夫，数理的手法を用いたLinac Radiosurgeryの照射条件決定法，第8回日本定位的放射線治療研究会，神戸国際会議場，(1999.7)
+藤井 進, 森田 浩, 龍田 康登*, 吉田 和久*, 高田 芳治*, 村木 俊之*，変種変量生産のためのシステム構築運用技術に関する研究開発，平成11年度IMS研究成果報告会，タイム２４ビル，(1999.7)
+藤井　進,貝原俊也*,大内　敦,坂中真弓，大規模生産システムのオブジェクト指向シミュレーションモデル，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+貝原 俊也，他，多段階交渉プロトコルを用いたサプライチェインマネジメント，第43回システム制御情報学会研究発表講演会，(1999.5)
+貝原 俊也，他，動的な効用下におけるサプライチェイン数理モデル，第43回システム制御情報学会研究発表講演会，(1999.5)
+貝原 俊也，他，多目的効用下でのサプライチェインモデル，第43回システム制御情報学会研究発表講演会，(1999.5)
+貝原 俊也，他，連想記憶型インターフェイスエージェントによる博物館システムの設計法，第43回システム制御情報学会研究発表講演会，(1999.5)
+米田 さつき*,吉田 稔*,藤井 進,森田 浩,池見 憲一，照明空間設計における官能評価のモデル化，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+吉田 稔*,米田 さつき*,藤井 進,森田 浩,十河 知也，重点照明設計における遺伝的アルゴリズムによる解法，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+藤井 進, 貝原俊也*, 国正 聡,原田 憲二，進化・学習型自己組織化スケジューリングの有効性について，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+藤井 進,諏訪晴彦*,荒木奈美，行動仮定に基づく行動選択知識の獲得 －２次元積み合わせ問題への適用－，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+尾形良征,藤井 進，目的展開における創発現象のモデル化の一試み，第43回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1999.5)
+藤井 進,貝原 俊也*, 森田 浩, 臼井 肇，バーチャルファクトリを用いた製品コスト分析の試み，日本機械学会第1回生産加工・工作機械部門講演会，京都大学，(1999.4)
+1998
+貝原 俊也、大石 哲嗣*、堀 聡*，多目的効用下の家電サプライチェイン運用法と市場モデル，平成11年電気学会全国大会，(1999.3)
+貝原 俊也、大石 哲嗣*、堀 聡*，多目的効用下の家電サプライチェイン運用法と契約ネットプロトコル，平成11年電気学会全国大会，(1999.3)
+米田 さつき*, 吉田 稔*, 藤井 進, 森田 浩, 十河 知也, 池見 憲一，照明空間デザインと官能評価のモデル化，日本オペレーションズ・リサーチ学会第3回企業事例交流会，(1999.3)
+藤井 進，森田 浩，十河 知也，吉田 稔*，米田 さつき*，舞台ベース照明の計画法に関する数理的考察，1999年度日本オペレーションズ・リサーチ学会春季研究発表会，大阪国際大学，(1999.3)
+貝原 俊也，21世紀の生産・流通システムの展望，フューチャーサイエンスクラブ，(株)ヒューテック　QCインライン研究所，(1999.3)
+貝原 俊也，マルチエージェントによるサプライチェインモデル，三菱電機(株)ソフトウエア技術部会知識情報処理専門部会講演会，三菱電機(株) 先端技術研究所，(1999.1)
+貝原 俊也，生産・流通システムのモデル化について，三菱電機技術交流会，三菱電機生産技術センター，(1998.11)
+貝原 俊也，高度情報化時代における社会の変化，(財)２１世紀ひょうご創造協会主催 ２１世紀研究サロン，(財)２１世紀ひょうご創造協会，(1998.11)
+H. Morita，Stochastic DEA Model with Recourse，Georgia Productivity Workshop III，University of Georgia，(1998.10)
+貝原 俊也*, 藤井 進，国正 聡，自己組織化スケジューリングの生産モデルにおける有効性について，スケジューリング学会生産スケジューリング・シンポジウム'98，仙台，(1998.10)
+貝原 俊也，集客都市基盤としての情報化技術について，地域づくり21世紀大学，兵庫県民会館，(1998.10)
+道田 英雄，森田 浩，藤井 進，対応のない繰り返しデータによるリコース付きDEA，1998年度日本オペレーションズ・リサーチ学会秋季研究発表会，日本大学，(1998.10)
+H. Morita, H. Michida, S. Fujii，Efficiency Analysis with Repeated Measurements by Recourse Model，INFORMS Seattle 98，Seattle，(1998.10)
+龍田 康登*，高田 芳治*，藤井 進，森田 浩，自動車部品加工における"Agile Manufacturing System"，日本機械学会第76期全国大会，東北大学，(1998.10)
+日比野 浩典*，福田 好朗*，藤井 進，生産システムシミュレーションにおけるスケーリングに関する研究　第一報　詳細度の異なるモデル間のデータ変換オブジェクトの開発，日本機械学会第76期全国大会，東北大学，(1998.10)
+藤井 進，貝原 俊也*，大内 淳，半導体生産システムのオブジェクト指向シミュレーションモデル，日本機械学会第76期全国大会，東北大学，(1998.10)
+藤井 進，森田 浩，龍田 康登*，高田 芳治*，ＦＭＳにおける自律的スケジューリング法に関する研究，1998年度精密工学会秋季大会学術講演会，北大，札幌，(1998.9)
+藤井 進，森田 浩，飯尾 啓之，龍田 康登*，高田 芳治*，大容量ＦＭＳの構築に関する研究ー分散型運用法の適用とその効果ー，1998年度精密工学会秋季大会学術講演会，北大．札幌，(1998.9)
+貝原 俊也*，藤井 進，国正 聡，進化型自己組織化搬送スケジューリングに関する研究，1998度精密工学会秋季大会学術講演会，北大，札幌，(1998.9)
+貝原 俊也，他，流通システムモデル化の一方法論，1998度精密工学会秋季大会学術講演会，(1998.9)
+日比野 浩典*，福田 好朗*，藤井 進，小島 史夫*，光行 恵司*，由良 佳之*，生産システム設計の思考プロセスをサポートするオブジェクト指向シミュレータの研究，1998年度精密工学会秋季大会学術講演会，北大，札幌，(1998.9)
+藤井 進，生産システムモデルとシミュレーション（オーガナイズセッション基調講演），1998年度精密工学会秋季大会学術講演会，北大，札幌，(1998.9)
+貝原 俊也，他，多様な価値基準をもつ家電流通組織間の商品引当て問題の一解法，平成10年電気学会産業応用部門全国大会，(1998.8)
+貝原 俊也，兵庫県・神戸市における情報化の取組み，大学連携ひょうご講座，大学連携ひょうご講座，(1998.8)
+日比野 浩典*，小島 史夫*，藤井 進，他，ライフサイクルを考慮する統合評価環境の研究ー統合評価環境DEPROSVの開発，平成10年度IMS研究成果報告会，タイム２４ビル，東京，(1998.7)
+藤井 進，森田 浩，今田 将博，飯尾 啓之，高田 芳治*，龍田 康登*，変種変量生産のためのシステム構築運用技術の研究開発，平成10年度IMS研究成果報告会，タイム２４ビル，東京，(1998.7)
+藤井 進，貝原 俊也*，森田 浩，臼井 肇，製品コストのＡＢＣ分析の一試み，精密工学会1998年度関西地方定期学術講演会，大阪市大，(1998.7)
+貝原 俊也，アジアの情報化事情について～ｼﾝｶﾞﾎﾟｰﾙを中心に，大学連携ひょうご講座，大学連携ひょうご講座，(1998.7)
+貝原 俊也，流通システムモデルの一試み，京都大学社会情報セミナー，京都大学，(1998.6)
+貝原 俊也*，藤井 進，国正 聡，進化・学習型自己組織化スケジューリングに関する研究，第42回システム制御情報学会研究発表会，京大会館，(1998.5)
+藤井 進，熊本 悦子，今井 克也，城所 正博，ラジオサージェリーにおける最適照射条件決定法に関する研究，第37回日本エム・イー学会大会，倉敷，(1998.5)
+貝原 俊也，他，多様な戦略的価値基準をもつ流通組織間の商品引当て問題に対するマルチエージェントを用いた一解法，第42回システム制御情報学会研究発表講演会，(1998.5)貝原 俊也*，藤井 進，国正 聡，高野 道憲，異質な価値基準下におけるマルチエージェント型スケジューリング，第42回システム制御情報学会研究発表講演会，京大会館，(1998.5)
+森田 浩，道田 英雄，藤井 進，リコースを用いた確率的DEA，1998年度日本オペレーションズ・リサーチ学会春季研究発表会，仙台，(1998.5)
+藤井 進，城所 正博，熊本 悦子，塚本 康夫，数理的手法を用いたガンマナイフ放射線治療計画立案支援，第42回システム制御情報学会研究発表講演会，京大会館，(1998.5)
+1997
+貝原 俊也，生産・流通システムにおけるネットワーク利用の最新動向について，(財)２１世紀ひょうご創造協会主催 ２１世紀研究サロン，(財)２１世紀ひょうご創造協会，(1998.3)
+貝原俊也*，藤井進，国正聡，進化型自己組織化スケジューリングに関する研究，日本機械学会関西支部第７３期定時総会講演会，神戸大学，(1998.3)
+貝原 俊也、大石 哲嗣*、坂本 和正*，多様な戦略的価値基準をもつ流通組織間の商品引き当て問題に対する契約ネットを用いた一解法，平成10年電気学会全国大会，(1998.3)
+貝原 俊也、大石 哲嗣*、廣田 恵美子*，多様な戦略的価値基準をもつ流通組織間の商品引き当て問題に対する市場モデルを用いた一解法，平成10年電気学会全国大会，(1998.3)藤井進，リョンコッワー，熊本悦子，塚本康夫，小林フミ子，中澤了一，冨田則明，眼底写真による透析アミロイドーシス患者の眼底白斑の抽出と解析に関する研究，日本機械学会第10回バイオエンジニアリング講演会，広島大学，(1998.1)
+岡本容典，藤井進，熊本悦子，ボルツマンマシンを用いた脳血管バイプレーン造影像の三次元構成，日本機械学会第10回バイオエンジニアリング講演会，東広島市，広島大学，(1998.1)
+藤井進，リョンコッワー，熊本悦子，塚本康夫，小林フミ子，中澤了一，冨田則明，画像処理による透析アミロイドーシス患者の眼底白斑の抽出に関する研究，平成9年電気関係学会関西支部連合大会，関西大学，(1997.11)
+森田浩，確率的効率性に関する一考察，京都大学数理解析研究所研究集会，京都大学，(1997.11)
+諏訪晴彦*，森田浩，藤井進，局所探索法に基づくスケジューリング・ルールの帰納的獲得，生産スケジューリング･シンポジウム 97，東京工業大学，(1997.10)
+藤井進、森田浩、飯尾啓之、龍田康登、高田芳治，大容量FMSの構成に関する基礎研究，1997年度精密工学会秋季大会，神戸大学，(1997.10)
+Hiroshi Morita and L. M. Seiford*，Some Characteristics on Stochastic Efficiency，INFORMS Dallas 97，Dallas, TX, USA，(1997.10)
+藤井進、森田浩、田中雅也、貝原俊也，大規模生産システムにおける生産管理法の比較，1997年度精密工学会秋季大会，神戸大学，(1997.10)
+貝原 俊也、藤井 進、国正 聡，GAによる進化型自己組織化スケジューリング，(1997.9)
+諏訪晴彦,藤井進,森田浩，ルールに基づく2目的ジョブショップ・スケジューリング，1997年度日本オペレーションズ・リサーチ学会秋季研究発表会，東京経済大学，(1997.9)
+藤井進,森田浩,今田将博，龍田康登，高田芳治，HV-FMSの経済性評価に関する研究，1997年度日本オペレーションズ・リサーチ学会秋季研究発表会，東京経済大学，(1997.9)
+貝原俊也，生産システムスケジューリング～人間中心型と自己組織化への取り組み，小松製作所 生産技術センタ，(1997.7)
+日比野浩典*，小島史夫*，藤井進，他，ライフサイクルを考慮する統合評価環境の研究ー統合評価環境DEPROSIVの開発，平成９年度ＩＭＳ研究成果報告会，タイム２４ビル，東京，(1997.7)
+藤井進，貝原俊也*,宮本哲也，田中雅也，大内淳，大規模生産システムのオブジェクト指向シミュレーションモデル，第６回インテリジェントＦＡシンポジウム，梅田スカイビル，(1997.7)
+藤井進，森田浩，飯尾啓之，高田芳治*，龍田康登*，変種変量生産のためのシステム構築運用技術の研究開発，平成９年度ＩＭＳ研究成果報告会，タイム２４ビル，東京，(1997.7)
+藤井進、森田浩、河崎利信，ＦＭＳにおける工具・部品割り当てに関する研究ー多目的資源分割問題の定式化と解法ー，第６回インテリジェントＦＡシンポジウム，梅田スカイビル，(1997.7)
+貝原俊也*，藤井進，国正聡，マルチエージェントによる自己組織化スケジューリング，第６回インテリジェントFAシンポジウム，梅田スカイビル，(1997.7)
+藤井進､熊本悦子､今井克哉，数理的手法を用いた定位的放射線治療計画，第41回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1997.5)
+諏訪晴彦､森田浩､藤井進，帰納的学習を利用したスケジューリング・ルールの自動獲得ー納期を伴うジョブショップ問題への適用，第41回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1997.5)
+Susumu Fujii, Hiroshi Morita and Hirotada MatsumotoCScheduling Method for FMS Under Tooling Constraints，INFORMS San Diego 97，San Diego, CA, USA，(1997.5)
+貝原俊也*､藤井進､国正聡、自己組織化スケジューリング手法の動特性評価，第41回システム制御情報学会研究発表講演会，大阪大学コンベンションセンター，(1997.5)
+藤井進､森田浩､岩永浩史､波田直哉、生産システムの効率性評価に関する基礎研究，1997年度日本オペレーションズ・リサーチ学会春季研究発表会，九州大学，(1997.4)
+藤井進､森田浩､金輪拓也，資源利用時間制約型複数プロジェクト計画法，1997年度日本オペレーションズ・リサーチ学会春季研究発表会，九州大学，(1997.4)
+1996
+藤井進､森田浩､飯尾啓之､龍田康登*､高田芳治*、大容量FMSの構成に関する基礎研究，日本機械学会関西支部第72期定時総会講演会，大阪産業大学工学部，(1997.3)
+貝原俊也、藤井進、国正聡，マルチエージェントによる自己組織化スケジューリングの一考察，(1997.3)
+K.Iwata,S.Fujii，New Manufacturing Era -Adaptation to Environment,Culture,Intelligence and Complexity-，29th CIRP International Seminar on Manufacturing Systems，Osaka University,Japan，(1997.3)
+藤井進､森田浩､松本博忠、工具配分制約型FMSにおけるスケジューリング法，1996年度日本オペレーションズ・リサーチ学会秋季研究発表会，大阪工業大学，(1996.11)
+諏訪晴彦､藤井進､森田浩、帰納的学習を利用したスケジューリング・ルールの自動獲得－納期を伴う多目的フローショップ問題への適用－，生産スケジューリング・シンポジウム’96，名古屋工業大学，(1996.10)
+藤井進､宮本哲也、オブジェクト指向分散型生産システムシミュレーションに関する基礎研究，日本機械学会第74回全国大会，京都，(1996.9)
+藤井進､木谷靖､荻田篤史､近江修朗*，大規模仮想生産工場の構築の一試み，日本機械学会第74期全国大会，京都，(1996.9)
+諏訪晴彦､森田浩､藤井進、帰納的学習法によるスケジューリング・ルールの自動獲得 －納期を考慮したフロー・ショップ問題への適用－，精密工学会1996年度関西地方定期学術講演会，姫路工大，(1996.8)
+藤井進，熊本悦子，杉本真紀，岡本容典*，塚本康夫、ボルツマンマシンを用いた脳血管ステレオ画像の３次元構造，第15回日本医用画像工学会大会，国立ガンセンター内・国際研究交流会館，(1996.7)
+藤井進,木谷靖,荻田篤史,宮本哲也、シミュレータ統合による分散型仮想工場構築に関する研究，第40回システム制御情報学会研究発表講演会，(1996.5)
+藤井進，熊本悦子，黒川憲之，塚本康夫，放射線外照射治療における線量分布と門数の満足化　-満足化トレードオフ法を用いた対話型手法-，第35回日本エム・イー学会大会，千里ライフサイエンスセンター，(1996.5)
+藤井進､森田浩､諏訪晴彦､舛岡征浩、行動過程に基づく行動知識の獲得 －２次元積合せ問題への適用－，第40回システム制御情報学会研究発表講演会，(1996.5)
+諏訪 晴彦，藤井 進，森田 浩、フロー・ショップ問題を対象としたスケジューリング・ルールの帰納的獲得，1996年度日本オペレーションズ・リサーチ学会春季研究発表会，小樽商科大学，(1996.4)
+河崎 利信，森田 浩，藤井 進、2目的資源分割問題に対する遺伝アルゴリズムの適用，1996年度日本オペレーションズ・リサーチ学会春季研究発表会，小樽商科大学，(1996.4)
+森田 浩，岩永 浩史，藤井 進、繰り返しデータによる確率的DEA，1996年度日本オペレーションズ・リサーチ学会春季研究発表会，小樽商科大学，(1996.4)
